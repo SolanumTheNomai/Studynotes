@@ -1,0 +1,1 @@
+- oft so hoch, dass der Atmosphärendruck, für den Gesamtdruck vernachlässigt werden kann 

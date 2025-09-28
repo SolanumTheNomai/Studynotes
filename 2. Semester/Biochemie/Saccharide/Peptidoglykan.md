@@ -1,0 +1,1 @@
+- Polysaccharidketten, welche über kurze Peptide verbunden sind (in der Bakterienzellwand vorhanden)

@@ -1,0 +1,3 @@
+- Analysieren die Stoffmengenkonzentration von biologischen Analyten (z.B. Glucose) durch Biorezeptoren (z.B. Enzyme):
+![](Pasted%20image%2020240710193012.png)
+- Glucose wird als Analyt in Matrix/Enzymschicht geleitet --> reagiert durch Enzym zu Gluconsäure und Wasserstoffperoxid --> H2O2 wandert in eine tiefere Schicht, wo es zu Protonen, Elektronen und Sauerstoff reagiert --> Elektronen wandern zur Pt-Elektrode (Transduktor) --> messbare Potenzialänderung proportional zur Glucosekonzentration (Detektor)

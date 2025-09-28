@@ -1,0 +1,3 @@
+- Riboflavin
+- wasserlöslich
+--> unterstützt die Bildung von roten Blutkörperchen 

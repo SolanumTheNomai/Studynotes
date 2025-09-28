@@ -1,0 +1,3 @@
+- Biotin
+- wasserlöslich
+--> Cofaktor: C1-Transfer

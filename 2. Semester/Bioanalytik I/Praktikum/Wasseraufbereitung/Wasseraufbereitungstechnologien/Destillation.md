@@ -1,0 +1,2 @@
+- Trennung von gelösten Stoffen durch z.B. versch. Siedepunkte 
+- nicht geeignet bei organischen Substanzen 

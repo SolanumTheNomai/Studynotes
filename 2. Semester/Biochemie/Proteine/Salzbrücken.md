@@ -1,0 +1,1 @@
+- ionische WW zwischen anionischen und kationischen Resten --> neutrale Nettoladung --> im Kern des Proteins trotz der Ladung: ![](Pasted%20image%2020240412111023.png)

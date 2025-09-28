@@ -1,0 +1,2 @@
+- PPI = Peptidyl-Prolyl-cis-trans-Isomerasen
+- katalysiert die Bindungsachsenrotation von Amid-Bindungen, bei der AS Prolin --> geschwindigkeitsbestimmende Schritt der Proteinfaltung 

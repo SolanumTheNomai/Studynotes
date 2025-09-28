@@ -1,0 +1,2 @@
+- berechnet den p-Wert für die Mittelwertsdifferenz aller Gruppen, wobei die Abweichung in einer Gruppe ausreicht
+	- Unbekannt welche Gruppe mit welcher sich signifikant unterscheidet 

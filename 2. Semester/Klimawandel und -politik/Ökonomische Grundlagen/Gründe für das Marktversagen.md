@@ -1,0 +1,3 @@
+- öffentliche Güter --> kein Güterangebot durch den Markt 
+- Allmendegüter --> Übernutzung 
+- Externe Effekte 

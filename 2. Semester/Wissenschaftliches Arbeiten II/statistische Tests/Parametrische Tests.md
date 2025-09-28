@@ -1,0 +1,1 @@
+- man geht davon aus, dass Daten eine bestimmte bestimmte Wahrscheinlichkeitsverteilung haben (aufgrund definierbare Parameter) --> z.B. Normalverteilung

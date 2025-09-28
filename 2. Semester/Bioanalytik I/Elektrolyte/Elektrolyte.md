@@ -1,0 +1,2 @@
+- chemische Verbindungen, welche in Ionen dissoziieren können 
+--> Säuren/Basen, Salze

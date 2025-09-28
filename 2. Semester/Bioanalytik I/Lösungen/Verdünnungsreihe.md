@@ -1,0 +1,3 @@
+- Verfahren, wo aus einer verdünnten Lösung eine weitere verdünnte Lösung hergestellt wird:
+![](Pasted%20image%2020240423102328.png)
+- man besitzt eine konzentrierte Lösung und eine Reihe von Gefäßen mit einem bestimmten Volumen eines Lösungsmittels --> man nimmt ein Bruchteil dieser konz. Lösung und mischt diese mit der ersten Verdünnungsreihe --> dann nimmt man ein Bruchteil der 1. Reihe und vermischt diese mit der 2. Reihe, usw. 

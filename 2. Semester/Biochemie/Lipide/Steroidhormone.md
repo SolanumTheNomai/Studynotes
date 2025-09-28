@@ -1,0 +1,2 @@
+- leiten sich vom Cholesterin ab 
+--> sehr lipophil --> gelangt in die Zelle ohne second Messenger

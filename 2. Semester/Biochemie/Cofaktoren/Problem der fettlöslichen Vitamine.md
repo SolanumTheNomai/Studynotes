@@ -1,0 +1,1 @@
+- fettlösliche Vitamine können nicht, wie wasserlösliche Vitamine beim Überschuss ausgeschieden werden --> Überdosierung möglich

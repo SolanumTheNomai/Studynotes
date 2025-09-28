@@ -1,0 +1,4 @@
+- Energiequelle/-speicher
+- Bestandteil der Erbinformation (DNA/RNA) --> Ribose
+- Strukturelemente (z.B. Cellulose)
+- Bestandteil von Proteinen und Lipiden (z.B. Glykosilierungen)

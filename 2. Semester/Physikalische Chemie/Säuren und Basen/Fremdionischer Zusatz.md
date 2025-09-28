@@ -1,0 +1,2 @@
+- Zugabe von Ionen, welche nicht im Löslichkeitsprodukt vorhanden sind 
+--> Ionen verringern die Aktivität --> Aktivitätskoeffizient nimmt ab --> da K konstant ist: Löslichkeit muss zunehmen 

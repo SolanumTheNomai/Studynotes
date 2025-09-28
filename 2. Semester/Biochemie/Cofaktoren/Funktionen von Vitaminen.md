@@ -1,0 +1,4 @@
+- wirken als Coenzyme und Hormone
+- Wasserstoffdonor/-akzeptor
+- Redoxprozesse
+- Liganden für Transkriptionsfaktoren (helfen bei der Bindung an die DNA)

@@ -1,0 +1,1 @@
+- bei Asparagin, am Rest der CONH2-Gruppe

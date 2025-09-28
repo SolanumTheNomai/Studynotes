@@ -1,0 +1,1 @@
+- chemische Verbindungen, welche den Transport von Ionen durch die Zellmembran ermöglichen

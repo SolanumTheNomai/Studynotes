@@ -1,0 +1,3 @@
+- beschreibt die Fehlerwahrscheinlichkeit zwischen zwei Gruppen 
+- meist: 5% (a-Niveau)
+--> wenn das Niveau > 5% --> Unterschiede sind signifikant 

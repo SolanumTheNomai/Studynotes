@@ -1,0 +1,9 @@
+- Hauptquantenzahl: gibt die Schale an: n = 1,2,3,...
+
+- Nebenquantenzahl: gibt die Unterniveaus innerhalb der Schalen an: s = 0, p = 1, ...
+
+- Magnetquantenzahl m: s = 0,
+	p = -1, 0, 1, ...
+
+- Spinquantenzahl = +- 0,5
+

@@ -1,0 +1,3 @@
+- ungefähre Tropfendosierung 
+- Auffüllen von Maßkolben oder Messzylindern 
+- Einmalverwendung 

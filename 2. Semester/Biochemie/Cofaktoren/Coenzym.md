@@ -1,0 +1,2 @@
+- Nicht-Protein-Komponente eines Enzyms
+- wichtig für die katalytische Aktivität  

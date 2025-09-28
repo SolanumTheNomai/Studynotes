@@ -1,0 +1,3 @@
+- Thiamin
+- wasserlöslich
+--> an Produktion von Neurotransmitter beteiligt 

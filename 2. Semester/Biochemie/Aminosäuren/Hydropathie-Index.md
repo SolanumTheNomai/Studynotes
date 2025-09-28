@@ -1,0 +1,2 @@
+- rel. Maß für die Hydrophobizität einer Aminosäure 
+--> je positiver der Index, desto hydrophober die Aminosäure

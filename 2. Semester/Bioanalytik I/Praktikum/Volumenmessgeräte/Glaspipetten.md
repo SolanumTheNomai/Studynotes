@@ -1,0 +1,2 @@
+- Verwendung: Dosierung von Flüssigkeiten 
+--> nur mit Pipettierhilfe!

@@ -1,0 +1,3 @@
+- bei nicht-parametrische Tests
+	- keine Annahme über Verteilung, aufgrund z.B. kleiner Stichproben
+	- bei Unklarheit über Sklaenniveau 

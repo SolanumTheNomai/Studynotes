@@ -1,0 +1,5 @@
+- Leucin
+- Isoleucin
+- Valin 
+- Alanin
+- Phenylalanin

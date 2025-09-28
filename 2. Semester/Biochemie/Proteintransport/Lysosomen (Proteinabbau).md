@@ -1,0 +1,2 @@
+- 50-70% des zellulären Proteinabbaus 
+- innerhalb Vesikel im sauren Milleau (pH 4-5)

@@ -1,0 +1,1 @@
+- Energieübertragung, durch einer Temperaturdifferenz zwischen System und Umgebung --> ungeordnete Bewegung von Molekülen 

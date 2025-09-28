@@ -1,0 +1,1 @@
+--> da die Arbeit w (Hubarbeit) die Teilchen nur gleichmäßig verschiebt --> keine Zunahme an Unordnung (oder Ordnung) --> keinen Einfluss auf die Entropie

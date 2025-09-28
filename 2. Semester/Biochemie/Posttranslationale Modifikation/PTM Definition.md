@@ -1,0 +1,1 @@
+- beschreibt Veränderung des Proteins/Polypeptidkette nach der Translation --> z.B. Regulation von Zellaktivität 

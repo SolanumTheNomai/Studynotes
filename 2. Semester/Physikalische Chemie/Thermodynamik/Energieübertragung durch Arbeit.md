@@ -1,0 +1,1 @@
+- Energieübertragung, mit der die Höhe eines Gewichts in der Umgebung geändert wird --> gleichgerichtete Bewegung der Moleküle

@@ -1,0 +1,1 @@
+- misst den Strom, welcher bei einer festen Potentialdifferenz zwischen zwei Elektroden fließt --> Messung des Leitwertes vom Medium 

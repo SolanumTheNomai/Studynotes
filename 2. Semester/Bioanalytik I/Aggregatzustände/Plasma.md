@@ -1,0 +1,1 @@
+- wenn ein Gas über eine definierte Temperatur hinaus erhitzt wird --> Ionisierung --> leitfähige Mischung aus Ionen, Elektronen und neutralen Atomen/Molekülen 

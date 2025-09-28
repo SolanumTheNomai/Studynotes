@@ -1,0 +1,1 @@
+- vom N-Terminus zum C-Terminus

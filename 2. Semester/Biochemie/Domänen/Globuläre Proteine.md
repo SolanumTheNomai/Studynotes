@@ -1,0 +1,3 @@
+- kompakt, "kugelförmig"
+- Faltung durch den hydrophoben Kollaps
+- durch Ausbildung von H-Brücken mit der Umgebung --> gut wasserlöslich:

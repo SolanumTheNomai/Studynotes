@@ -1,0 +1,2 @@
+- Es gibt für Proteine so viele verschieden mögliche Konformationen, dass es annähernd unendlich lange dauern würde, bis ein Protein sich richtig faltet
+- trotzdem: kleine Proteine falten sich spontan binnen Millisekunden 

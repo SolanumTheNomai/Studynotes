@@ -1,0 +1,3 @@
+- Echtzeitanalyse (direkte spektrokopische Betrachtung) --> z.B. NMR
+- Abbruchanalyse (Reaktion stoppen --> Zusammensetzung bestimmen)
+- Strömungsverfahren (Reaktanten fließen bei konstanter Geschwindigkeit durch ein Rohr --> Zusammensetzung wird regelmäßig bestimmt --> Zusammensetzung wird mit der Zeit aufgetragen)

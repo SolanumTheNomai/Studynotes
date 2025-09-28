@@ -1,0 +1,3 @@
+- Phyllochinon (K1)
+- Fettlöslich 
+--> Blutgerinnung 

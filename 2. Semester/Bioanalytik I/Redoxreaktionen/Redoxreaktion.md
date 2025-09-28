@@ -1,0 +1,1 @@
+Eine Redoxreaktion ist eine chemische Reaktion, bei der Elektronen zwischen Reaktanten übertragen werden.

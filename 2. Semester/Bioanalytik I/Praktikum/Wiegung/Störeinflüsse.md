@@ -1,0 +1,5 @@
+- Standort der Waage
+- Flüssigkeitsaufnahme oder -abgabe des Wägeguts
+- Elektrostatisch geladene Gefäß oder Wägegut
+- magnetische Wägegüter oder Gefäße
+- Temperaturunterschiede zwischen Probe, Gefäß, Waage und Umgebung 

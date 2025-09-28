@@ -1,0 +1,2 @@
+- Aminosäuren welche nicht in Proteinen vorkommen 
+- meist Derivate von proteinogenen Aminosäuren mit bestimmten Stoffwechselfunktionen 

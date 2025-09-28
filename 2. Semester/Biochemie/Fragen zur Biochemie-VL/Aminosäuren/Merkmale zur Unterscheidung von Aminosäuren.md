@@ -1,0 +1,3 @@
+- hydrophob/hydrophil
+- unpolar/polar
+- neutral/sauer/basisch
