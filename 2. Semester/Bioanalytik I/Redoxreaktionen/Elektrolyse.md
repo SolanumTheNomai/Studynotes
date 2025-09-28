@@ -1,3 +1,0 @@
-- chemischer Prozess, wo ein elektrischer Strom eine Redox-Reaktion erzwingt 
-- Redoxreaktionen laufen an räumlich unterschiedlichen Orten ab 
-- z.B. NaCl zu Natrium und Chlor

@@ -1,3 +1,0 @@
-- innerhalb der Zelle (=intrazelluläre Speicherung)
-- Makromolekül (geringe osmotische Belastung)
-- Häufig in einer intrazellulare Hülle umschlossen (z.B. Vakuolen)

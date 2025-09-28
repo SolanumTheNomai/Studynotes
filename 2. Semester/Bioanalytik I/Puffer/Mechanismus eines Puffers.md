@@ -1,1 +1,0 @@
-- im Pufferbereich reagiert bei ansteigender Hydroniumionen-/Hydroxidionenkonzentrationen, als starke Säuren-/Basen die schwache Säure/Base des Puffers mit den H3O+/OH- Ionen --> Wasser + schwache Säure/Base --> reagiert nicht zu H3O+/OH- Ionen --> pH-Wert steigt kaum, durch das "abfangen" der H3O+/OH- Ionen 

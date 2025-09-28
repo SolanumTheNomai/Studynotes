@@ -1,1 +1,0 @@
-- Schrittweiser Weg der Umwandlung vom Edukt zum Produkt 

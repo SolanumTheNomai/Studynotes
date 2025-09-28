@@ -1,2 +1,0 @@
-![](Pasted%20image%2020240119095909.png)
-- Transformierende DNA bindet an die Zelle --> ssDNA gelangt in die Zelle --> RecA-Protein baut DNA in das Chromosomen ein (Homologe Rekombination) --> Transformierte Zelle 

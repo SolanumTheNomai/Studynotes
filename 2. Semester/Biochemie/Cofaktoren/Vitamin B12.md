@@ -1,3 +1,0 @@
-- Cobalamin
-- Wasserlöslich 
---> Cofaktor: C2-Transfer

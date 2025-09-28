@@ -1,2 +1,0 @@
-- [[prokaryotische Zellen]]
-- [[eukaryotische Zellen]]

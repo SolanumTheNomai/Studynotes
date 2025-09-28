@@ -1,1 +1,0 @@
-- Bakterienstamm mit sehr genauen Information über diesen Stamm 

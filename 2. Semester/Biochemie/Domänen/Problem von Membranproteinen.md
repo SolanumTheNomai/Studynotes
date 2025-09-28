@@ -1,1 +1,0 @@
-- bei Transmembranproteinen --> Abschnitte gehen durch den hydrophoben Abschnitt der Membran --> Abschnitt muss einen hohen Hydrophobizitätswert haben 

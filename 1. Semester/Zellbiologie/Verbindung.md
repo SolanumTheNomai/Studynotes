@@ -1,1 +1,0 @@
-Substanz welche aus mindestens zwei Elementen besteht 

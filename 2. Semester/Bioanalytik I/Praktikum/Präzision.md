@@ -1,1 +1,0 @@
-- Maß, für die Reproduzierbarkeit/Abweichung der Daten 

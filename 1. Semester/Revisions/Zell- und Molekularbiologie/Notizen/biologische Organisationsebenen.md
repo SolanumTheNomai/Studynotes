@@ -1,6 +1,0 @@
-- Atom --> komplexe biologische Moleküle --> subzelluläre Strukturen (Organellen) -->  Zellen (können bereits Organismen sein, falls sie als Individuum eigenständig überleben können) --> Gewebe --> Organe --> Organsysteme --> komplexe Organismen 
-	- Emergenz:
-		- Emergenz beschreibt das Phänomen, dass durch Wechselwirkung verschiedener Organisationsebenen (Synergismen) höhere Organisationsebenen mit neuen Eigenschaften entstehen. (Bsp: einzelne Organellen, wie der Golgi Apparat oder das ER sind nicht lebensfähig, die Wechselwirkung dieser Organellen führen zu einer eventuell lebensfähigen Zelle mit folgenden Eigenschaften:
-			- Reproduktion, Wachstum und Entwicklung, Nutzung von Energie, Reaktion auf die Umwelt, Homeostoase, evolutionäre Anpassung)
-	- Reduktionismus: 
-		- Um komplexe organisatorische Systeme zu verstehen, bedient man sich der Methode eine Organisationsebene in kleinere Ebenen aufzuteilen, diese zu verstehen und damit auf das Große und Ganze zu schließen. Die Grenzen dieser Methodik steckt in der Eigenschaft der Emergenz. Da größere Organisationsebenen, neue Eigenschaften bedeuten, reicht es nicht aus, kleinere Ebenen zu verstehen auf damit auf das Große zu schließen (Holismus)

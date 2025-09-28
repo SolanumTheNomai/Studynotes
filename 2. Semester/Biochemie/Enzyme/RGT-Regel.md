@@ -1,1 +1,0 @@
-- Erhöhung von 10°C --> Verdopplung der Reaktionsgeschwindigkeit der Enzyme, bis zum Temperaturoptimum

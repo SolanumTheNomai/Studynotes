@@ -1,1 +1,0 @@
-- Bakterien bewegen sich zum Licht hin oder weg 

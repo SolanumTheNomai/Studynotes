@@ -1,2 +1,0 @@
-- Bedürfnisse/Nachfrage > Güter
-- Ausgangspunkt wirtschaftlichen Denkens

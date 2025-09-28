@@ -1,1 +1,0 @@
-- brauchen zur Vermehrung einen Wirt 

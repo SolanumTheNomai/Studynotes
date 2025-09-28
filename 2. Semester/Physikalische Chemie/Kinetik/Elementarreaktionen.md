@@ -1,3 +1,0 @@
-- Einzelschritte der Gesamtreaktionen (unimolekulare- oder bimolekulare Reaktionen)
---> setzen sich zur Gesamtreaktion zusammen 
---> liefern Infos zur Kinetik (z.B. Welche Spezies sind für die Gesamtreaktionsgeschwindigkeit relevant) und zum Reaktionsmechanismus

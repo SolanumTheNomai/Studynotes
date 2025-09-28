@@ -1,2 +1,0 @@
-- beschreibt die Anzahl an Protonen im [[Atom]] 
-- Definiert das chemische Element

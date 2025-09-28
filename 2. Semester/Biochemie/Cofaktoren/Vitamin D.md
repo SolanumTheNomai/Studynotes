@@ -1,3 +1,0 @@
-- Cholecaliferol
-- Fettlöslich
---> Genexpression

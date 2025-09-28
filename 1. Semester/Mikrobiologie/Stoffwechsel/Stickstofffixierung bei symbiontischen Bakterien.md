@@ -1,5 +1,0 @@
-- nur bei Symbiose wird Stickstofffixierung betrieben 
-- Symbiose von Rhizobienstämme nur bei bestimmten Pflanzen 
-	- Kompatibiliät der Rezeptoren beider Partner notwendig:
-		- Pflanzenzelle: Lektine = Glykoproteine
-		- Rhizobien: Polysaccharide

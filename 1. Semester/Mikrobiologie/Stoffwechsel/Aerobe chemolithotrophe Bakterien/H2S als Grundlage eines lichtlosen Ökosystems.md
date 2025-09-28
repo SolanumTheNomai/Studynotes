@@ -1,2 +1,0 @@
-- z.B. in der Tiefsee:
-	- Heiße Quellen geben Schwefelwasserstoff ab --> Oxidation von Schwefelverbindungen durch aerobe chemolithoautotrophe Bakterien --> Energiegewinnung und Aufbau von Biomasse ohne Licht (thermische Energie) --> Bakterien als Produzenten im Nahrungsnetz 

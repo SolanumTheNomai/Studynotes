@@ -1,1 +1,0 @@
-- Verbindungen zwischen benachbarten Zellen, welche **direkte** Kommunikationskanäle bilden

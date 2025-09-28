@@ -1,2 +1,0 @@
-- Zahl der Mutationen pro Zelle pro Generation pro Gen
-	- Spontane Rate: 10^-5 - 10^-8

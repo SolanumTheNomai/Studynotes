@@ -1,1 +1,0 @@
-- Objekte, deren Spiegelbilder Deckungsgleich sind 

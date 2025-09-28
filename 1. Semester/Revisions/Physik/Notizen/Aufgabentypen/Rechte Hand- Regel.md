@@ -1,2 +1,0 @@
-- wichtig: mit den Daumen und dem Zeigefinger ein L Formen, sonst wirds falsch 
-- nur bei Positiven Ladungen und bei fließenden Strom 

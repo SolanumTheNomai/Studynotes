@@ -1,5 +1,0 @@
-- immer extrazellulär, wenn nicht 
---> [Flip-Flop](Bewegungsformen%20von%20Phospholipiden.md)
-- an den Proteinen hängen kurze verzweigte hydrophile Oligosaccharide (< 15 Zucker pro Kette)
-	- Zusammensetzung kann stark variieren 
-	- --> diese Strukturen dienen als Erkennungsmerkmal für die Zelle, und ist somit wichtig für die Interaktion der Zelle mit der Umgebung (z.B. Adhäsion mit anderen Zellen, Signalübertragung)

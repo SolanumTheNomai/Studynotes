@@ -1,2 +1,0 @@
-- Proteine, welche an Kohlenhydrat-Epitope binden, ohne sie zu modifizieren 
---> Informationsübertragung durch WW mit z.B. Glykoproteinen

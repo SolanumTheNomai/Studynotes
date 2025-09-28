@@ -1,4 +1,0 @@
-- Nach der Mutagenese --> Prämutation, da:
-	- die Mutation nur auf einen der beiden DNA-Stränge bemerkbar ist/wenn die veränderte Erbinformation homozygot in der Zelle vorliegt (alle Chromosomen haben die gen. Veränderung) --> Veränderung des Phänotyps
-	- Proteine, welche vor der Mutagenese existiert hatten, müssen erst über Generationen hinweg "ausverdünnt" werden, um einen phänotypischen Effekt zu erfassen 
---> Prämutation wird erst nach Zell- und DNA-Teilungen zur Mutation 

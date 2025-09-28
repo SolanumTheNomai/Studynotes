@@ -1,1 +1,0 @@
-- Elektronen an der äußersten Schale/[[Orbital]] vom Atom 

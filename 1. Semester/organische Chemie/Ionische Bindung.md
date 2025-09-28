@@ -1,1 +1,0 @@
-- elektrostatische Anziehung zwischen unterschiedlich geladenen Teilchen (Coulomb-Kraft) --> stabile Bindung 

@@ -1,3 +1,0 @@
-- Pseudopeptidoglykan:
-	- andere glykosidischen Bindungen zwischen den Zuckern 
-	- keine D-Aminosäuren für die Quervernetzung der Mureinschicht bei Bakterien 

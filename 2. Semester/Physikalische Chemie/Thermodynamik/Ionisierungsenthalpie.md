@@ -1,1 +1,0 @@
-- Energie, die für das Herauslösen eines Elektrons von einem Element erforderlich ist

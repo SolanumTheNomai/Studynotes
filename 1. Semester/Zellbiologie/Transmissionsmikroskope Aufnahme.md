@@ -1,1 +1,0 @@
-- mit ihnen ist es möglich die Organellen innerhalb von Zellen zu erkennen

@@ -1,1 +1,0 @@
-- Keim kommt von außen 

@@ -1,3 +1,0 @@
-- Kompartimentierung der DNA im Kern
-- Zerlegen der DNA in Chromosomen
-- Verpackung der DNA mittels Histone

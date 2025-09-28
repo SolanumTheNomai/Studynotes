@@ -1,2 +1,0 @@
-- spezifische Entwicklung der Zellen in einem Organismus (Zelldifferenzierung
-- angemessene Zellreaktion auf veränderte Umweltbedinungen 

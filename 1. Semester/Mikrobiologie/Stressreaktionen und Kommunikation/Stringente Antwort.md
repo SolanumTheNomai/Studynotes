@@ -1,3 +1,0 @@
-- bei Mangel von Aminosäuren
---> Poduktion von ppGpp/pppGpp (Alarmone)
---> Aktivierung von Operons der AS-Biosynthese

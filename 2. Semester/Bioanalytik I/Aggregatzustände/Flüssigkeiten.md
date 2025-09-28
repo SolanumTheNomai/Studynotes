@@ -1,4 +1,0 @@
-- eingeschränkte Bewegung, aber keine definierten Plätze für die Moleküle --> Diffusion möglich 
-- Zusammenhalt durch intermolekulare Kräfte (z.B. H-BB)
-- kaum Veränderung des Volumens, durch Veränderung des Drucks
-- leichte Veränderung des Volumens durch Veränderung der Temperatur 

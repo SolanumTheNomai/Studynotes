@@ -1,1 +1,0 @@
-- beschreiben Stoffe, welche Organismen innerhalb der Zelle einschließen (z.B. Prätoxine)

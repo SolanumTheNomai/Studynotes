@@ -1,1 +1,0 @@
-- vollständige genetische Information einer Zelle (identische Wiederholungen bei polyploiden Chromosomensätzen ausgeschlossen)

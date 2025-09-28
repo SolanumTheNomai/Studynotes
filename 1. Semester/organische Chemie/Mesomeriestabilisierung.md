@@ -1,1 +1,0 @@
-- beschreibt das Phänomen, dass die Delokalisierung von Elektronen und [Ladungen](Eigenschaften%20der%20elektrischen%20Ladung.md) zur Stabilisierung des Moleküls führen --> je mehr mesomere Strukturen es von einem Molekül gibt, desto stabiler ist es 

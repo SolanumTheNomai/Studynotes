@@ -1,2 +1,0 @@
-- konstante Instanthaltung innereren Bedingungen eines Lebewesens bei veränderten äußeren Bedingungen zu Gunsten des Überlebens
--

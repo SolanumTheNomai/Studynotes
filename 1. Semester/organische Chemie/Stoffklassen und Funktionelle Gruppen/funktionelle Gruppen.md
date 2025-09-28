@@ -1,1 +1,0 @@
-- Atomgruppierung, die die Eigenschaften und Reaktivitäten eines Moleküls bestimmen 

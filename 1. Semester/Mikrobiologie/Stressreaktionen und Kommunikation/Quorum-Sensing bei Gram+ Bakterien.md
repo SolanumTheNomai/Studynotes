@@ -1,2 +1,0 @@
-- Alarmon: Autoinducer-Peptide (Selbstinduzierendes Peptid)
-- Signaltransduktion durch die Phosphorylierung von Proteinen --> Aktivierung von Quorum-sensitiven Genen  

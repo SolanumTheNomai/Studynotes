@@ -1,2 +1,0 @@
-- homogener Teil des System
---> einheitliche Zusammensetzung und Eigenschaften, Unterscheidungen nur auf atomarer Ebene möglich (z.B. Lösungen, Legierungen)

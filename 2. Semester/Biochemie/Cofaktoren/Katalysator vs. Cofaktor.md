@@ -1,2 +1,0 @@
-- Cofaktoren sind keine Katalysatoren, da sie aktiv verändert werden
---> im 2. Schritt (enzymatischer Schritt) werden sie wieder in ihre ursprüngliche Form gebracht 

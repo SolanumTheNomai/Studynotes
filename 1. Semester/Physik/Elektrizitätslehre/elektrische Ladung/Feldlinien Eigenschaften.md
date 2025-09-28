@@ -1,3 +1,0 @@
-- beginnen und enden immer in [Ladungen](Eigenschaften%20der%20elektrischen%20Ladung.md)
-- das elektrische Feld wird stärker je dichter die Feldlinien verlaufen 
-- Richtungssinn: von positiv zu negativ 

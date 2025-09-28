@@ -1,1 +1,0 @@
-- Stereoisomere, welche durch Brechen und Neuknüpfung von Bindungen (an einem Atom) überführbar sind

@@ -1,3 +1,0 @@
-- bei präparativer Wägung: zwischen 0,1% und 1%
-- bei analytischer Wägung: nicht schlechter als 0,1%
--

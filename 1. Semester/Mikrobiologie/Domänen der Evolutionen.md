@@ -1,4 +1,0 @@
-- Prokaryoten 
-	- Bakterien 
-	- Archaea
-- Eukaryoten 

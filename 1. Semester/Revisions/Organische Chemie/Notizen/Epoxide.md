@@ -1,1 +1,0 @@
-- Dreiringstruktur mit einen Sauerstoff --> hohe Ringspannung zwischen den Bindungen --> auch schlechte Nucleophile, wie Wasser können durch Abbau der Ringspannung (mithilfe von Protonen), die Sn-Reaktionen durchlaufen 

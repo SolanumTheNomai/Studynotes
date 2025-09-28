@@ -1,4 +1,0 @@
-- Entstehen außerhalb der Zelle 
-- bei Myzellen: fallen an den Enden der Hyphen ab, fallen zu Boden 
---> Wachstum eines neuen Myzels
-- nicht so resistent wie Endesporen (geringere Hitze- und Trockenheitresistenz)

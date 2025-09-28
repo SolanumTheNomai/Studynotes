@@ -1,2 +1,0 @@
-- Pflanze versorgt Bakterium mit Zucker und Säuren (z.B. zur Energiegewinnung)
-- Rhizobium fixiert Stickstoff --> Abgabe von NH4+ größtenteils an die Pflanze 

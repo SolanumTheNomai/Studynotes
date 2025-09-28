@@ -1,1 +1,0 @@
-- äußere Lipidschicht besitzt andere Komponente als die innere Schicht

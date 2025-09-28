@@ -1,2 +1,0 @@
-- Bakterienchromosom ist an der Cytoplasmamembran gebunden 
---> nach der Replikation werden die Tochterchromosomen auf die Tochterzellen verteilt (ähnlich der Spindelapparate)

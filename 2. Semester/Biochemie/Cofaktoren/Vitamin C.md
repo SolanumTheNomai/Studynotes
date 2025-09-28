@@ -1,3 +1,0 @@
-- Ascorbinsäure 
-- Wasserlöslich 
---> sind in Redoxsystemen beteiligt 

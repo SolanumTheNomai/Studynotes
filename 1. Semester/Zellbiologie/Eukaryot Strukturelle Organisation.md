@@ -1,5 +1,0 @@
-- komplexe Struktur 
-- Zellkern (Nucleotid)
-- Kern umgeben von Kernhülle 
-- genetisches Material im Kern
-- Kompartimentbildung der Organellen durch eine Cytoplasmamembran 

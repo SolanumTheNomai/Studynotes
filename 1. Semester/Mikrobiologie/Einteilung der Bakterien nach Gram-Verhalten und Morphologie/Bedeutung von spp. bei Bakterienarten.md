@@ -1,1 +1,0 @@
-= Spezies im Plural --> Mehrere Bakerienarten (z.B. Erwinia spp.)

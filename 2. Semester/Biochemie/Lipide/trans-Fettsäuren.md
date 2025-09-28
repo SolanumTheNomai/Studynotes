@@ -1,2 +1,0 @@
-- Fettsäuren mit trans-DBs --> höherer Schmelzpunkt 
---> wird genutzt in der industriellen Fetthärtung 

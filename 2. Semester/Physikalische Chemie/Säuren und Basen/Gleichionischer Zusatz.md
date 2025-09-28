@@ -1,1 +1,0 @@
-- Zugabe von dem Ion, welcher im Löslichkeitsprodukt vorhanden ist --> Konzentration der Ionen von L steigt --> Salz muss ausfallen --> Gleichionischer Zusatz resultiert in verringerter Löslichkeit 

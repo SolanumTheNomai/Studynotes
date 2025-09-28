@@ -1,3 +1,0 @@
-- Flagellen (Geißeln) 
-- LPS
---> haben neben der Beteiligung an der Schädigung des Wirts weitere Aufgaben  

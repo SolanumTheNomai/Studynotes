@@ -1,1 +1,0 @@
-- Gesamtmasse verändert sich bei einer chem. Reaktion nicht 

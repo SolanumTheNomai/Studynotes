@@ -1,1 +1,0 @@
-- Wasserstoff (H2) wird abgespalten --> Ausbildung einer Doppelbindung

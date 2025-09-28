@@ -1,2 +1,0 @@
-- Addition einer Methylgruppe an einer Aminosäure 
-- z.B. Lysin 

@@ -1,3 +1,0 @@
-- wenn in einer Zelle die Stoffkonzentration innerhalb der Zelle höher ist, als im extrazellulären Raum --> hypotonische Lösung --> Wasser fließt in die Zelle rein um den Stoffgradient auszugleichen 
-- bei einer hypertonischen Lösung hingegen, fließt das Wasser aus der Zelle heraus
-- bei isotonischen Lösungen ist die Konzentrationen auf beiden Seiten gleich --> Wasserfluss von Zelle zum extrazellulären Raum und andersherum gleich 

@@ -1,1 +1,0 @@
-beschreibt die Anzahl an "Schalen" des Elements

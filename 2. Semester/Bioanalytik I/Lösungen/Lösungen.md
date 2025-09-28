@@ -1,2 +1,0 @@
-- homogene Mischungen eines Stoffes mit einem Lösungsmittel
---> feste/flüssige Substanzen werden in einem flüssigen Lösungsmittel gelöst

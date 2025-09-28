@@ -1,1 +1,0 @@
-- Vermischung von Lösungen und Gemische in Reaktionsgefäßen per Vibration 

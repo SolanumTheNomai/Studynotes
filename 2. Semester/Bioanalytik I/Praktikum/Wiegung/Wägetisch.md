@@ -1,5 +1,0 @@
-- Stabil
-- keine Vibrationsübertragung 
-- Antimagnetisch
-- an der Wand oder Boden fixiert 
-- frei von Zugluft, gleiche Temperatur

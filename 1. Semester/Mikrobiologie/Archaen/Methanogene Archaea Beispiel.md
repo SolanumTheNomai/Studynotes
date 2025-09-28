@@ -1,1 +1,0 @@
-- Methanococcus janaschii --> Kugelförmig

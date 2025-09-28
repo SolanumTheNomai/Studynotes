@@ -1,4 +1,0 @@
-- bei ungünstigen Lebensbedinungen
-	- Fehlen von Nährstoffen
-	- zu hohe Temperatur
-	- Anhäufen von toxischen nicht ausscheidbare Stoffwechselprodukte --> Stoffwechsel wird temporär heruntergefahren

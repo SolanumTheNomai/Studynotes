@@ -1,1 +1,0 @@
-- Zunahme an Größe für den inidividuellen Organismus/ein Teil des Organismus, deren Verlauf bestimmen die Bedingungen des Lebenszykluses ([[Entwicklung]])

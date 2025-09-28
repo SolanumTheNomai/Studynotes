@@ -1,2 +1,0 @@
-![](Pasted%20image%2020231208110323.png)
---> nach der Replikation --> DNA nur halb-methylliert --> vollständige Methyllierung für eine weitere Initiation notwendig --> erneute Initation findet nicht sofort statt

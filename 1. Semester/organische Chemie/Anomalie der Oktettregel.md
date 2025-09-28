@@ -1,2 +1,0 @@
-- Elemente des 2. [[Periode]] können höchstens 4 [[kovalente Bindungen]] eingehen 
-- Elemente ab der 3. [[Periode]] hingegen können mehr als 4 [[kovalente Bindungen]] eingehen 

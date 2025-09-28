@@ -1,3 +1,0 @@
-- selten
-- Neisseria gonorrhoeae --> Gonorrhö/Tripper
-- Neisseria meningtidis --> Hirnhautentzündung (bei gesunden im Nasen-Rachen-Raum)

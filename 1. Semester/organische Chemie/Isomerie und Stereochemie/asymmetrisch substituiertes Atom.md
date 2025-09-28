@@ -1,2 +1,0 @@
-- Atom mit 4 verschiedenen Substituenten 
-- Moleküle, welche lediglich ein asymmetrisch substituiertes Atom enthalten sind chiral 

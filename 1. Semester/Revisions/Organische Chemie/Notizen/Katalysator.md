@@ -1,1 +1,0 @@
-- Stoff, welcher die Geschwindigkeit einer Reaktion erhöht, ohne sich selbst zu verbrauchen oder das Thermodynamische Gleichgewicht der Reaktion zu verändern (Verringerung der Aktivierungsenergie)

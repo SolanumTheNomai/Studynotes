@@ -1,2 +1,0 @@
-- Entwindung der DNA-Doppelhelix
-- Lösen der Wasserstoffbrückenbindungen an den Basen --> Einzelstränge 

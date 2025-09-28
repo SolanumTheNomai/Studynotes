@@ -1,3 +1,0 @@
-- Rotationsmotor --> Bakterien dreht sich um die eigene Achse 
-- Schub --> stößt sich von der Umgebung ab 
-- Zug --> zieht sich mithilfe der äußeren Umgebung in eine Richtung 

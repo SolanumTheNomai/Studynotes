@@ -1,4 +1,0 @@
-- keine eigene Organelle 
-- Cytoskelett im Cytosol stabilisiert die Zelle 
-- reich an Polysomen (Ribosomenketten)
-- reich an metabolischen Enzymen (Enzyme für Stoffwechselvorgänge)

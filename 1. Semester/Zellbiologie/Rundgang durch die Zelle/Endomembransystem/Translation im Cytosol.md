@@ -1,4 +1,0 @@
-- im Cytosol befindet sich ein gemeinsamer Pool aus ribosomalen Untereinheiten 
---> mRNA setzt sich zwischen zwei rUNtereinheiten --> Translation 
-- häufig setzt sich die mRNA zwischen mehreren Ribosomen an (Polysomen) --> Produktion von mehreren Polypeptiden zur gleichen Zeit 
---> Entstehende Proteine verbleiben im Cytosol (z.B. Enzyme für die Glykolyse)

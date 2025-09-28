@@ -1,2 +1,0 @@
-- in der Natur wird häufig lediglich eine enantiomere/diastereomere Form bevorzugt 
-	- z.B. kommen hauptsächlich Aminosäuren in L- und Zucker in D-Form vor 

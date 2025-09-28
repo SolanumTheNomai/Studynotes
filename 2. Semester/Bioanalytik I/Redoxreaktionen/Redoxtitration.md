@@ -1,1 +1,0 @@
-- oxidierende Maßlösungen reagieren mit reduzierende Analyten oder andersherum 

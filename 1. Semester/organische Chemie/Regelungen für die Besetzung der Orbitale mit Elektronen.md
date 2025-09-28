@@ -1,4 +1,0 @@
-- Aufbau-Prinzip: 
-	- zunächst werden Orbitale niedriger Energie besetzt 
-- Pauli-Prinzip:
-	- jedes Orbital kann zwei Elektronen aufnehmen, welche sich in ihren Spin unterscheiden müssen 

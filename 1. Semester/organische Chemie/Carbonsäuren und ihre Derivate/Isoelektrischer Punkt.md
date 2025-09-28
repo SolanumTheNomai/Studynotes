@@ -1,1 +1,0 @@
-- pH-Wert, an dem die meisten Teilchen keine elektrische Nettoladung mehr haben (pI)

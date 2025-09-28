@@ -1,1 +1,0 @@
-- Gruppen von [Molekülen](Molekülen.md) mit gleicher chemischer Formel aber verschiedener Struktur

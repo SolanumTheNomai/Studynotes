@@ -1,2 +1,0 @@
-- Tollwut 
-- Pocken 

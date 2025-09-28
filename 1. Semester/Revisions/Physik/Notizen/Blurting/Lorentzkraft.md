@@ -1,2 +1,0 @@
-- Krafteinwirkung auf Leiter/Ladungen in einem Magnetfeld
-- wenn durch ein Leiter Strom fließt/Einzelladungen durch ein Magnetfeld kommen  --> Lorentzkraft --> Ablenkung der Ladung in eine bestimmte Richtung 

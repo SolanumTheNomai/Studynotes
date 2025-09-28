@@ -1,2 +1,0 @@
-- anaerob --> wandeln Carbonate in Methan um (z.B. durch landwirtschaftliche Nebenprodukte) --> Produktion von Biogas 
-- Vorkommen: Sümpfe, Rindermägen, Faultürme

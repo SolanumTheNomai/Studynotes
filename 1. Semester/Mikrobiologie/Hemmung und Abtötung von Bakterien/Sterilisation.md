@@ -1,1 +1,0 @@
-- vollständige Abtötung von Mikroorganismen 

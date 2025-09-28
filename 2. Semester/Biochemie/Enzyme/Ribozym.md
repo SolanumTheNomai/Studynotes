@@ -1,2 +1,0 @@
-- katalytisch aktive RNA-Moleküle, welche chemische Reaktionen katalysieren
-- in der Theorie der Ursuppe relevant

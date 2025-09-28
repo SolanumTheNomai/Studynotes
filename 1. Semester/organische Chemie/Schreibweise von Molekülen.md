@@ -1,4 +1,0 @@
-- [[Lewis-,Kekulé-,Valenzstrichformel]]
-- [[Kurzschreibweise]]
-- [[Strichformel]]
-- [[Keil-Strich-Formel]]

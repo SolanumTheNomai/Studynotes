@@ -1,1 +1,0 @@
-- Wert von f an der Stelle 0 

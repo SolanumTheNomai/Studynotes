@@ -1,5 +1,0 @@
-- Speicher der Erbinformationen 
-- Erhaltung/Replikation der Erbinformationen 
-- Synthese der Informationen für Proteine (Transkription) 
--->Steuerung der Zellvorgänge
-- Produktion der Untereinheiten der Ribosomen 

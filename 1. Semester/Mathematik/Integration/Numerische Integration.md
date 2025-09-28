@@ -1,5 +1,0 @@
-![](Pasted%20image%2020231221163128.png)
-![](Pasted%20image%2020231221163159.png)
-![](Pasted%20image%2020231222144111.png)
-![](Pasted%20image%2020231222144125.png)
-![](Pasted%20image%2020231222145822.png)

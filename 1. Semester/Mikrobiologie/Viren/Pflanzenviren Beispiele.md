@@ -1,2 +1,0 @@
-- Tabakmosaikviren
--  Kartoffelviren 

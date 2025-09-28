@@ -1,2 +1,0 @@
-- untere Grenze es Messbereiches, wo ein tatsächlicher Unterschied in den Messwerten gezeigt werden kann (unabhängig von Messschwankungen)
---> Außerhalb der 3-sigma-Umgebung 

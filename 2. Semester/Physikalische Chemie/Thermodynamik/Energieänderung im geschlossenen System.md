@@ -1,1 +1,0 @@
-- nur durch Wärmeübertragung oder Arbeit 

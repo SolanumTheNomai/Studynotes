@@ -1,1 +1,0 @@
-Atome, mit freien Elektronenpaaren (z.B. O,N) --> hohe Elektronendichte an dieser Stelle --> neg. Partialladung --> Anziehung der pos. Partialladung 

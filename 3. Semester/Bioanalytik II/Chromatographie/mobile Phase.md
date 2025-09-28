@@ -1,2 +1,0 @@
-- transportiert die Analyten durch die stätionäre Phase
-- kann flüssig oder gasförmig sein

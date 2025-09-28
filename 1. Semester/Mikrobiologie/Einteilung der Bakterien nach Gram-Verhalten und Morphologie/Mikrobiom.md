@@ -1,1 +1,0 @@
-- Gesamtheit aller Mikroorganismen im Habitat (Lebensraum)

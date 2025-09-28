@@ -1,2 +1,0 @@
-- Maß für die "Sedimentationskoeffizient" (1S = 10^-13 Sekunden) --> beschreibt wie schnell ein bestimmter Stoff Sedimentiert
---> z.B. Ribosom = 70S/80S

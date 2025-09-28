@@ -1,5 +1,0 @@
-- Bedeutung:
-	- Produzent hat einen Selektionsvorteil gegenüber Antibiotika-Sensitiven Konkurrenten:
-		- Konkurrenten vermehren sich nicht (bakteriostatisch)
-		- Konkurrenten sterben ab (bakteriozid)
-	- Kommunikation zwischen Bakterien (interbakteriell)

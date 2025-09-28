@@ -1,5 +1,0 @@
-- osmotische Barriere --> gerichteter Stofftransport 
-- Verankerung von DNA und Geißeln 
-- bei bestimmten Organellen:
-	- Atmungskette 
-	- Photosynthese (Existenz einer intracytoplasmische Membran --> Oberflächenvergrößerung)

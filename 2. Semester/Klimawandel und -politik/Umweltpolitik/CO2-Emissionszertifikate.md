@@ -1,2 +1,0 @@
-- Bestimmung einer Gesamtmenge an Emissionen in bestimmten Wirtschaftssektoren 
---> Verteilung von Zertifikaten an Produzenten  --> CO2 wird als kanppes Gut gehandeln, indem die Zertifikate verhandelt werden 

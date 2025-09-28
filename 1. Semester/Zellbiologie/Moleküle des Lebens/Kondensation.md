@@ -1,1 +1,0 @@
-- in einer chem. Reaktion wird Wasser abgespalten 

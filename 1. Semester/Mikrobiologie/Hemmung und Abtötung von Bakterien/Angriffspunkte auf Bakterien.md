@@ -1,5 +1,0 @@
-- Membran --> Detergenzien 
-- Proteine:
-	- Denaturierung von Proteinen 
-	- Inhibitoren von Enzymen
-		- Antibiotika 

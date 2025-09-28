@@ -1,2 +1,0 @@
-- bei Amylose:
-	- langkettige Polysacarride --> winden sich zu Helices zusammen 

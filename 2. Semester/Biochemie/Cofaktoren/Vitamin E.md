@@ -1,3 +1,0 @@
-- Tocopherol
-- Fettlöslich
---> Antioxidans

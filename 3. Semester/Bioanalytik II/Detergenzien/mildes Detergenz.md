@@ -1,1 +1,0 @@
-- (oft) ein nicht-ionisches Detergenz, welche gelöste Membranproteine nicht stark denaturiert (z.B. Triton-X-100)

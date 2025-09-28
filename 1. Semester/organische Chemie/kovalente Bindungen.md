@@ -1,2 +1,0 @@
-- Verbindungen zwischen Atome (=[[Molekülen]]) durch [[Elektronenpaarbindungen]]
-- wird durch wechselseitige Anziehung und Abstoßung der Elektronen von den benachbarten Atomen hervorgerufen 

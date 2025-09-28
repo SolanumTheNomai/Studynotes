@@ -1,3 +1,0 @@
-- Hoher Lipidanteil (50%) --> sehr fluide falls ungesättigter Fettsäuren 
-- verschiedenen Proteine und Porine 
---> Permeable für ATP, NAD, CoA

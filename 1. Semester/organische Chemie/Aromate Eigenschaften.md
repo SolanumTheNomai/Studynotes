@@ -1,2 +1,0 @@
-- sind sehr stabil (aufgrund der konjugierten Doppelbindungen) 
---> reagieren anders als Alkene 

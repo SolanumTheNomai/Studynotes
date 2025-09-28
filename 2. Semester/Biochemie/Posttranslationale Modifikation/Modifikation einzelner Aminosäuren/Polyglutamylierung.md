@@ -1,1 +1,0 @@
-- mehrere Glutaminsäure-Einheiten werden an Glumaminsäure-Reste angehängt 

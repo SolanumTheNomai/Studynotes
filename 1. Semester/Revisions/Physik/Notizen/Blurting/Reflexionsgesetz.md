@@ -1,1 +1,0 @@
-- Einfallswinkel ist am Lot der Fläche = Ausfallswinkel 

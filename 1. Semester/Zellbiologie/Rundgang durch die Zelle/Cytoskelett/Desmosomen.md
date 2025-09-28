@@ -1,3 +1,0 @@
-- befinden sich außerhalb der Zellmembran von Ephitelzellen
-- Proteine, welche an [Intermediärfilamente](StudyNotes/1.%20Semester/Zellbiologie/Rundgang%20durch%20die%20Zelle/Cytoskelett/Intermediärfilamente.md) gebunden sind 
-- zwei Desmosomen von zwei Zellen binden aneinander --> bei Zugkraft, übertragen von den IF --> Zellen bleiben zusammen: ![](Pasted%20image%2020231117160827.png)

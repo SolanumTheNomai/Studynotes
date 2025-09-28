@@ -1,3 +1,0 @@
-- ist nicht immer effektiv:
-- wenn die Elektrolyte sich leichter entladen lassen, als H3O+ und OH- --> Elektrolyte gehen Redoxreaktionen ein
---> wenn sich die Elektrolyte nicht so leicht entladen wie H3O+/OH- --> Elektrolyte gehen keine Redoxreaktion ein 

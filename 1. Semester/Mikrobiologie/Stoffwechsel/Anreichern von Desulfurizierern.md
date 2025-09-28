@@ -1,3 +1,0 @@
-- Sauerstoffausschluss
-- Existenz von reichlich Sulfat 
-- organische Substanz oder H2 als H-Donator (Reduktion von Sulfat), C-Quelle (Aufbau von Zellbestandteilen (z.B. Aminosäuren))

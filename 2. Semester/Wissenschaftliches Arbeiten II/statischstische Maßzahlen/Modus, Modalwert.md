@@ -1,1 +1,0 @@
-- häufigster Wert 

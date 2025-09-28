@@ -1,3 +1,0 @@
-- p-Wert ist Fallzahl-Abhängig
---> große Fallzahl -> macht jeden noch so kleinen Unterschied signifikant 
---> Signifikanz ungleich Kausalität 

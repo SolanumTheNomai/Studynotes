@@ -1,1 +1,0 @@
-- einige Basenpaare/Gene fehlen --> keine Reversion 

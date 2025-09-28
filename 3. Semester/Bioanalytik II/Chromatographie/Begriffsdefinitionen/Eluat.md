@@ -1,1 +1,0 @@
-durch Eluieren herausgespülte Substanz

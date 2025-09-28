@@ -1,4 +1,0 @@
-- 2-4 Mikrometer Durchmesser 
-- 20-40/Zelle
-- durch existierende plDNA + Ribosomen 
-	--> dynamische Strukturen --> können wachsen und sich teilen 

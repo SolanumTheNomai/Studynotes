@@ -1,5 +1,0 @@
-- besitzt ein pos. Partialladung/Ladung --> Elektronenakzeptor
-- mit einer Abgangsgruppe (meistens ein Halogen)
-	- gute Abgangsgruppe:
-		- hohe EN, großes Molekül --> schlechte Base: I-, Br-,Cl-,H2SO4-
-		- immer wichtig 

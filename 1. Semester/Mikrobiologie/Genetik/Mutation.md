@@ -1,1 +1,0 @@
-- Jede Veränderung auf DNA-Ebene (z.B. Austausch eines Basenpaares)

@@ -1,3 +1,0 @@
-- beschreibt die Entstehung von eukariotischen Zellen, durch die Existenz von [[Mitochondrien]] und evtl. [[Chloroplasten Eigenschaften]] mit einer Doppelmembran innerhalb der Zelle 
-- Prinzip:
-	- größere [[prokaryotische Zellen]] (Vorreiter einer eukaryotischen Zelle) nahmen ein kleinere Bakterien auf --> Entstehung einer [[Symbiose]]: größere Zelle bietet Schutz für die kleinere Zelle, während diese Energie für den Organismus produziert und Energie aus externen Quellen autonom extrahiert ([[Photosynthese]])

@@ -1,3 +1,0 @@
-- universell --> jede Art besitzt diesen gen. Code
-- degeneriert/redundant --> für eine Aminosäure codieren mehrere Tripletts 
-- nicht überlappend --> ein Triplett codiert für eine AS, wobei diese sich nicht überlappen

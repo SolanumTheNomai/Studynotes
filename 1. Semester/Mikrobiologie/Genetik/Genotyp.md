@@ -1,1 +1,0 @@
-- Gesamtheit der Gene einer Zelle 

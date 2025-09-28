@@ -1,1 +1,0 @@
-- beschreibt eine "Überdauerungsform" eines Organismus/Zelle bei Bedingungen, wo die [[vegetative Zelle]] nicht lebensfähig wäre 

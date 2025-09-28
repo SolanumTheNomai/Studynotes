@@ -1,2 +1,0 @@
-- auch als "Ganzheitslehre" bezeichnet
-- beschreibt das Problem, dass höhrere [[StudyNotes/1. Semester/Zellbiologie/biologische Organisationsebenen]]  durch die Eigenschaft der [[Emergenz]] nicht durch die Untersuchung ihren isolierten Einzelteile erklären kann

@@ -1,3 +1,0 @@
-- schnelles Arbeiten mit Mikrotitierplatten 
-- Direktverdränger --> geeignet für Lösemittel und Farbstoffe 
-- nicht so genau wie z.B. Kolbenhubpipetten 

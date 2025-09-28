@@ -1,3 +1,0 @@
-- Begrenzung der CO2-Emissionen durch nationale Maßnahmen (unverbindlich)
-- Emissionshandel (siehe: [CO2-Emissionszertifikate](CO2-Emissionszertifikate.md))
-- Ressourcen-Transfer von Industrie- in Entwicklungsländern (z.B. Geld, Technologie)

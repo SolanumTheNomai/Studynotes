@@ -1,1 +1,0 @@
-- biologisches Individuum, welches eigenständig überleben kann

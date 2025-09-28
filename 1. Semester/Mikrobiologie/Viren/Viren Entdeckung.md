@@ -1,3 +1,0 @@
-- Filterung einer Lösung --> Bakterien wurden herausgefiltert
---> trotzdem Infektiös, obwohl man keine Strukturen im Lichtmikroskop erkennen konnte 
---> Viren 

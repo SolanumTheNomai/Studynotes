@@ -1,1 +1,0 @@
-- äußeres Erscheinungsbild einer Zelle/Lebewesens

@@ -1,1 +1,0 @@
-- zwei ungleichnamige Ladungen im festen Abstand l 

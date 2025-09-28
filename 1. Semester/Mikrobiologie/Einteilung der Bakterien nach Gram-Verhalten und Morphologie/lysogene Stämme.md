@@ -1,1 +1,0 @@
-- Stämme enthalten Bakteriophagengene im Genom

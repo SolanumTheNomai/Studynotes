@@ -1,2 +1,0 @@
-- primäre und sekundäre Alkohole als Produkt 
-- Reduktionsmittel: Natriumborhydrid und Alkohol

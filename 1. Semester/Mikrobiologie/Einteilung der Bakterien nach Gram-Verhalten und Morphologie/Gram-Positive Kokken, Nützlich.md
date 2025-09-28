@@ -1,2 +1,0 @@
-- Lactococcus lactis --> Käseproduktion
-- Leuconostoc mesenteroides --> befinden sich auf Pflanzenoberflächen --> Sauerkrautgärung

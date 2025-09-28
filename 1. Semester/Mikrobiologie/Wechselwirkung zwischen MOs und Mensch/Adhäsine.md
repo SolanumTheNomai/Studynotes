@@ -1,2 +1,0 @@
-- Mechanismus: 
-	- Erkennung von Rezeptoren auf der Oberfläche der Wirtszelle --> Adhäsion --> Adhäsine sind Rezeptorspezifisch

@@ -1,1 +1,0 @@
-- Zellen ohne Zellwand (wenn diese vorher eine normal besessen haben)

@@ -1,1 +1,0 @@
-- an der OH-Gruppe des Rests bei Serin und Threonin

@@ -1,1 +1,0 @@
-- Molekülabschnitte, die die Absorption von Licht verursachen (z.B. Aromaten)

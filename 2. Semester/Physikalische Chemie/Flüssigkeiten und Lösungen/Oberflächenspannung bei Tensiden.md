@@ -1,1 +1,0 @@
-- Tenside sind amphiphil --> ordnen sich an der Wasseroberfläche an --> WW der Teilchen an der Oberfläche unterbrochen --> geringere Oberflächenspannung 

@@ -1,3 +1,0 @@
-- langgestreckte Polypeptidketten 
-- sind Strukturproteine
-- viele intermolekulare H-Brücken --> überwiegend wasserunlöslich

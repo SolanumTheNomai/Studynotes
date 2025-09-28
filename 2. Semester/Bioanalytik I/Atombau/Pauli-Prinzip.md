@@ -1,1 +1,0 @@
-- Kein Elektron eines Atoms stimmt in allen vier Quantenzahlen mit einem anderen überein 
