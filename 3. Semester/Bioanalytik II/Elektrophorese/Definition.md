@@ -1,2 +1,0 @@
-- Trennungverfahren von Molekülen unterschiedlicher Ladungen und Größe 
---> Anlegen eines elektrischen Feldes --> geladenes Molekül wandert zur anderen Ladung 
