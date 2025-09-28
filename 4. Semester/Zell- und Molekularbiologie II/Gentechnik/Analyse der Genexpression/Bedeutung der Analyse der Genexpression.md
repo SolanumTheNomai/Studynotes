@@ -1,0 +1,2 @@
+- Expressionsunterschiede gegenüber einer definierten Referenz (z.B. gesund vs. krank)
+- Grundlagenforschung zur Genfunktion

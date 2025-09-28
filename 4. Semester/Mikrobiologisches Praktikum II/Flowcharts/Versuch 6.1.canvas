@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"61b71eec7599b802","type":"text","text":"3 NB-Agarplatten und eine YEPD-Agarplatte beschriften und vorwärmen","x":-275,"y":-240,"width":250,"height":129,"color":"6"},
+		{"id":"acc4009eb3f53d07","type":"text","text":"3 mL NB-Weichagar mit jeweils 100µL Bakterienkultur mischen","x":-500,"y":0,"width":250,"height":100,"color":"6"},
+		{"id":"1177ba0bac632038","type":"text","text":"bei den 3 Bakterienkulturen","x":-280,"y":-20,"width":250,"height":60},
+		{"id":"9cf05b6a26e1ffc1","type":"text","text":"auf Agarplatten verteilen","x":-500,"y":160,"width":250,"height":60,"color":"6"},
+		{"id":"f49c83d6bf0e1919","type":"text","text":"3 mL YEPD-Weichagar mit 100 µL S. cereviseae mischen ","x":80,"y":0,"width":250,"height":105,"color":"6"},
+		{"id":"b504e626198953aa","type":"text","text":"auf Agarplatte verteilen","x":80,"y":160,"width":250,"height":58,"color":"6"},
+		{"id":"215616e81a81ecf2","type":"text","text":"Agar erstarren lassen","x":-219,"y":300,"width":250,"height":60,"color":"6"},
+		{"id":"e0311b93106a895b","type":"text","text":"Testplättchen 1.5 cm vom Rand auflegen ","x":-220,"y":420,"width":250,"height":60,"color":"6"},
+		{"id":"29220fb8f5b8fad5","type":"text","text":"Nystatin mittig auflegen","x":0,"y":400,"width":250,"height":60,"color":"1"},
+		{"id":"57fb6e2fcbed9ade","type":"text","text":"==Auswertung==","x":-220,"y":700,"width":250,"height":60,"color":"4"},
+		{"id":"2d0724cacf68e792","type":"text","text":"Hemmhöfe über Kreuz ausmessen","x":-220,"y":860,"width":250,"height":80,"color":"6"},
+		{"id":"fc87ef76e3215403","type":"text","text":"NB-Weichagar in Mikrowelle aufkochen","x":-1100,"y":0,"width":250,"height":60,"color":"6"},
+		{"id":"12360910133c25bc","type":"text","text":"Aliquot: 25 x 3 mL in Reagenzgläser","x":-920,"y":-40,"width":250,"height":60},
+		{"id":"0b6cf0ba893bd29d","type":"text","text":"YEPD-Weichagar in Mikrowelle aufkochen","x":580,"y":20,"width":250,"height":60,"color":"6"},
+		{"id":"150066e1df233295","type":"text","text":"Aliquot: 9 x 3 mL in Reagenzgläser","x":760,"y":-20,"width":250,"height":60},
+		{"id":"f0655a3a0c491aa9","type":"text","text":"Inkubation: 1d, 28°C (Hefe)/ 37°C (E. coli Stämme)","x":-220,"y":560,"width":268,"height":59,"color":"6"}
+	],
+	"edges":[
+		{"id":"61a21f82cc9ba4f2","fromNode":"61b71eec7599b802","fromSide":"bottom","toNode":"acc4009eb3f53d07","toSide":"top"},
+		{"id":"b6a36776764e8c27","fromNode":"acc4009eb3f53d07","fromSide":"bottom","toNode":"9cf05b6a26e1ffc1","toSide":"top"},
+		{"id":"33772ebb249aa352","fromNode":"61b71eec7599b802","fromSide":"bottom","toNode":"f49c83d6bf0e1919","toSide":"top"},
+		{"id":"ab4dd7a20a898f91","fromNode":"f49c83d6bf0e1919","fromSide":"bottom","toNode":"b504e626198953aa","toSide":"top"},
+		{"id":"006697bf8280d0af","fromNode":"9cf05b6a26e1ffc1","fromSide":"bottom","toNode":"215616e81a81ecf2","toSide":"top"},
+		{"id":"45334f0fb936e598","fromNode":"b504e626198953aa","fromSide":"bottom","toNode":"215616e81a81ecf2","toSide":"top"},
+		{"id":"ca2e79fa77a05b7d","fromNode":"215616e81a81ecf2","fromSide":"bottom","toNode":"e0311b93106a895b","toSide":"top"},
+		{"id":"b98f07fa43841b40","fromNode":"e0311b93106a895b","fromSide":"bottom","toNode":"f0655a3a0c491aa9","toSide":"top"},
+		{"id":"3b3b18bfa5cfa220","fromNode":"f0655a3a0c491aa9","fromSide":"bottom","toNode":"57fb6e2fcbed9ade","toSide":"top"},
+		{"id":"144976d2f642c410","fromNode":"57fb6e2fcbed9ade","fromSide":"bottom","toNode":"2d0724cacf68e792","toSide":"top"},
+		{"id":"26b7c7192af45624","fromNode":"fc87ef76e3215403","fromSide":"right","toNode":"acc4009eb3f53d07","toSide":"left","label":"Gruppe 3"},
+		{"id":"2df5793e1d1cc919","fromNode":"0b6cf0ba893bd29d","fromSide":"left","toNode":"f49c83d6bf0e1919","toSide":"right","label":"Gruppe 4"}
+	]
+}

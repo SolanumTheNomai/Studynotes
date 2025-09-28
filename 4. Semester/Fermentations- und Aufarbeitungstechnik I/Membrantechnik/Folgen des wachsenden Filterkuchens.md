@@ -1,0 +1,6 @@
+- Kuchenhöhe nimmt zu, wobei der Gesamtdruck aufgrund der Stabilität der Membran konstant gehalten werden muss
+--> Druck der Flüssigkeit wird mehr und mehr auf dem Filterkuchen übertragen 
+--> Filterkuchen wird komprimiert
+--> Kapillardurchgänge werden kleiner 
+--> Porosität nimmt ab 
+--> [Flux](Flux.md) wird geringer

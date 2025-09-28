@@ -1,0 +1,1 @@
+- Niederschläge könnten sich in der Sahelzone erhöhen --> Wiederbegrünung --> Staubstürme über dem Atlantik werden gestoppt --> Nährstoffversorgung im Amazonasregenwald veringert --> Rückgang des Amazonasregenwald

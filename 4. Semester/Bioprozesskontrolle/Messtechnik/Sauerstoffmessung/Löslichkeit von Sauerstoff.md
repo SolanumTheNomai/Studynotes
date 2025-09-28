@@ -1,0 +1,2 @@
+- 9 mg/L --> schlechte Löslichkeit
+- schlechtere Löslichkeit bei höherer Temperatur, geringeren Druck (Henry-Gesetz) und gelösten Stoffen im Wasser (z.B. Salze) 

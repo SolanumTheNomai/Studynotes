@@ -1,0 +1,1 @@
+- gibt an, welche Menge pro Fläche und Zeitraum in einen Ökosystem deponiert werden kann (z.B. künstliche Düngung), ohne dass langfristig deutliche Schäden auftreten

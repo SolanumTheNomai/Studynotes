@@ -1,0 +1,2 @@
+- Glucose wird phosphoryliert --> Verbleib der Glucose in der Zelle
+- Spaltung von C6-Körper in zwei C3-Körper --> Destabilisierung

@@ -1,0 +1,2 @@
+- konstante Abweichung vom wahren Wert 
+--> Fehler im Messverfahren oder -Gerät

@@ -1,0 +1,1 @@
+- Bildung von C-C, C-S, C-O und C-N Bindungen durch Kondensationsreaktionen --> Hydrolyse von ATP

@@ -1,0 +1,2 @@
+- Führungsregler: Messung der Temperatur im Reaktor --> gibt die Führungsgröße an 
+- Folgeregler: Messsung der Temperatur im Doppelmantel --> Ausgleich der Störung bei Abweichungen in der SOLL-Temperatur

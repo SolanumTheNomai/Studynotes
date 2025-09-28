@@ -1,0 +1,4 @@
+- Produkteigenschaften (u.a. wichtig für bioanalytische Zwecke )
+- Produktkonzentration (Einfluss auf die Art der Aufreiningung, Trennung, etc.)
+- Chargengrößen (Aufarbeitungserfolg abhängig vom Mengendurchsatz)
+- Produktstabilität (Temperatur, pH-Wert, etc. sind wichtige Faktoren in der Aufarbeitung, damit das Produkt erhalten bleibt)

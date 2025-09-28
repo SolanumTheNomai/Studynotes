@@ -1,0 +1,1 @@
+Ablesen der DNA und deren Übertragung auf ein neu synthetisiertes RNA-Molekül

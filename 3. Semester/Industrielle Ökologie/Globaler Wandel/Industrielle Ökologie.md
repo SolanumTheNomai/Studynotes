@@ -1,0 +1,2 @@
+- Konzept einer nachhaltigen Einbettung der **Technosphäre** (menschengeschaffene industriellen Systeme) in die **Ökosphäre** (natürliche Systeme der Erde)
+--> wirtschaftliche Aktivitäten sollen in Einklang mit den natürlichen Kreisläufen und Ressourcen stehen

@@ -1,0 +1,2 @@
+- Grenzen des Wachstums könnten erweitert werden, in dem durch technologische Fortschritte die Effizienz steigt (geringerer Ressourcenverbrauch)
+- z.B: Clean-Meat

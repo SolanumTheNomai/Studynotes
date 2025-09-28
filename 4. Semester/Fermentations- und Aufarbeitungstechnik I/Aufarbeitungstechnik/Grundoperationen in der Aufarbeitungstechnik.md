@@ -1,0 +1,3 @@
+- Mechanische Trennverfahren (Filtration, Zentrifugation, ...)
+- Physikalisch-chemische Trennverfahren (Adsorption, Kristallisation, ...)
+- chemische Trennverfahren (Fällung --> Veränderung des LM --> Substanz fällt aus, ...)

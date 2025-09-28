@@ -1,0 +1,1 @@
+- Probe und Salzlösung werden homogen veteilt --> Zentrifugation --> Salz-Ionen werden zum Röhrchenboden gedrückt, während die Kraft der Diffusion (entstandenes Konzentrationsgefälle) entgegenwirkt --> Entstehung eines Dichtegradientens der Salzlösung

@@ -1,0 +1,12 @@
+- Genussmittel (z.B. Bier/Wein)
+- Aminosäuren (z.B. Glutamat)
+- Vitamine (z.B. Riboflavin (B2))
+- Lipide 
+
+- Säuren (z.B. Milchsäure, Zitronensäure)
+- Lösungsmittel (z.B. Aceton, Bioethanol)
+- Biomasse (z.B. Bäckerhefe)
+- Enzyme (z.B. Waschmittel)
+- Lebensmittel (z.B. Erythrit)
+- Antibiotika (z.B. Penicillin)
+- Biopolymere (z.B. Polyhydroxyalkanoate)

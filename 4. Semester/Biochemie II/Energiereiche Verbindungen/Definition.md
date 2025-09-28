@@ -1,0 +1,1 @@
+- Verbindungen mit energiereichen Bindungen, wo bei der Spaltung eine große Menge an Energie frei wird (min. $\Delta G^{´0} = -30kJ/mol$)

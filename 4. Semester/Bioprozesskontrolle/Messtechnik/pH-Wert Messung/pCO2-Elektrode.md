@@ -1,0 +1,2 @@
+- $CO_2$ diffundiert sind gasdurchlässige Membran in den Messelektrolyten --> Reaktion zu Kohlensäure --> Sinken des pH-Werts
+--> $pCO_2$ (Partialdruck) proportional zum pH-Wert eines der Messelektrodenlösung (Funktionsweise analog zum pH-Meter)

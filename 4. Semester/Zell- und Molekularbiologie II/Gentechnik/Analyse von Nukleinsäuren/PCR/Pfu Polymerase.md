@@ -1,0 +1,3 @@
+- ermöglicht durch 3'-5' Exonucleaseaktivität proofreading
+--> geringere Fehlerrate ($10^{-6}$)
+--> geringere Syntheserate

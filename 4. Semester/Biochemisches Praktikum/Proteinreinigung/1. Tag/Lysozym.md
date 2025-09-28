@@ -1,0 +1,1 @@
+- Enzym, welches die $\beta$-1,4-glykosidischen Bindungen des Peptidoglykans spaltet --> bakterizide Wirkung auf $Gram^+$ - Bakterien

@@ -1,0 +1,8 @@
+- Lokalisation des Produktes (intra-/extrazellulär)
+- Produkteigenschaften
+- Eigenschaften des Nährmediums, der MOs, und der Nebenprodukte
+- Produktkonzentration
+- Chargengröße
+- späterer Verwendungszweck (z.B. bzgl. der Reinheit)
+- Produktstabilität
+- Kosten

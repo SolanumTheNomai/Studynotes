@@ -1,0 +1,1 @@
+- beschreibt die Eigenschaften und Vorgänge in ruhenden und strömenden Fluiden (Flüssigkeiten und Gase)

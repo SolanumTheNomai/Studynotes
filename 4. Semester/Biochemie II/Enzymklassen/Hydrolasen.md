@@ -1,0 +1,1 @@
+- hydrolytische Spaltung (Addition von Wasser)

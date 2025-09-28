@@ -1,0 +1,2 @@
+![](Pasted%20image%2020250514144006.png)
+- DCs erkennen Pathogene über PRRs --> Aktivierung der DCs --> Reifung der DCs zu einer antigenpräsentierenden Zelle --> DCs wandern über Lympfgefäße in den Lympfknoten --> Interaktion von DCs und T-Zellen --> adaptive Immunantwort

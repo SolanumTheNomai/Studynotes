@@ -1,0 +1,1 @@
+- richtige Ergebnisse für alle interessierenden Analyten werden überliefert (quantitativ akkurat)

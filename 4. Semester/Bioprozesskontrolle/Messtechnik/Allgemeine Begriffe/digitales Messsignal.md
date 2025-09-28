@@ -1,0 +1,1 @@
+- kann nur diskrete Werte annehmen (abhängig von der Anzahl der Stellen)

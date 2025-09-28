@@ -1,0 +1,2 @@
+- Proteine enthalten oft fluoreszierende Chromophore, wie Tryptophan oder FAD 
+- tryptophanhaltige Proteine fluoreszieren stark im UV-Bereich, wobei die Intensität + deren Emissionsspektrum stark von ihrer Umgebung des Tryptophanrests abhängt --> Veränderung in der Umgebung (z.B. Änderung der Proteinstruktur, Denaturierung,...) können die Fluoreszenzeigenschaften beeinflussen und somit Aussagen zur Struktur, Interaktion, usw. von Proteinen geben

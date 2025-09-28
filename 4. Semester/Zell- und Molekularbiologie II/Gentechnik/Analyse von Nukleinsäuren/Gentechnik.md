@@ -1,0 +1,3 @@
+- gezielte Eingriffe in das Erbgut
+--> Veränderung der Erbinformationen
+--> Einbringung von Erbgut in andere Organismen 

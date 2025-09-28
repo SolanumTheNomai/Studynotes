@@ -1,0 +1,1 @@
+- magnetischer Prozess, um magnetische Stoffe von nicht magn. Stoffen zu trennen 

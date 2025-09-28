@@ -1,0 +1,1 @@
+- intermolekulare Gruppenübertragungen (z.B. Kinasen)

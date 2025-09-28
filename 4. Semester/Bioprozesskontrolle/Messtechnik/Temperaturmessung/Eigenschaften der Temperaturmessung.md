@@ -1,0 +1,5 @@
+- Gute Wärmeübertragung vom Medium zum Sensor --> Einbau nahe am Rührer
+- Gute Wärmeleitung im Sensor
+- kein Einfluss der Temperatur der Reaktorwand, etc. auf die Messung (Zielgröße ist die Temperatur im Medium)
+- kein unkontrollierter elektrischer Widerstand in Kabelverbindungen/Steckern
+- keine Wärmeerzeugung durch zu hohe Ströme durch das Widerstandsthermometer (Reibung)

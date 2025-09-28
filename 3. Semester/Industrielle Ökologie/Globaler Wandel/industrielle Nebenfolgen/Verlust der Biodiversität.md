@@ -1,0 +1,7 @@
+- etwa eine von acht Mio. Tier- und Pflanzenarten sind vom Aussterben bedroht
+- Ursachen:
+	- Landnutzung (Monokulturen, Abholzung, ...)
+	- Ausbeutung der Ressourcen (z.B. Überfischung)
+	- Klimawandel
+	- Umweltverschmutzung
+	- invasive Fremdarten

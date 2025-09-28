@@ -1,0 +1,1 @@
+- Großteil der Niederschläge im Amazonas stammt aus dem Wald verdunstetem Wasser --> Rückgang der Niederschläge + Abholzung --> Rückgang des Regenwaldes --> geringerer Niederschlag --> Rückkopplungseffekt

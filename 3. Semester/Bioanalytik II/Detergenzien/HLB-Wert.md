@@ -1,0 +1,2 @@
+- Hydrophobic-Lipophobic Balance
+- Maß für die Potenz und Wasserlöslichkeit eines Detergenz

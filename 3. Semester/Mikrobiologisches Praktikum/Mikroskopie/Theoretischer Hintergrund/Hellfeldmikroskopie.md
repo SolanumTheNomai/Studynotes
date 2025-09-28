@@ -1,0 +1,1 @@
+-  Licht vom Präparat wird teilweise absorbiert (durch Färbung und Lichtschwächung --> **Amplitudenpräparate**) --> stärkere Kontraste wahrnehmbar 

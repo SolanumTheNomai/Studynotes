@@ -1,0 +1,4 @@
+- Hitzewellen
+- größere Schäden durch Gewitter
+- erhöhter Niederschlag
+- erhöhte Dürrehäufigkeit 

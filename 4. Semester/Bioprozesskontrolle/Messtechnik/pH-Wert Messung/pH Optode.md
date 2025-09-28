@@ -1,0 +1,3 @@
+- Kombination aus z.B. zwei Fluoreszenz-Farbstoffen
+--> Referenzindikator (inert für pH-Änderungen)
+--> pH-sensitiver Indikator --> Änderung des pH-Werts resultiert in Änderung der Fluoreszenz-Intensität

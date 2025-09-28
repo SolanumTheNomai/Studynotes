@@ -1,0 +1,2 @@
+- Vorgang, bei dem die Säule vor der Trennung mit dem verwendeten Puffer gespült wird 
+--> Einstellung eines Gleichgewichtszustands innerhalb der Säule = Anfangszustand für die Auftrennung 

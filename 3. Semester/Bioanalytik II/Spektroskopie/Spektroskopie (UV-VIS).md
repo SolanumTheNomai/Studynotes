@@ -1,0 +1,2 @@
+- Darstellung der Absorption/Extinktion durch eine Probe über ein Spektrum an Wellenlängen hinweg (Absorptionsspektrum)
+--> Absorption durch Anregung von Elektronen im Energieniveau 

@@ -1,0 +1,3 @@
+- mehrere Phasen
+	- kontinuierliche Phase
+	- disperse Phase

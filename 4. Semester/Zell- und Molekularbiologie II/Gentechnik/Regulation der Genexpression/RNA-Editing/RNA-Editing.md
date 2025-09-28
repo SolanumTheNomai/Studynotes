@@ -1,0 +1,1 @@
+- einzelne Basen werden in der RNA verändert

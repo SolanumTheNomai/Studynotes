@@ -1,0 +1,2 @@
+- Identifikation einer molekularen Verbindung bei der Bestimmung der Fluoreszenzspektren
+- durch Analyse der Einwirkung des pH-Wertes, Lösungsmittelzusammensatzung, Polarität, ... auf die Fluoreszenz der Verbindung --> Informationen über die Struktur des Moleküls

@@ -1,0 +1,2 @@
+- Unterschiedliche Morphologie, Dimensionen, Oberflächenbeschaffenheiten und Absorderungen der MOs 
+--> Unterschiedliche Trennmethoden oder Methoden in der Fermentation

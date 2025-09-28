@@ -1,0 +1,6 @@
+- pH-Abweichungen
+- Temperaturabweichungen
+- Sauerstoffkonzentrationen
+- Hydrodynamische Kräfte (z.B. Scherkräfte durchs Rühren)
+- Akkumulation von toxischen Stoffwechselprodukten (z.B. Lactat)
+- Nährstoffbereitstellung (Glucose, Aminosäuren, ...)

@@ -1,0 +1,2 @@
+- optische Gläser: Linsenpapier verwenden!
+- besonders gründliche Reinigung beim 100er Objektiv (einziges Objektiv mit Immersionsöl)

@@ -1,0 +1,5 @@
+- einzellige farblose Eukaryoten
+- meist beweglich 
+- keine Zellwand 
+- Ernährung durch Phagozytose 
+- z.B. Amöbe 

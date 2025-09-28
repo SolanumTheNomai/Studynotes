@@ -1,0 +1,1 @@
+- zeitliche Änderung eines Messsignals unter konstanten Bedingungen

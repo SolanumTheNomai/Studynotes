@@ -1,0 +1,1 @@
+- thermischer Prozess für die Trennung von Stoffen

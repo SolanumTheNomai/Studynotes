@@ -1,0 +1,1 @@
+- Mittel (meist Flüssigkeit), das verwendet wird, um eine Substanz zu eluieren

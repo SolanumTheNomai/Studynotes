@@ -1,0 +1,1 @@
+- wie weit ein Messgerät zwischen zwei beieinander liegenden Messwerten eindeutig unterscheiden kann

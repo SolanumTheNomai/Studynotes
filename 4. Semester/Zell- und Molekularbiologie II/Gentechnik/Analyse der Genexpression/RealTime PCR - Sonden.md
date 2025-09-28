@@ -1,0 +1,3 @@
+- binden spezifisch an bestimmte Stellen der DNA 
+--> sehr spezifische Ergebnisse
+--> relativ teuer

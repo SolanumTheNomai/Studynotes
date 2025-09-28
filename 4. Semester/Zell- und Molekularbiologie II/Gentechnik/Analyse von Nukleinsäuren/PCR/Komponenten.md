@@ -1,0 +1,8 @@
+- Template-DNA
+- Taq-Polymerase
+- Puffer (mit $Mg^{2+}$ --> Cofaktor für die Polymerase) --> konstanter pH-Wert)
+- dNTPs (Basenbestandteile)
+- 2 Primer
+	- forward Primer
+	- reverse Primer
+- Wasser

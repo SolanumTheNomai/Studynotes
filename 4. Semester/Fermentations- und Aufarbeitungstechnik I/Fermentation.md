@@ -1,0 +1,1 @@
+- mikrobielle Umwandlung organischer Stoffe durch anaerober und aerober Prozesse

@@ -1,0 +1,1 @@
+- Trennung von Stoffgemischen, in seine einzelnen Bestandteile, aufgrund unterschiedlicher Wechselwirkungen mit der mobilen und stationären Phase

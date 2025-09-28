@@ -1,0 +1,2 @@
+![](Pasted%20image%2020250626145553.png)
+- Betrachtung aller relevanten Zustände im System in einem mathematischen Modell --> Betrachtung aller Zustandsgrößen (Regelgrößen und Größen, welche Regelgrößen beeinflussen (Stellgrößen und **Störgrößen**)) 

@@ -1,0 +1,2 @@
+- Probe wird in flüssigen Agar gebracht
+--> jede vermehrungsfähige Zelle bildet je eine Kolonie (bei geeigneter Verdünnung)

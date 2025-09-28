@@ -1,0 +1,1 @@
+- beschreibt die Fähigkeit für den Impulstransport

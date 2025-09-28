@@ -1,0 +1,1 @@
+- Messergebnisse sind trotz variierender Bedingungen nicht/unwesentlich verfälscht

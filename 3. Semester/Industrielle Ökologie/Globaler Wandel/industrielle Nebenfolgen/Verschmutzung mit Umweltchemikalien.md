@@ -1,0 +1,5 @@
+- "Dreckige Dutzend" (bestimmte persistente organische Schadstoffe (z.B. DDT)) wurde durch ein Übereinkommen 2001 weltweit verboten 
+--> Bioakkumulation in der Nahrungskette
+--> Persistenz in der Umwelt
+--> Toxizität 
+--> Fähigkeit der Fernverbreitung durch Luft- und Wasserkreisläufe

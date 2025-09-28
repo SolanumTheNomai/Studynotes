@@ -1,0 +1,2 @@
+- gibt an, wie viel Reinstoff man in einen LM lösen kann, bis Sättigung eintritt
+--> hängt vom (Partial-)Druck und Temperatur ab 

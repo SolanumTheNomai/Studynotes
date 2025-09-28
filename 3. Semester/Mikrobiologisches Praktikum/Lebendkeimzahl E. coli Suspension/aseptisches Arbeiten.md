@@ -1,0 +1,4 @@
+- in der Nähe der Flamme arbeiten 
+- Geräte steril halten 
+- Flaschen und Kolben in der Nähe der Flamme öffnen + nur so kurz wie möglich 
+- Luftaufwirbelungen vermeiden

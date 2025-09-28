@@ -1,0 +1,4 @@
+- UV-Strahlung
+- Ethidiumbromid
+- Acrylamid
+- Nitrosoguanidin

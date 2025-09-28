@@ -1,0 +1,2 @@
+- Bildung von Endosporen, welche eine hohe Resistenz bei schlechten Wachstumsbedingungen aufweisen --> vegetative Zelle stirbt, Sporen verbleiben, um bei passenden Bedingungen wieder auszukeimen
+- meist bewegliche Gram+ Stäbchen (z.B. Clostridium, Bacillus)

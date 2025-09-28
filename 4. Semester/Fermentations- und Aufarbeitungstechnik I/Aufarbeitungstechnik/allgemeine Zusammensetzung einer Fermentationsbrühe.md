@@ -1,0 +1,6 @@
+- MOs
+- nicht umgesetzte Rohstoffe
+- gewünschte Produkte
+- unerwünschte Nebenprodukte (Absonderungen der MOs)
+- weitere Zusatzstoffe (z.B. Antischaummittel)
+- Wasser

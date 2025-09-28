@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"bdf1a00c6fea2cf2","type":"text","text":"==ÜK==","x":-101,"y":-140,"width":101,"height":55,"color":"4"},
+		{"id":"90bd116b4bd9410a","type":"text","text":"WP2-A/B/C oder D","x":-20,"y":-180,"width":250,"height":60},
+		{"id":"be0594cb09a57ef6","type":"text","text":"==SK==","x":-80,"y":80,"width":92,"height":61,"color":"4"},
+		{"id":"378adebeb8951da3","type":"text","text":"Platte 1: LB-Platte, Ausstrich in 4 Sektoren","x":-520,"y":540,"width":250,"height":60,"color":"6"},
+		{"id":"302de02290d65934","type":"text","text":"Platte 2: $LB_{Amp}$ -Platte, Austrich in 4 Sektoren","x":-160,"y":540,"width":250,"height":60,"color":"6"},
+		{"id":"b6c49e8ddab82b52","type":"text","text":"Platte 3: LB-Platte, 4 Querstriche","x":240,"y":540,"width":250,"height":60,"color":"6"},
+		{"id":"22b84e300183bef1","type":"text","text":"bei 37°C über Nacht bebrüten","x":-160,"y":860,"width":250,"height":60,"color":"6"},
+		{"id":"554f8bee3d467f82","type":"text","text":"Laborbuch: Ergebnisse der einzelnen Ausstriche","x":-160,"y":1020,"width":250,"height":60,"color":"6"},
+		{"id":"74b4cb92c245e038","type":"text","text":"==Plattenaustriche==","x":-160,"y":320,"width":250,"height":60,"color":"4"},
+		{"id":"bd95f85c24b7b272","type":"text","text":"halbe Platte abdecken, \n60 s mit UV-Lampe bestrahlen","x":440,"y":520,"width":279,"height":62}
+	],
+	"edges":[
+		{"id":"d8e5a205206a37fe","fromNode":"bdf1a00c6fea2cf2","fromSide":"bottom","toNode":"be0594cb09a57ef6","toSide":"top"},
+		{"id":"1e843274fc8a9c20","fromNode":"22b84e300183bef1","fromSide":"bottom","toNode":"554f8bee3d467f82","toSide":"top"},
+		{"id":"612757a93ac15af0","fromNode":"be0594cb09a57ef6","fromSide":"bottom","toNode":"74b4cb92c245e038","toSide":"top"},
+		{"id":"48c5e6f6aa800c31","fromNode":"74b4cb92c245e038","fromSide":"bottom","toNode":"378adebeb8951da3","toSide":"top"},
+		{"id":"85ed3339f03cc742","fromNode":"74b4cb92c245e038","fromSide":"bottom","toNode":"302de02290d65934","toSide":"top"},
+		{"id":"e58ed83196f76f15","fromNode":"74b4cb92c245e038","fromSide":"bottom","toNode":"b6c49e8ddab82b52","toSide":"top"},
+		{"id":"d0121435953b8745","fromNode":"302de02290d65934","fromSide":"bottom","toNode":"22b84e300183bef1","toSide":"top"}
+	]
+}

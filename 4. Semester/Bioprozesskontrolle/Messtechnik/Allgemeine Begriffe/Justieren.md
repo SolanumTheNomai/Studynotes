@@ -1,0 +1,2 @@
+- Einstellen eines Messgerätes, um systematische Messabweichungen so weit zu beseitigen, wie es für die Anwendung erfoderlich ist
+--> Eingriff in das Gerät

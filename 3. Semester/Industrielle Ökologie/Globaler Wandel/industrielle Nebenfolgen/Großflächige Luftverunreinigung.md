@@ -1,0 +1,3 @@
+1950
+- Smog in Großstädten, wie London, Tokio, Ruhrgebiet, ...
+--> tausende Tote 

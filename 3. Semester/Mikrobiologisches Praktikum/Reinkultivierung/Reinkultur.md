@@ -1,0 +1,2 @@
+- Kultur, mit nur einer Mikroorganismenart
+--> auf der Platte darf nur noch eine Kultur zu sehen sein + Mikroskopieren nötig, um zu bestätigen, dass keine weiteren Kolonien von MO-Arten sich unter der gewünschten MO-Art verstecken

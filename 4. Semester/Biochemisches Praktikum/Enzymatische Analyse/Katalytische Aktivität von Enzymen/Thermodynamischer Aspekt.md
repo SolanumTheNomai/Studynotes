@@ -1,0 +1,1 @@
+- spontan ablaufende Reaktionen haben keine Aussagekraft über die Reaktionsgeschwindigkeit --> Kinetik abhängig von der Aktivierungsenergie

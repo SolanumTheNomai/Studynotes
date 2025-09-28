@@ -1,0 +1,5 @@
+- Zelldifferenzierung 
+- Regulation des Zellwachstums 
+- Zellzykluskontrolle
+- Stoffwechselsteuerung
+- Apoptose

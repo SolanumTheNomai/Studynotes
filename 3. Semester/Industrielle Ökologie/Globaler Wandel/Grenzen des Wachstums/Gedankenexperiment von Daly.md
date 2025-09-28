@@ -1,0 +1,2 @@
+![](Pasted%20image%2020241025094241.png)
+--> unendliches Wachstum ist nicht möglich, da für das Wachstum Konsumgüter in steigender Anzahl produziert werden müssen und die Erde ressourcentechnisch Grenzen aufweist

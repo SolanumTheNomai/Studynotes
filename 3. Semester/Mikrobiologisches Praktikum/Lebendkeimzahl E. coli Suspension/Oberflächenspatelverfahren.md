@@ -1,0 +1,1 @@
+- Probe wird mithilfe eines Drigaskispatels auf eine Agaroberfläche gebracht

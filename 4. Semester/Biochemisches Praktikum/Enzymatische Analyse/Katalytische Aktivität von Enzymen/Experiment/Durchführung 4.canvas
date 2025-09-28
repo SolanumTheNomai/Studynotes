@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"b62244852d46be07","type":"text","text":"Bestimmung der Volumenaktivität einer Lösung vom Glucose-6-phosphat-Dehydrogenase (Glc-6-P-DH)","x":-156,"y":-200,"width":296,"height":141,"color":"5"},
+		{"id":"54501c634118c9c6","type":"text","text":"Vorbereitung","x":-750,"y":80,"width":250,"height":60,"color":"5"},
+		{"id":"e861ecb6d4433436","type":"text","text":"Verdünnung (1 mL)","x":-952,"y":231,"width":250,"height":60},
+		{"id":"71551afbf2261ace","type":"text","text":"1:20","x":-1220,"y":357,"width":108,"height":60,"color":"1"},
+		{"id":"12948b64bba8d671","type":"text","text":"1:50","x":-1092,"y":408,"width":105,"height":60,"color":"1"},
+		{"id":"f66b73950bf67b80","type":"text","text":"1:100","x":-972,"y":468,"width":117,"height":60,"color":"1"},
+		{"id":"5095d379f76be3d6","type":"text","text":"1:200","x":-832,"y":448,"width":121,"height":58,"color":"1"},
+		{"id":"4137cb90a0754684","type":"text","text":"1:500","x":-692,"y":428,"width":120,"height":59,"color":"1"},
+		{"id":"9f4a9a73fafd6e15","type":"text","text":"!Im Eisbad aufbewahren!","x":-1052,"y":568,"width":250,"height":60,"color":"2"},
+		{"id":"114e339a950333e1","type":"text","text":"Photometereinstellung","x":-420,"y":240,"width":250,"height":60},
+		{"id":"d6ba59260ab105bb","type":"text","text":"Kinetik; Temp.: 25°C","x":-431,"y":406,"width":250,"height":60,"color":"1"},
+		{"id":"37297495a800e0ca","type":"text","text":"Durchführung","x":454,"y":98,"width":250,"height":60,"color":"5"},
+		{"id":"84d87026aa362ec4","type":"text","text":"[Extinktionen verfolgen](Extinktionen%20verfolgen.md)","x":400,"y":260,"width":250,"height":60,"color":"1"},
+		{"id":"e78007919973c340","x":966,"y":88,"width":250,"height":60,"color":"5","type":"text","text":"Auswertung"},
+		{"id":"78b14b3470fc6b72","x":852,"y":227,"width":250,"height":133,"color":"1","type":"text","text":"Graphische Darstellung von Extinktionsänderung in Abh. der relativen Enzymmenge"},
+		{"id":"fe7f7f2713ae559c","x":740,"y":420,"width":250,"height":60,"color":"1","type":"text","text":"optimale Enzymverdünnung?"},
+		{"id":"9efd6eb9635de974","x":1184,"y":330,"width":250,"height":60,"color":"1","type":"text","text":"Berechnung der [Volumenaktivität](Volumenaktivität.md)"}
+	],
+	"edges":[
+		{"id":"4dea2af2b537f742","fromNode":"b62244852d46be07","fromSide":"bottom","toNode":"54501c634118c9c6","toSide":"top"},
+		{"id":"cd3053c8e51c25e9","fromNode":"54501c634118c9c6","fromSide":"bottom","toNode":"e861ecb6d4433436","toSide":"top"},
+		{"id":"011312e52073a785","fromNode":"e861ecb6d4433436","fromSide":"bottom","toNode":"71551afbf2261ace","toSide":"top"},
+		{"id":"7059ea86db507ac9","fromNode":"e861ecb6d4433436","fromSide":"bottom","toNode":"12948b64bba8d671","toSide":"top"},
+		{"id":"4743d3ada8cf3a01","fromNode":"e861ecb6d4433436","fromSide":"bottom","toNode":"f66b73950bf67b80","toSide":"top"},
+		{"id":"f308f549ea588097","fromNode":"e861ecb6d4433436","fromSide":"bottom","toNode":"5095d379f76be3d6","toSide":"top"},
+		{"id":"c021f453089aa7ef","fromNode":"e861ecb6d4433436","fromSide":"bottom","toNode":"4137cb90a0754684","toSide":"top"},
+		{"id":"4927cd80c8fcb44a","fromNode":"54501c634118c9c6","fromSide":"bottom","toNode":"114e339a950333e1","toSide":"top"},
+		{"id":"88ddd5ac1ece795c","fromNode":"114e339a950333e1","fromSide":"bottom","toNode":"d6ba59260ab105bb","toSide":"top"},
+		{"id":"f7a4424c1e687fbb","fromNode":"b62244852d46be07","fromSide":"bottom","toNode":"37297495a800e0ca","toSide":"top"},
+		{"id":"313b06f29252d2b6","fromNode":"37297495a800e0ca","fromSide":"bottom","toNode":"84d87026aa362ec4","toSide":"top"},
+		{"id":"61a1526bb6ea5b15","fromNode":"b62244852d46be07","fromSide":"bottom","toNode":"e78007919973c340","toSide":"top"},
+		{"id":"78b8c01f6c75f387","fromNode":"e78007919973c340","fromSide":"bottom","toNode":"78b14b3470fc6b72","toSide":"top"},
+		{"id":"ba14c339e51beb01","fromNode":"78b14b3470fc6b72","fromSide":"bottom","toNode":"fe7f7f2713ae559c","toSide":"top"},
+		{"id":"423eae24e245b3f6","fromNode":"e78007919973c340","fromSide":"bottom","toNode":"9efd6eb9635de974","toSide":"top"}
+	]
+}

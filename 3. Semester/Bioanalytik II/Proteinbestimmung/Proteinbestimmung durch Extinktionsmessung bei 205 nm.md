@@ -1,0 +1,2 @@
+- Extinktion durch die Peptidbindungen in Proteinen 
+--> durch große Anzahl an Peptidbindungen in Proteinen: sehr sensitiv und weniger proteinspezifisch, als Messungen bei 280 nm

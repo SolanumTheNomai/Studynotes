@@ -1,0 +1,4 @@
+- Aktiver Export des Antibiotikums
+- Änderung des Wirkortes
+- Inaktivierung des Antibiotikums (z.B. enzymatisch)
+- Änderung der Permeabilität für das Antibiotikum

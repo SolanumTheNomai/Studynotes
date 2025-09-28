@@ -1,0 +1,2 @@
+- bei geringer Keimbelastung
+- Proben werden durch Nitrocellulose-Filter filtriert --> Nährstoffe diffundieren durch die dünne Membran, gewachsene Kolonien können auf den Filtern ausgezählt werden 

@@ -1,0 +1,4 @@
+- Energiekosten
+- Chemikalien
+- Ausbeute
+- ...

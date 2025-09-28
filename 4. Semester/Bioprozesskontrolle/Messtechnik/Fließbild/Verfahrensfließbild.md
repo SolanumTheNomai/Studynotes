@@ -1,0 +1,2 @@
+- zeigt alle Apparate und Maschinen an (mittels standardisierter Symbole)
+--> Rohrleitungs- und Instrumenten-fließschema (R&I-Schema)

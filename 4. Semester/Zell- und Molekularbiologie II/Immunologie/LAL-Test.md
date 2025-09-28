@@ -1,0 +1,2 @@
+- ermöglicht die Quantifizierung von Endotoxinen (LPS) in biotechnologischen Produkten
+- Enzym: Limulus Amebocyt Lysat

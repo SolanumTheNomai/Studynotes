@@ -1,0 +1,1 @@
+- meist eine feste Matrix (z.B. Agarose, Kieselgel)

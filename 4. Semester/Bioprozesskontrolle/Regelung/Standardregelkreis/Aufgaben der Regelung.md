@@ -1,0 +1,3 @@
+- Stabilisierung des Systems
+- Ausgleich von Störungen
+- Eingaben von Vorgaben und Optimierung des Verhaltens

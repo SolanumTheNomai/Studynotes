@@ -1,0 +1,8 @@
+- spezifisch für das gewünschte Amplifikationsprodukt
+- Länge 18-30 bp
+- G/C-Gehalt: 40-60%
+- nicht mehr als 4 identische aufeinanderfolgende Basen
+- Schmelztemperatur: 55-80°C, identisch für beide Primer
+- 1-2 G/C am 3'Ende (mehr Stabilität durch 3-Fache H-BB)
+- keine internen Sekundärstrukturen
+- geringe Kompatibilität der 3'-Enden --> keine Primerdimere

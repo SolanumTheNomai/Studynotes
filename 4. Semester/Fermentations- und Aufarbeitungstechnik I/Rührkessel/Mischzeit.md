@@ -1,0 +1,1 @@
+- Zeit die vergeht, bis eine [Mischgüte M(t)](Mischgüte%20M(t).md) von 0,95 erreicht wird

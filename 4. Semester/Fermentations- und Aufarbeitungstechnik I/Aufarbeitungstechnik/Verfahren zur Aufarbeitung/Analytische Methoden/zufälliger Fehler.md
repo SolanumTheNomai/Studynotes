@@ -1,0 +1,2 @@
+- zufällige Abweichung der Messergebnisse vom Mittelwert 
+--> kann durch genügend Wiederholungen reduziert werden 

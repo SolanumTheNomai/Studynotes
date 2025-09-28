@@ -1,0 +1,1 @@
+- Protein-Standardreihe (Verdünnungsreihe) --> Konzentration bekannt --> Messen der Extinktion --> Auftragung: Extinktion vs. Konzentration --> linearer Zusammenhang, wenn das Lambert-Beersches Gesetz gilt --> Messung der Probe unbekannter Konzentration --> Auftragung auf die Kalibrierkurve --> Konzentration mit der linearen Gleichung bestimmen

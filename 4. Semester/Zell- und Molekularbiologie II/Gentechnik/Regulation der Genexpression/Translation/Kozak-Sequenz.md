@@ -1,0 +1,1 @@
+- konservierter Sequenzbereich im Umfeld des Startcodons --> effiziente Initiation der Translation durch bessere Bindung des Ribosoms

@@ -1,0 +1,1 @@
+- Eingangs- und Ausgangsgröße zeigen direkte Proportionalität

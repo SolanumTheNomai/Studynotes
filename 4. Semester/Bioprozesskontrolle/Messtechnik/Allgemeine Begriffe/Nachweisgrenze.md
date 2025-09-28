@@ -1,0 +1,1 @@
+- Extremwert des Messwert, der mit angemessener Gewissheit erkannt werden kann

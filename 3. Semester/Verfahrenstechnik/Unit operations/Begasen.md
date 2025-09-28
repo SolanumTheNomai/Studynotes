@@ -1,0 +1,1 @@
+- Gase werden in eine Flüssigkeitsphase gebracht --> mechanisches Vereinen von Stoffen

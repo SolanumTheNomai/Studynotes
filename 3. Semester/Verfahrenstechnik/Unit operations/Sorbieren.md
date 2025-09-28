@@ -1,0 +1,2 @@
+- bestimmte Stoffe adsorbieren an anderen Stoffen (thermodynamischer Prozess)
+--> termischer Prozess für die Vereinigung von Stoffen 

@@ -1,0 +1,2 @@
+- aufgrund fehlender Nährstoffe und geringen Wasservorkommen --> trocknen aus
+- Ausnahme: gesättigte Luft --> kein Wasser kommt mehr in die Luft --> MO trocknen nicht aus --> höhere Keimzahl

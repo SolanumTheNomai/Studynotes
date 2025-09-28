@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"cc1470f4af59cc02","type":"text","text":"1. Röhrchen: 1.5 mL Antibiotikum-Arbeitslösung \n   ($ß = 30µg/mL$)","x":-100,"y":-20,"width":250,"height":120,"color":"6"},
+		{"id":"5d90f00765b48b2c","type":"text","text":"In 7 großen Reagenzgläser 1.5 mL TY-Medium vorlegen","x":-100,"y":-200,"width":250,"height":98,"color":"6"},
+		{"id":"ba5033a9baf502f2","type":"text","text":"Vortexen","x":-100,"y":150,"width":250,"height":50,"color":"6"},
+		{"id":"60c788e8eb95a171","type":"text","text":"2. Röhrchen: 1.5 mL des Gemisches ","x":-100,"y":280,"width":250,"height":60,"color":"6"},
+		{"id":"cd70bed5885ca07d","type":"text","text":"*bis zum 5. Röhrchen wiederholen*","x":240,"y":140,"width":250,"height":60,"color":"6"},
+		{"id":"f7450dae7e840a2b","type":"text","text":"beim 5. Röhrchen: überschüssige 1.5 mL verwerfen","x":-100,"y":400,"width":250,"height":92,"color":"6"},
+		{"id":"716b13c6133efade","type":"text","text":"6. Röhrchen: nur Medium + E. coli (Positivkontrolle)","x":-260,"y":560,"width":250,"height":99,"color":"6"},
+		{"id":"7fd02757c64fd0b5","type":"text","text":"7. Röhrchen: nur Medium (Negativkontrolle)","x":63,"y":597,"width":277,"height":63,"color":"6"},
+		{"id":"ce258db315f8f16c","type":"text","text":"Reagenzgläser 1-6 mit 20 µl der ÜK beimpfen","x":-380,"y":780,"width":289,"height":60,"color":"6"},
+		{"id":"3856f8c7df8a7db2","type":"text","text":"Inkubation über Nacht bei 37°C","x":-478,"y":929,"width":250,"height":60,"color":"6"},
+		{"id":"34e6c3471003df2f","type":"text","text":"auf Rotator","x":-260,"y":900,"width":160,"height":60},
+		{"id":"0363ab8012461ab4","type":"text","text":"im Kühlschrank aufbewahren","x":240,"y":740,"width":250,"height":60,"color":"6"},
+		{"id":"ca6a16b104cba862","type":"text","text":"==Auswertung==","x":-143,"y":1119,"width":250,"height":60,"color":"4"},
+		{"id":"b65186ac3daef9e8","type":"text","text":"MHK berechnen","x":-120,"y":1460,"width":250,"height":60,"color":"6"},
+		{"id":"40afb4e71a634272","type":"text","text":"Ergebnisse mit Nachbargruppe diskutieren","x":-120,"y":1600,"width":250,"height":103,"color":"6"},
+		{"id":"64ee6a45ed6fc969","type":"text","text":"Trübung der Röhrchen beobachten (Vergleich mit Positiv- und Negativkontrolle)","x":-140,"y":1280,"width":280,"height":100,"color":"6"},
+		{"id":"4c3cb28b7d25a1d3","type":"text","text":"Antibiotikazugabe zu 2 x 20 mL TY-Medium","x":-540,"y":0,"width":250,"height":60,"color":"6"},
+		{"id":"0f473a4d9066b54f","type":"text","text":"10 mL Ampicillin-Stammlsg. herstellen","x":-980,"y":0,"width":250,"height":60,"color":"6"}
+	],
+	"edges":[
+		{"id":"ded0ac785ecd339f","fromNode":"5d90f00765b48b2c","fromSide":"bottom","toNode":"cc1470f4af59cc02","toSide":"top"},
+		{"id":"a76160472d22a55a","fromNode":"cc1470f4af59cc02","fromSide":"bottom","toNode":"ba5033a9baf502f2","toSide":"top"},
+		{"id":"88c71542b5d22460","fromNode":"ba5033a9baf502f2","fromSide":"bottom","toNode":"60c788e8eb95a171","toSide":"top"},
+		{"id":"92b2a2d10ee964e3","fromNode":"60c788e8eb95a171","fromSide":"right","toNode":"cd70bed5885ca07d","toSide":"bottom"},
+		{"id":"d109d90c2a91e1ae","fromNode":"60c788e8eb95a171","fromSide":"bottom","toNode":"f7450dae7e840a2b","toSide":"top"},
+		{"id":"56852d9a0b9bf01d","fromNode":"f7450dae7e840a2b","fromSide":"bottom","toNode":"716b13c6133efade","toSide":"top"},
+		{"id":"6ca31338bfb814e5","fromNode":"f7450dae7e840a2b","fromSide":"bottom","toNode":"7fd02757c64fd0b5","toSide":"top"},
+		{"id":"76293a142664f0f8","fromNode":"716b13c6133efade","fromSide":"bottom","toNode":"ce258db315f8f16c","toSide":"top"},
+		{"id":"b6228f8dac9420f3","fromNode":"ce258db315f8f16c","fromSide":"bottom","toNode":"3856f8c7df8a7db2","toSide":"top"},
+		{"id":"5c02ec278f9b97c8","fromNode":"7fd02757c64fd0b5","fromSide":"bottom","toNode":"0363ab8012461ab4","toSide":"top"},
+		{"id":"eba41d8bc90a6f03","fromNode":"3856f8c7df8a7db2","fromSide":"bottom","toNode":"ca6a16b104cba862","toSide":"top"},
+		{"id":"499e8de8a07d9474","fromNode":"0363ab8012461ab4","fromSide":"bottom","toNode":"ca6a16b104cba862","toSide":"top"},
+		{"id":"48060e04325107a0","fromNode":"ca6a16b104cba862","fromSide":"bottom","toNode":"64ee6a45ed6fc969","toSide":"top"},
+		{"id":"26fe84557d86f0e1","fromNode":"64ee6a45ed6fc969","fromSide":"bottom","toNode":"b65186ac3daef9e8","toSide":"top"},
+		{"id":"603d2cbf0c7e468c","fromNode":"b65186ac3daef9e8","fromSide":"bottom","toNode":"40afb4e71a634272","toSide":"top"},
+		{"id":"fe6d3bd0369d4627","fromNode":"4c3cb28b7d25a1d3","fromSide":"right","toNode":"cc1470f4af59cc02","toSide":"left","label":"Gruppe 2"},
+		{"id":"c2f91ac61082fb15","fromNode":"0f473a4d9066b54f","fromSide":"right","toNode":"4c3cb28b7d25a1d3","toSide":"left","label":"Gruppe 6"},
+		{"id":"f5ccedef01b8b18d","fromNode":"cd70bed5885ca07d","fromSide":"top","toNode":"cc1470f4af59cc02","toSide":"right"}
+	]
+}

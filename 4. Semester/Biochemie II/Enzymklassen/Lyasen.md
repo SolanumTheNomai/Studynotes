@@ -1,0 +1,1 @@
+- Eliminierungsreaktion --> Bildung von DB/Addition an DB 

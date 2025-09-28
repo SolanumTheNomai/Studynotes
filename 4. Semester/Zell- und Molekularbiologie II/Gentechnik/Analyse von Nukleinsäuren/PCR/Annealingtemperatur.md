@@ -1,0 +1,2 @@
+- Temperatur $T_{a}$, bei der sich die Primer an die ssDNA anlagern
+- meist etwa 3-5°C unter $T_{M}$ 

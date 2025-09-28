@@ -1,0 +1,8 @@
+- hoher Durchsatz bei geringen Druck
+- geringes Fouling und Scaling (keine organischen oder anorganischen Ablagerungen)
+- beständig gegen Chemikalien/Hitze/Dampf
+- langlebig
+- homogene Porenverteilung
+- möglichst keine Adsorption des Zielmoleküls
+- geforderte Abtrennungsrate 
+- keine Leachabals/Extractabels (nichts sollte sich von der Membran aus lösen)

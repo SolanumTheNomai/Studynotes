@@ -1,0 +1,1 @@
+- Gesamtheit von Tätigkeiten oder Vorgängen zur quantitativen Ermittlung des Wertes einer physikalischen Größe durch *objektiven Vergleich*

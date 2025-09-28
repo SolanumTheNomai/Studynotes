@@ -1,0 +1,3 @@
+- funktionelle Gruppe im Molekül, welche Licht absorbiert 
+--> für die Farbgebung von organischen Molekülen verantwortlich 
+--> enthalten häufig Doppelbindungen

@@ -1,0 +1,1 @@
+- elektrischer Prozess für die Trennung von DNA-Fragmenten

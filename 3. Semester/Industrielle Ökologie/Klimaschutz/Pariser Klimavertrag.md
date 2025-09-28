@@ -1,0 +1,4 @@
+- Erderwärmung soll auf weit unter 2°C beschränkt werden
+- Netto-Null Emissionen von Treibhausgasen nach mitte der 21. Jhd. 
+--> Nationale Emissionsziele
+--> Industrieländer stellen von 2020-2050 100 Mrd. USD/Jahr bereit

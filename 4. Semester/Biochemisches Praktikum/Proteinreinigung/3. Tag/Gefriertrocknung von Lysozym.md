@@ -1,0 +1,2 @@
+- eingefrorene Probe in der Trockenkammer:
+--> in der Trockenkammer herrscht Vakuum --> Flüssigkeit sublimiert --> getrocknete Probe bleibt zurück

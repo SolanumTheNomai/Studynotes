@@ -1,0 +1,1 @@
+- katalytische Aktivitäten, neben der Hauptaktivität (z.B. Enzyme, welche ebenfalls die Substrate umsetzen als Verunreinigung) --> Aufreinigung notwendig
