@@ -1,0 +1,2 @@
+- der aufsteigende Verlauf verschiedener [[StudyNotes/1. Semester/Zellbiologie/biologische Organisationsebenen]] bedient sich Emergenten Eigenschaften 
+- --> mit jeden Schritt auf einer höheren Organisationsstufe finden Wechselwirkungen zwischen den einzelnen Bestandteilen der vorherigen Organisationsstufe statt ([[Synergismen]]) --> aus diesen Wechselwirkungen entstehen neue Eigenschaften

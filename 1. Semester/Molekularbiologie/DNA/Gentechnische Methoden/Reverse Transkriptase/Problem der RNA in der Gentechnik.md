@@ -1,0 +1,1 @@
+- sehr instabil + Haut enthält RNAse --> wird schnell abgebaut, wenn man damit arbeitet

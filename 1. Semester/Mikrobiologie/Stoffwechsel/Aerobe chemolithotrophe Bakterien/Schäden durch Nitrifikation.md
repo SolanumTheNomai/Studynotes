@@ -1,0 +1,1 @@
+- durch die Ansäuerung durch Nitrat --> Auflösen von Kalk und Zement 

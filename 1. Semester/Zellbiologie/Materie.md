@@ -1,0 +1,1 @@
+- fässt alles im Raum zusammen, was eine Masse besitzt

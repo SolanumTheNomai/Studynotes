@@ -1,0 +1,5 @@
+- besonders geeignet:
+	- Große Zahl an Individuen --> seltene genetische Ereignisse können erfasst werden
+	- Kurze Generationszeit --> hohe Vermehrungsrate 
+	- geringer Platzbedarf
+	- geringe Kosten 

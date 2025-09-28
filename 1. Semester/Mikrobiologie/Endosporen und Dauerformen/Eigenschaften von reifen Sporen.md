@@ -1,0 +1,4 @@
+- Hitzeresistenz 
+- Strahlenresistenz 
+- chemische Resistenz 
+--> all das führt dazu, dass die wichtigsten Zellkomponenten nicht zersetzt werden 

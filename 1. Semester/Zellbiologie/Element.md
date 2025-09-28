@@ -1,0 +1,1 @@
+- Stoff der sich nicht weiter durch chemische Reaktionen in kleinere Stoffe zerlegen lässt

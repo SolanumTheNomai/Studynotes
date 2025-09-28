@@ -1,0 +1,1 @@
+- Oxidation mit Licht als Energiedonator (meist: UV-Licht)

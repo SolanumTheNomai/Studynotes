@@ -1,0 +1,1 @@
+- Polysaccharide bilden an ungefähr jeder 8-12. Glucoseeinheit eine 1,6-glykosidische-Bindung --> Verzweigung zum Glykogen 

@@ -1,0 +1,3 @@
+- Versuchstiere
+- angebrütete Hühnereier 
+- Gewebekulturen 

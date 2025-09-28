@@ -1,0 +1,5 @@
+- Problem: wenn man bestimmte Enantiomere chemisch herstellen möchte erhält man meist ein Racemat
+- Lösung:
+	- Isolierung von Naturstoffen 
+	- Trennung von Racematen (schwierig, weil Enantiomere die gleichen chemischen und physikalischen Eigenschaften haben)
+	- Enantioselektive Synthese (z.B. mit chiralen Katalysatoren, wie Enzymen)

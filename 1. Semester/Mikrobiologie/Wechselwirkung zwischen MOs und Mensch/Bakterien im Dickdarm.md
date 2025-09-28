@@ -1,0 +1,9 @@
+- Bacteroides
+- Chlostridium
+- Enterobacter
+- Escherichia
+- Klebsiella
+- Lactobacillus
+- Proteus
+- Staphylococcus
+- Streptococcus

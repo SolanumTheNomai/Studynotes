@@ -1,0 +1,2 @@
+- selten bei Prokaryoten
+- Diffussion entlang des Konzentrationsgefälles mithilfe von Transportproteinen 

@@ -1,0 +1,2 @@
+![](Pasted%20image%2020240115185709.png)
+--> solange Essigsäure noch vorhanden ist --> steigender OH- Gehalt und damit sinkender Hydroniumionenanteil wird durch die Reaktion von Essigsäure in Acetat kompensiert --> pH steigt kaum an, bis Essigsäure "aufgebraucht" ist

@@ -1,0 +1,3 @@
+- DNA/RNA Polymerasen und Histonen gelangen vom Cytosol in die Zelle (Transkription und Verpackung der DNA)
+- tRNA und mRNA gelangen vom Kern ins Cytosol (Translation)
+-

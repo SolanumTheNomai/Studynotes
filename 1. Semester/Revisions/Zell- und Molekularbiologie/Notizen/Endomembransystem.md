@@ -1,0 +1,7 @@
+- Das Endomembransystem beschreibt ein Netzwerk, bestehend aus verschiedenen Organellen und Vesikeln, welche in direkter (Membrane zwischnen zwei Systemen sind miteinander verbunden) oder indirekter Interaktion (Interaktion mit verschiedenen Systemen/Organellen mittels Vesikel) stehen.
+- Inhalte sind:
+	- Zellkernhülle
+	- Endoplasmatisches Retikulum
+	- Golgi-Apparat
+	- Lysosomen
+	- Endosomen 

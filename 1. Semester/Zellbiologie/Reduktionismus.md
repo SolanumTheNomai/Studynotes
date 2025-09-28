@@ -1,0 +1,3 @@
+- beschreibt das Prinzip komplexer Systeme in einfache Komponente zu zerteilen, um deren Funktionalität auf komplexe Systeme zurückzuführen um diese zu verstehen
+- Grenzen zeigt das Prinzip des [[Holismus]] auf
+-

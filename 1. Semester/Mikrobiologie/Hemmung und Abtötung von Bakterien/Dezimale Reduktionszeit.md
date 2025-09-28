@@ -1,0 +1,6 @@
+- D10
+- Zeit nach der noch 10% der Zellen leben 
+- hängt ab von:
+	- Bakterienart 
+	- Alter der Zellen (Wachstumsphase)
+	- Wasseregahalt der Zellen 

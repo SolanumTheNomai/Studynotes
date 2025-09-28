@@ -1,0 +1,2 @@
+- Schutz der MOs vor dem Immunsystem
+- Adhäsion an Wirtszellen 

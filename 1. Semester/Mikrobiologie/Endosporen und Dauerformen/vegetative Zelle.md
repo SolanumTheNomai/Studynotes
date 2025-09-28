@@ -1,0 +1,1 @@
+- Zellen die sich in einem Zellzyklus befinden, wo sie sich teilen 

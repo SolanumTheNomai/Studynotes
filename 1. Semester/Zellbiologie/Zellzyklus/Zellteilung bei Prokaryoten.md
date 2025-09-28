@@ -1,0 +1,2 @@
+- Zweiteilung (binäre Spaltung)
+- Repliktation beginnt am Replikationsursprung des ringförmigen Genoms --> zweiter Ursprung wandert zum anderen Ende der Zelle --> Plasmamembran wächst nach innen + neue Zellwände werden eingelagert --> Teilung 

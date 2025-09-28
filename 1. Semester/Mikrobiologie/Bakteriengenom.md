@@ -1,0 +1,4 @@
+- Bakterienchromosom --> meist beim Nucleoid, während der Replikation bei der Cytoplasmamembran 
+- Extrachromosomale Elemente 
+	- Plasmide 
+	- Bakteriophagen, falls das Bakterium davon befallen wird 

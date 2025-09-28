@@ -1,0 +1,2 @@
+- wie im Cytosol zusammengesetzt
+- Existenz einer H+ Gradientens gegenüber der [Matrix](Matrix.md) --> Bedeutend für die oxidative Phosphorylierung 

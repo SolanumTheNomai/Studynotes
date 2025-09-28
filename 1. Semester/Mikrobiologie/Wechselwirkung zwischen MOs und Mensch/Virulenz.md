@@ -1,0 +1,1 @@
+- Auswirkungen des MOs den Wirt zu schädigen (Wie viele Keime sind nötig um schaden anzurichten?)

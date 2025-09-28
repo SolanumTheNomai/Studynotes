@@ -1,0 +1,6 @@
+- 6 -10 nm dick
+- bestehen hauptsächlich aus Lipide und Proteine (mit bestimmten Funktionen) 
+- sind amphipatisch 
+- sind nicht kovalent gebunden, sondern besitzen intermolekulare WW --> flexibel
+- [Asymmetrie der Membran](Asymmetrie%20der%20Membran.md)
+- erlauben [laterale Diffusion](Bewegungsformen%20von%20Phospholipiden.md) --> Flüssig

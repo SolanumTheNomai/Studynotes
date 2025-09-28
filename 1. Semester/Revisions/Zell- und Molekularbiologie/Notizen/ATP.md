@@ -1,0 +1,1 @@
+- Adenosintriphospat besteht aus der Base Adenosin, Ribose, sowie einen Triphosphat. Dieses Molekül ist ein Energieträger der Zellbiologie. Wenn ATP zu ADP (Hydrolyse) und einen inorganischen Phosphat gespalten wird, wird Energie freigesetzt. 

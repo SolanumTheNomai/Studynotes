@@ -1,0 +1,3 @@
+- Ort der Proteinbiosynthese 
+- Ort des Proteinabbaus
+- bestimmte Stoffwechselvorgänge (z.B. Glykolyse)

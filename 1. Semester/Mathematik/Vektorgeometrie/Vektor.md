@@ -1,0 +1,1 @@
+- Größen, welche einen Betrag, eine Richtung und einen Richtungssinn haben (z.B. Geschwindigkeit, Kraft)

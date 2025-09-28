@@ -1,0 +1,1 @@
+Flüssigkeit aus 2 oder mehr Stoffen, welche homogen zueinander sind 

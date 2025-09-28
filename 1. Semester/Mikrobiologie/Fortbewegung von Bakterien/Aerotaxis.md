@@ -1,0 +1,1 @@
+- Bewegung der Bakterien ensprechend ihrem Sauerstoff Bedürfnis

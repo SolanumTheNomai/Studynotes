@@ -1,0 +1,2 @@
+- Vergrößerung vorhandener Peroxisomen --> Lipide als Einzelmoleküle in die Membran geschoben
+--> Wachstum ohne Vesikelfluss 

@@ -1,0 +1,1 @@
+- quer Vernetztes Peptidoglykan (aber nicht so stark, wie bei der Zellwand von [Gram+ Bakterien](Aufbau%20der%20Zellhülle%20von%20Gram+%20Bakterien.md))

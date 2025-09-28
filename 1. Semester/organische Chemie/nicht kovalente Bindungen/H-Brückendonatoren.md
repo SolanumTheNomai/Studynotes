@@ -1,0 +1,1 @@
+- Wasserstoffatome, welche an deutlich negativere Atome gebunden sind --> deutliche Partialladung (z.B. OH, aber nicht SH!)

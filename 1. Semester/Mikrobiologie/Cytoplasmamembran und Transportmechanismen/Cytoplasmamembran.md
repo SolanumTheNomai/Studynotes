@@ -1,0 +1,22 @@
+- Zusammensetzung: 
+	- 60% Protein (50 Vol. %)
+	- 40% Lipide (50 Vol. %)
+
+- **Eigenschaften/Funktionen (bedingt durch Lipide):**
+	- Osmotische Barriere
+		- Semipermeabel (H2O)
+		- Permeabel: lipophile- und amphiphile Stoffe
+		- Nicht permeabel: polare, hydrophile, geladene Moleküle, große Moleküle
+	- sehr fluide --> Flüssigkristallmodell
+
+- **Eigenschaften/Funktionen (bedingt durch Proteine):**
+	- Stofftransport 
+	- Energiegewinnung: Atmung, Photosynthese
+	- Bewegung: Geißeln
+	- Taxis: Reizaufname durch Rezeptoren --> gerichtete Bewegung
+	- Biosynthesen in der Zellhülle
+	- Protein-Export 
+	- Aufnahme von Nukleinsäuren (z.B. Plasmide)
+	- Vorhanden in der Intrazellulären Membran --> Zelleinschlüsse
+	- Zellteilung, Chromosomenreplikation an der Membran
+	- Morphologie des Bakteriums

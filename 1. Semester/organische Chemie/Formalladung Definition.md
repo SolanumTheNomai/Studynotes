@@ -1,0 +1,2 @@
+- wenn ein [Atom](Atom.md) eines [Moleküls](Molekülen.md) eine mehr oder weniger Valenzelektronen als im Normalfall hat --> Formalladung 
+- --> Induziert wird dies durch eine Nettoladung des Moleküls generell (z.B. H30+) oder durch bestimmte Bindungen zwischen Atomen eine Ladungstrennung aufzwingt 

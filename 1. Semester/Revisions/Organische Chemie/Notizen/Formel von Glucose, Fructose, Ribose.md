@@ -1,0 +1,3 @@
+- Glucose: Tatütata-Prinzip (Aldose)
+- Fructose: Tütata-Prinzip (Ketose)
+- Ribose: alle Substituenten auf der rechten Seite (Pentose)

@@ -1,0 +1,2 @@
+- besetzt mit Ribosomen --> Proteinbiosynthese von Membran- und sekretorischen Proteinen 
+- Modifizierung zu Glykoproteinen (Glykosilierung) --> Membranproduktion (Transmembranproteine, Glykoproteine,...)

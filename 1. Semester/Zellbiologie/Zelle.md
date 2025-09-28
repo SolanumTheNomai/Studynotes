@@ -1,0 +1,3 @@
+- ist die Grundeinheit von einem [[Organismus]]
+- sind von einer Plasmamembran umgeben, welcher den [[Stofftransport]] zwischen Zelle und Umgebung reguliert 
+- enthält zumindest eine Zeit lang [[DNA]]

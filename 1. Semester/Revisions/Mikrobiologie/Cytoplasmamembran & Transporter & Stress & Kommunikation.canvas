@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"38de23e2f11eedd0","type":"text","text":"Cytoplasmamembran & Transporter","x":-120,"y":0,"width":260,"height":88,"color":"3"},
+		{"id":"d8621c2af47827a8","type":"text","text":"[Cytoplasmamembran](Cytoplasmamembran.md) ","x":-200,"y":-100,"width":250,"height":60,"color":"3"},
+		{"id":"74e1686671132d17","type":"text","text":"Transport","x":270,"y":-140,"width":250,"height":55,"color":"4"},
+		{"id":"6b83bca87704befa","type":"text","text":"[Permeasen](Permeasen.md) ","x":498,"y":-253,"width":250,"height":60,"color":"4"},
+		{"id":"1f868e5ade204f05","type":"text","text":"[Proton Motive Force (pmf)](Proton%20Motive%20Force%20(pmf).md) ","x":840,"y":-420,"width":250,"height":60,"color":"4"},
+		{"id":"e64912ca50bb3413","type":"text","text":"[Erleichterte Diffusion bei Prokaryoten](Erleichterte%20Diffusion%20bei%20Prokaryoten.md) ","x":-20,"y":-253,"width":250,"height":60,"color":"4"},
+		{"id":"09661359f10b3ef8","type":"text","text":"Stressreaktionen und Kommunikation","x":-826,"y":320,"width":266,"height":80,"color":"4"},
+		{"id":"78d12fb1f1042a09","type":"text","text":"[Cyclisches AMP](Cyclisches%20AMP.md) ","x":-1164,"y":144,"width":250,"height":60,"color":"4"},
+		{"id":"ea0efa1192c977ec","type":"text","text":"[Stringente Antwort](Stringente%20Antwort.md) ","x":-1414,"y":260,"width":250,"height":60,"color":"4"},
+		{"id":"64fac406a939c46e","type":"text","text":"[Oxidativer Stress](Oxidativer%20Stress.md) ","x":-1467,"y":418,"width":250,"height":60,"color":"4"},
+		{"id":"c1a2dc0f8f762ffa","type":"text","text":"[Quorum Sensing](Quorum%20Sensing.md) ","x":-450,"y":340,"width":250,"height":60,"color":"4"},
+		{"id":"c107e389747f2f3f","type":"text","text":"[Quorum Sensing bei Gram- Bakterien](Quorum%20Sensing%20bei%20Gram-%20Bakterien.md) ","x":-120,"y":230,"width":250,"height":60,"color":"4"},
+		{"id":"adee02518ffafde3","type":"text","text":"[Quorum-Sensing bei Gram+ Bakterien](Quorum-Sensing%20bei%20Gram+%20Bakterien.md) ","x":-140,"y":493,"width":250,"height":60,"color":"4"},
+		{"id":"1ab45c331ac1eb3d","type":"text","text":"[ABC-Transporter](ABC-Transporter.md) ","x":248,"y":-360,"width":250,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"64e71c1722b1dd2b","fromNode":"38de23e2f11eedd0","fromSide":"top","toNode":"d8621c2af47827a8","toSide":"bottom"},
+		{"id":"2d6aceac69088efc","fromNode":"38de23e2f11eedd0","fromSide":"right","toNode":"74e1686671132d17","toSide":"bottom"},
+		{"id":"75cc66e92813362b","fromNode":"74e1686671132d17","fromSide":"top","toNode":"e64912ca50bb3413","toSide":"bottom"},
+		{"id":"f087b92c68ef7f68","fromNode":"74e1686671132d17","fromSide":"top","toNode":"1ab45c331ac1eb3d","toSide":"bottom"},
+		{"id":"aa14ab5623c46837","fromNode":"09661359f10b3ef8","fromSide":"top","toNode":"78d12fb1f1042a09","toSide":"right"},
+		{"id":"fcfef396dbd2f94d","fromNode":"09661359f10b3ef8","fromSide":"left","toNode":"ea0efa1192c977ec","toSide":"right"},
+		{"id":"4d1bc234a4ec83f4","fromNode":"09661359f10b3ef8","fromSide":"left","toNode":"64fac406a939c46e","toSide":"right"},
+		{"id":"e8746ba6c5fa5bc5","fromNode":"09661359f10b3ef8","fromSide":"right","toNode":"c1a2dc0f8f762ffa","toSide":"left"},
+		{"id":"4cd862d3e25387e8","fromNode":"c1a2dc0f8f762ffa","fromSide":"top","toNode":"c107e389747f2f3f","toSide":"left"},
+		{"id":"0ca1a88dd39889e5","fromNode":"c1a2dc0f8f762ffa","fromSide":"bottom","toNode":"adee02518ffafde3","toSide":"left"},
+		{"id":"a83c8a60e967dcdb","fromNode":"74e1686671132d17","fromSide":"top","toNode":"6b83bca87704befa","toSide":"bottom"},
+		{"id":"b0d8cab83fc3d49e","fromNode":"6b83bca87704befa","fromSide":"top","toNode":"1f868e5ade204f05","toSide":"bottom"}
+	]
+}

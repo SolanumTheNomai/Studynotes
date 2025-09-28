@@ -1,0 +1,4 @@
+- Färbung von Kristallviolett und Jod (Lösungmittel)
+- --> mit Alkohol: Waschen der Zellen 
+- --> aufgrund der [Eigenschaft](Gram+,%20und%20Gram-%20Unterschied.md) der G+ Bakterien: bleiben blau
+- --> aufgrund der [Eigenschaft](Gram+,%20und%20Gram-%20Unterschied.md) der G- Bakterien: muss nachgefärbt werden --> rot 

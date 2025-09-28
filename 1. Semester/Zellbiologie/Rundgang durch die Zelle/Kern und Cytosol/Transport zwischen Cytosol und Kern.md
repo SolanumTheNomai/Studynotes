@@ -1,0 +1,3 @@
+- Kern ist aufgrund der Kernporen kein Kompartiment --> Proteine befinden sich zwischen Cytosol und Kern auf der gleichen topologischen Ebene 
+- trotzdem dienen die Kernporen als selektives Schloss
+- freie Diffusion nur für kleine Moleküle möglich 

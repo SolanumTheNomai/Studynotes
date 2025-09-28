@@ -1,0 +1,2 @@
+- enthält eine plDNA und Ribosome --> Proteinbiosynthese --> Zellwachstum und Teilung 
+- Gelartige Konsistenz 

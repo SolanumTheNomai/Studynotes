@@ -1,0 +1,1 @@
+- beschreibt was ein Lebewesen zum überleben benötigt/vermeidet

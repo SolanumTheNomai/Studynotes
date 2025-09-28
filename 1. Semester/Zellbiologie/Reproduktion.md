@@ -1,0 +1,1 @@
+- Erzeugung neuer [[Individuen]] derselben [[Art]] eines Lebewesens ([[Emergente Eigenschaften des Lebens]]), mittels [[geschlechtlicher Fortpflanzung]] oder [[ungeschlechtlicher Fortpflanzung]] 

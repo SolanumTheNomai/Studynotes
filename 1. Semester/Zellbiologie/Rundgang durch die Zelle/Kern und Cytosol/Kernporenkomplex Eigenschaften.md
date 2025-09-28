@@ -1,0 +1,4 @@
+- Zahl der Kernporen im Kern varriiert abhängig von der Transkriptionsaktivität
+- Moleküle bis 9 nm können frei diffundieren 
+- Proteine > 60kD müssen aktiv transportiert werden 
+- Partikel > 26 nm können nicht transportiert werden 

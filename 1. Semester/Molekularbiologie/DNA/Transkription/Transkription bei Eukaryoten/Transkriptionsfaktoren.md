@@ -1,0 +1,2 @@
+- anstelle des sigma-Faktors bei Prokaryoten gibt es "allgemeine Transkriptionsfaktoren" für die Bindung der RNA-Polymerase an die DNA 
+--> RNA-Polymerase muss an diesen Faktoren binden

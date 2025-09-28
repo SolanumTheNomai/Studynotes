@@ -1,0 +1,4 @@
+- Enzyme, welche den Wirt schädigen:
+	- z.B.: Neuraminidase --> Abbau von Glykoproteinen
+	- z.B.: Urease --> Ammoniakproduktion --> Neutralisierung von Säuren (H. pylori)
+	- z.B.: Urease --> Ammoniak --> Harnwegsinfektionen (Proteus mirabilis)

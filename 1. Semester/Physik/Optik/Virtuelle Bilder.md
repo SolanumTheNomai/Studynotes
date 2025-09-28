@@ -1,0 +1,1 @@
+- Bildpunkte entstehen nur durch rückwärtige Verlängerung der Strahlen --> scheinbares Bild, nur im Auge des Betrachters erkennbar

@@ -1,0 +1,1 @@
+- EHEC = Enterohämorrhagische E. coli --> Darmblutungen 

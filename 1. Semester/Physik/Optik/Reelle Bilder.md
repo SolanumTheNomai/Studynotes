@@ -1,0 +1,1 @@
+- Strahlen vereinen sich in einem Bildpunkt --> können auf einen Bildschirm abgebildet werden 

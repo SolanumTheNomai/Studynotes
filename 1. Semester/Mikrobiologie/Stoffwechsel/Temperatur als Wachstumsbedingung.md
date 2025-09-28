@@ -1,0 +1,4 @@
+- mesophil: 20-42°C
+- thermophil: Optimum: > 40°C, bis 70°C
+- extrem thermophil: Optimum: > 60°C
+- psychrophil: < 20°C

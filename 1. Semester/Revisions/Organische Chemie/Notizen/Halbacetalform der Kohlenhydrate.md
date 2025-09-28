@@ -1,0 +1,5 @@
+- KH reagieren mittels ihrer Aldehyd-/Ketogruppen und ihren Alkholen zu einen Halbacetal (kein Vollacetal im wässrigen Medium der Zelle) --> Entstehung eines Fünf- oder Sechsrings 
+- durch die Verknüpfung entstehen neue Stereozentren --> Isomer (Anomer):
+	- a/ß-Anomere
+		- Konzentration der Anomere liegt auf der Seite der ß-Anomere, da der Substituent äquatorial vorliegt 
+--> bei reinem Zucker innerhalb einer Lösung kommt es zur Mutarotation (Herstellung des Anomergleichgewichts) 

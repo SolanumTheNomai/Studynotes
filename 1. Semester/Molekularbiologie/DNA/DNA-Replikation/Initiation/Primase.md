@@ -1,0 +1,1 @@
+- lagert am 3'Ende an den Matrizensträngen komplementäre RNA-Primer an --> DNA-Polymerase III, kann mit der Elongation beginnen

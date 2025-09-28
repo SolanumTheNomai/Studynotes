@@ -1,0 +1,2 @@
+- Speicherung von überschüssigen Salzen und Nebenprodukten des Stoffwechsels 
+- Regulation des Turgors (Druck)

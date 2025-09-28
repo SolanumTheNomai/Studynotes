@@ -1,0 +1,2 @@
+- Bsp.: Corynebacterium glutamicum
+	- scheidet unter anderen Glutaminsäure (Glutamat) aus, aufgrund eines defekten Enzyms 

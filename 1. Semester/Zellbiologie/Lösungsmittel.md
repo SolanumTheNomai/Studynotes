@@ -1,0 +1,1 @@
+- Bestandteil, welcher den Stoff auflöst

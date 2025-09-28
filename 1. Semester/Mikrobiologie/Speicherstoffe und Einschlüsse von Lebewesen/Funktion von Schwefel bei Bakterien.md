@@ -1,0 +1,4 @@
+- Elektronendonator in der Photosynthese einiger Bakterien 
+- Schwefelwasserstoff (H2S) als Oxidationsmittel innerhalb der aeroben Zellatmung 
+- generell: da einige Bakterien Schwefelwasserstoff benötigen 
+---> nehmen es aus der Umgebung auf --> Entgiftung von H2S aus der Umgebung 

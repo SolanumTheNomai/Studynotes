@@ -1,0 +1,3 @@
+- Gattung: Rhizobium 
+
+- Rhizobium meliloti 

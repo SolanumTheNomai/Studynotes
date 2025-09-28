@@ -1,0 +1,1 @@
+- Spannung aus der Spannungsquelle U0

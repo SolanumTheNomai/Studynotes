@@ -1,0 +1,1 @@
+![](Pasted%20image%2020240119095545.png)--> beim lytischen Zyklus teil der Wirts-DNA wird in einen Bakteriophagen eingebaut --> dieser Bakteriophage befällt anderes Bakterium --> Wirts-DNA wird per Homologe Rekombination eingebaut --> transduzierte Zelle 

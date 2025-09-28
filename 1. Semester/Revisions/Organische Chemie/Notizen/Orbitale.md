@@ -1,0 +1,4 @@
+- Arten von Hybridisierungen: 
+- sp3 --> keine pi-Bindungen, nur sigma-Bindungen --> bei C: 4 sp3-Orbitale --> Bindungswinkel: 109,4° (Tetraeder-Winkel)
+- sp2 --> 1 pi-Bindung, rest: sigma-Bindungen --> bei C: 3 sp2-Orbitale, 1 p-Orbital --> Bindungswinkel: 120° --> trigonal, planar 
+- sp --> 2 pi-Bindungen, rest: sigma-BIndungen --> bei C: 2 sp-Orbitale, 2 p-Orbitale --> Bindungswinkel: 180° --> linear 

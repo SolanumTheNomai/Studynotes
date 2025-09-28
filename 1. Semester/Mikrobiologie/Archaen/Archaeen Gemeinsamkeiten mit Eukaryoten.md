@@ -1,0 +1,2 @@
+- im Cytoplasma: Cytoskelett-ähnliche Filamente 
+- Translation ähnlich der in Eukaryoten 

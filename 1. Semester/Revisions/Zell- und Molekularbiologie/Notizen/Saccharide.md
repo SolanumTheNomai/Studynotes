@@ -1,0 +1,6 @@
+- Monomere: Monosaccharide 
+- Monosaccharide können in einer Kondensationsreaktion 1,4 glykosidische Bindungen eingehen. Es entstehen Disaccharide. Wiederholt sich der Vorgang bilden sich Polysaccharide:
+	- Polysaccharide treten in verschiedenen Formen auf:
+		- Glykogen: Verzweigung an ungefähr jedem 8-12 Monomer --> 1,6 glykosidischen Bindungen 
+		- Stärke: lediglich ein Polymer helikal angeordnet 
+		- Cellulose: meheree Polysaccharide sind untereinander angeordnet, wobei diese mit Wasserstoff-Brücken-Bindungen zusammengehalten werden 

@@ -1,0 +1,2 @@
+- Zerstören die glykosidische Bindung zwischen NAM und NAG bei Murein --> Entstehung von [Protoplasten](Protoplasten.md) --> töten existierende Bakterien ab 
+- aber: diese Bindung ist nicht spezifisch bei Bakterien, sondern auch bei menschlichen Zellen --> kein Antibiotika!

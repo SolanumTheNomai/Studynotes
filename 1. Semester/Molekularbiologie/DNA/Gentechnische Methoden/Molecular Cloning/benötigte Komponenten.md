@@ -1,0 +1,3 @@
+- Vektor (meist ein Plasmid)
+- Zu klonierende DNA
+- Wirt zur Vermehrung des Plasmids (meist: E. coli)

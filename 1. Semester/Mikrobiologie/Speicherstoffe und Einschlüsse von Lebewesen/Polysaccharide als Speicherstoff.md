@@ -1,0 +1,3 @@
+- [Stärke](Enstehung%20von%20Stärke.md) 
+- [Glykogen](Entstehung%20von%20Glykogen.md)
+- Vorkommen: bei Tieren und Pflanzen 

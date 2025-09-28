@@ -1,0 +1,3 @@
+- Form der Zelle
+- wichtige Rolle in der Zellteilung (z.B. Spindelfasern)
+- Leitschienen für Transport von Organellen (mechanische Arbeit wird verrichtet)

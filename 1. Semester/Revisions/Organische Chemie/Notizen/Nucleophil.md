@@ -1,0 +1,6 @@
+- Molekül mit Atom mit freien Elektronenpaaren/neg. Ladung, die sie dem Elektrophil zur Verfügung stellen kann 
+- Gutes Nucleophil 
+	- bei der Sn1-Reaktion nicht wichtig 
+	- Ladung
+	- geringe EN
+	- geringe sterische Hinderung 

@@ -1,0 +1,1 @@
+- in einer Reaktion wird Wasser aufgenommen 

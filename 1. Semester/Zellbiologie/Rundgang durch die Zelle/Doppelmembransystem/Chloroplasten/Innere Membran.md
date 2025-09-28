@@ -1,0 +1,1 @@
+- kaum permeabel --> spezielle Transporter notwendig 

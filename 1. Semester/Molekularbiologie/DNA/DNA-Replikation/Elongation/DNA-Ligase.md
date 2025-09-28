@@ -1,0 +1,1 @@
+- offene Okazaki-Fragmente, werden von der DNA-Ligase verknüpft 

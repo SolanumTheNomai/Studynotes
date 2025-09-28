@@ -1,0 +1,4 @@
+- Formgebung 
+- Fortbewegung 
+- Kontraktilität bei  Myosinfilamenten 
+	- in nicht Muskelzellen: Kontraktion bestimmter Zellbereiche und ganzer Zellen (z.B. bei der Cytokinese)

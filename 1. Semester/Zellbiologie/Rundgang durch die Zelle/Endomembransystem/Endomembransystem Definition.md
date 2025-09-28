@@ -1,0 +1,1 @@
+- komplexes Netzwerk aus membranumschlossenen Kompartimenten und Vesikeln innerhalb einer Zelle die in [direkter](direkte%20Interaktion.md) oder [indirekter Interaktion](indirekte%20Interaktion.md) miteinander stehen 

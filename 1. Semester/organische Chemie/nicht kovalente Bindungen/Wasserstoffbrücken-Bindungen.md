@@ -1,0 +1,1 @@
+- entstehen, wenn es [[H-Brückendonatoren]] und [[H-Brückenakzeptoren]] gibt, welche miteinander wechselwirken

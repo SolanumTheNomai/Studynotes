@@ -1,0 +1,2 @@
+- Inhomogene Felder: Feldstärke nimmt zu/ab 
+- Homogene Felder: Feldstärke ist konstant 

@@ -1,0 +1,5 @@
+- ist von der inneren Membran getrennt 
+- Eigenes Kompartiment gegenüber der [Stroma](Stroma.md) 
+- ATP-Synthese (Hellreaktion)
+- hohe Proteinkonzentration für die Hellreaktionen 
+- wenig Phospholipide, wobei diese im hohen Anteil aus Glykolipiden mit ungesättigten Fettsäuren bestehen --> sehr hohe Fluidität 

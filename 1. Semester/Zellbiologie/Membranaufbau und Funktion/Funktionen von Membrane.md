@@ -1,0 +1,3 @@
+- Zellwachstum und Beweglichkeit
+- Transport kleiner permeabler Moleküle 
+- Signalübertragung 

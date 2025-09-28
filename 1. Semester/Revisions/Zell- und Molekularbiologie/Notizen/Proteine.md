@@ -1,0 +1,15 @@
+- Proteine:
+	- Monomere: Aminosäuren:
+		- besitzen (bis auf Glycin) ein asymmetrisch substituiertes Kohlenstoffatom, mit einer Aminogruppe, einer Carboxylgruppe, ein Wasserstoffatom, sowie eine Seitenkette, die bei jeder Aminosäure unterschiedlich ist. Aminosäuren kann man mit den Seitenketten in verschiedene Klassen einteilen: 
+			- saure Aminosäuren
+			- basische Aminosäuren 
+			- unpolar ungeladene Aminosäuren
+			- polar ungeladene Aminosäuren 
+			- "besondere" Aminosäuren:
+				- Glycin: besitzt ein Wasserstoff als Seitenkette, und ist damit die kleinstmögliche Aminosäure, welche bspw an Stellen eingebaut wird, wo sich Polypeptidketten besonders nahe kommen (z.B. bei der dreifachen Helixstruktur von Collagenfasern)
+				- Cystein: besitzt unteranderen eine Thiolgruppe als Seitenkette, wodurch sie eine Disulfidbindung mit gegenüberliegenden Cysteinen bilden kann, was unter den WW zwischen Polypeptidketten am stärksten ist. 
+				- Prolin: Deren Seitenketten ist sowohl mit dem C-Atom als auch der Aminogruppe verbunden, was es dem Polypeptid erschwert an dieser Stelle Sekundärstrukturen aufzubauen, wodurch sie an Wendepunkten von Proteinen verwendet werden.
+		- Aminosäuren können sowohl ionisiert oder nicht-ionisiert sein (Aminogruppe + Carboxylgruppe geladen --> Zwitterion)
+		- Monomere können mit per Kondensation zwischen dem Kohlenstoffatom der Carboxylgruppe und dem Stickstoffatom der Aminogruppe eine Peptidbindung eingehen, wodurch ein Dipeptid entsteht, bei Wiederholung dieses Prozesses entstehen Polypeptide als Polymere
+		- Polypeptide können sich zu a-Helices oder zu ß-Faltblätter strukturieren, welche Untereinheiten für das Protein darstellen.
+

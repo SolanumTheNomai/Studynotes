@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"94f28a5e97e4f73c","type":"text","text":"Hemmung und Abtötung von Bakterien ","x":-177,"y":-80,"width":297,"height":99,"color":"4"},
+		{"id":"b3d8e342495def5a","type":"text","text":"[Angriffspunkte auf Bakterien](Angriffspunkte%20auf%20Bakterien.md) ","x":12,"y":-254,"width":250,"height":60,"color":"4"},
+		{"id":"aa56baaba85fb7b2","type":"text","text":"[Proteine als Angriffspunkt auf Bakterien](Proteine%20als%20Angriffspunkt%20auf%20Bakterien.md) ","x":220,"y":-140,"width":250,"height":60,"color":"4"},
+		{"id":"b8f55abbf5d33064","type":"text","text":"[Antibiotika Wirkungsformen](Antibiotika%20Wirkungsformen.md) ","x":262,"y":2,"width":250,"height":60,"color":"4"},
+		{"id":"adcedd91b49388c9","type":"text","text":"[Sterilisation](Sterilisation.md) ","x":-657,"y":-231,"width":250,"height":60,"color":"4"},
+		{"id":"c134a5d65809a9a0","type":"text","text":"[Dezimale Reduktionszeit](Dezimale%20Reduktionszeit.md) ","x":-860,"y":-140,"width":250,"height":60,"color":"4"},
+		{"id":"70fef0f9ff110b5b","type":"text","text":"[Methoden der Steriltechnik](Methoden%20der%20Steriltechnik.md) ","x":-907,"y":-340,"width":250,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"10eb457b0d20e52a","fromNode":"94f28a5e97e4f73c","fromSide":"top","toNode":"b3d8e342495def5a","toSide":"bottom"},
+		{"id":"973617152aaf424d","fromNode":"94f28a5e97e4f73c","fromSide":"right","toNode":"aa56baaba85fb7b2","toSide":"left"},
+		{"id":"dcfbf31f439ee9db","fromNode":"94f28a5e97e4f73c","fromSide":"right","toNode":"b8f55abbf5d33064","toSide":"left"},
+		{"id":"2c9cbfe383580698","fromNode":"94f28a5e97e4f73c","fromSide":"left","toNode":"adcedd91b49388c9","toSide":"right"},
+		{"id":"cfb7ac0695f92221","fromNode":"94f28a5e97e4f73c","fromSide":"left","toNode":"c134a5d65809a9a0","toSide":"right"},
+		{"id":"014c049da7bf2c8f","fromNode":"adcedd91b49388c9","fromSide":"left","toNode":"c134a5d65809a9a0","toSide":"top"},
+		{"id":"2a4d1ac6df6d7b41","fromNode":"adcedd91b49388c9","fromSide":"left","toNode":"70fef0f9ff110b5b","toSide":"bottom"}
+	]
+}

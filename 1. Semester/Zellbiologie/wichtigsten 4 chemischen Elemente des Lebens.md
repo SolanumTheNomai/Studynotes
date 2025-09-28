@@ -1,0 +1,4 @@
+- Kohlenstoff
+- Sauerstoff
+- Wasserstoff
+- Stickstoff

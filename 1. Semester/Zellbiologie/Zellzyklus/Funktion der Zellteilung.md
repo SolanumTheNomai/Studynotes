@@ -1,0 +1,3 @@
+- Reproduktion (z.B. bei Bakterien)
+- Wachstum (von Mehrzellern)
+- Erneuerung (bei abgestorbenden Zellen)

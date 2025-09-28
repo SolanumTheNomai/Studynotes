@@ -1,0 +1,3 @@
+- Formel zur Lösung heraussuchen
+- zwei Messungen einbeziehen
+- 2 Formeln mit zwei Unbekannten (entweder durch Additions- oder Einsetzungsverfahren lösbar)

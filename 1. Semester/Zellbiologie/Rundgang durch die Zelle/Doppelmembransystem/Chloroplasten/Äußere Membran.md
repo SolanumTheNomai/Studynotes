@@ -1,0 +1,2 @@
+- enthält verschiedene Proteine und Porine 
+- Permeabilität jedoch nicht abschließend geklärt 

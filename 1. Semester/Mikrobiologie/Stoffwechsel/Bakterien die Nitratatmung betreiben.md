@@ -1,0 +1,2 @@
+- Thiobacillus denitrificans
+- Pseudomonas stutzeri 

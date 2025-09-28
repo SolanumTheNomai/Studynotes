@@ -1,0 +1,4 @@
+- enthält mtDNA und Ribosomen 
+--> eigene Proteinbiosynthese (trotzdem abhängig von Proteinen aus dem Cytosol) --> kann wachsen und sich teilen 
+- hohe Konzentration an wasserlöslichen Proteinen
+- Gelartige Konsistenz

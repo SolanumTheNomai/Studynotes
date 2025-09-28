@@ -1,0 +1,1 @@
+- Infizierte, aber gesunde Person --> kann den Keim übertragen 

@@ -1,0 +1,1 @@
+- zur Unterteilung von [Gram+ - und Gram- Bakterien](Gram+,%20und%20Gram-%20Unterschied.md)

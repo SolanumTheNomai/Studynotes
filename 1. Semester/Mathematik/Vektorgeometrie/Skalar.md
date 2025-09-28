@@ -1,0 +1,1 @@
+- Größen mit lediglich einer reellen Zahl als Definition (z.B. Länge, Zeit)

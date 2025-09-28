@@ -1,0 +1,11 @@
+- Produkte:
+	- Milchsäure 
+		- z.B. Rhizopus
+	- Gluconsäure 
+		- z.B. Aspergillus, Penicillium
+	- Citronensäure: 
+		- z.B. Aspergillus niger
+
+- Verfahren:
+	- Deckenverfahren:
+		- Myzel schwimmt auf Substrat --> Produktion von Säuren 

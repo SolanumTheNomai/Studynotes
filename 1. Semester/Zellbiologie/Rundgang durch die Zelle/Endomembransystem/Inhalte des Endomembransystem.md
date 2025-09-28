@@ -1,0 +1,1 @@
+- Kernhülle --> ER --> Golgiapparat --> Lysosomen --> Endosomen (Vesikel welche durch Endozytose in die Zelle gelangen) --> Vakuolen 

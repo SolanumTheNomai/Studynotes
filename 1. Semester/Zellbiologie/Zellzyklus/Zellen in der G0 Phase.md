@@ -1,0 +1,2 @@
+- ausdifferenzierte Zellen: 
+	- z.B. Neuronen

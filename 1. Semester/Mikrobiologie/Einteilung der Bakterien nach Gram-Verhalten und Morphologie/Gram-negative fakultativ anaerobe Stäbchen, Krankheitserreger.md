@@ -1,0 +1,3 @@
+- Klebsiella pneumoiae --> Lungenentzündung (schwer zu behandeln, aufgrund von Schleimkapseln)
+- Salmonella typhimurium --> Lebensmittelvergiftung 
+- Salmonella typhi --> Typhus

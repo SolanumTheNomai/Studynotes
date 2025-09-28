@@ -1,0 +1,3 @@
+- unterschiedliche DNA-Polymerasen, Helikasen, Topoisomerasen und Ligasen 
+- Unterschied der ORIs
+- Eukaryoten haben eine lineare DNA, Prokaryoten haben eine ringförmige DNA

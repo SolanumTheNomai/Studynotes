@@ -1,0 +1,2 @@
+- besagt, dass alle Organismen (siehe [[Organismus]]) aus ein oder meheren Zellen besteht, wodurch die [[Zelle]] die strukturelle Einheit des Lebens ist 
+- Gleichzeitig entsteht jede Zelle immer aus einer anderen Zelle 

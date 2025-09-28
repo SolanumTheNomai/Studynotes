@@ -1,0 +1,3 @@
+- Teil der [Zellhülle](Aufbau%20der%20Zellhülle%20von%20Gram-%20Bakterien.md)
+- Hohe Konzentration an Proteinen, für den [Stofftransport](Stofftransport), Signalübertragung,...
+
