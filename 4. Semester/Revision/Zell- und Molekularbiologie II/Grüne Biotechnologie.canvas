@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e64096651da944a4","x":-156,"y":-140,"width":296,"height":85,"color":"3","type":"text","text":"Grüne Biotechnologie "},
+		{"id":"755d6e7ae4b129dd","x":15,"y":-340,"width":250,"height":60,"color":"3","type":"text","text":"phototrophe Organismen"},
+		{"id":"66759ac1cfdcb13e","x":160,"y":-470,"width":280,"height":50,"color":"3","type":"text","text":"[[Sauerstoffquellen auf der Erde]]"}
+	],
+	"edges":[
+		{"id":"ea85f96c8936425d","fromNode":"e64096651da944a4","fromSide":"top","toNode":"755d6e7ae4b129dd","toSide":"bottom"},
+		{"id":"a489eb645be30ffe","fromNode":"755d6e7ae4b129dd","fromSide":"top","toNode":"66759ac1cfdcb13e","toSide":"bottom"}
+	]
+}
