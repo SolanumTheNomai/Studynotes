@@ -1,2 +1,2 @@
-![[Pasted image 20251012081229.png]]
-- Pumpe wirkt mittels Überdruck dem osmotischen Druck entgegen --> Wasser wird durch 
+![[Pasted image 20251012081441.png]]
+- Pumpe wirkt mittels Überdruck dem osmotischen Druck entgegen --> Wasser wird entgegen des Konzentrationsgradienten durch die semipermeable Membran gedrückt --> entsalzendes Wasser entsteht
