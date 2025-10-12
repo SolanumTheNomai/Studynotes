@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"c73428282f7d7dd4","x":-173,"y":-100,"width":273,"height":74,"color":"3","type":"text","text":"Aufarbeitungstechnik"},
+		{"id":"6e0df59b7789a187","x":-16,"y":-253,"width":250,"height":60,"color":"3","type":"text","text":"[[Berechnungsgrundlagen]]"}
+	],
+	"edges":[
+		{"id":"9049716765442e99","fromNode":"c73428282f7d7dd4","fromSide":"top","toNode":"6e0df59b7789a187","toSide":"bottom"}
+	]
+}
