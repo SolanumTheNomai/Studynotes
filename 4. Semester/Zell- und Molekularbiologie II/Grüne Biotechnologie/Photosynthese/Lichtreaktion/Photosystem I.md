@@ -1,0 +1,2 @@
+- Licht trifft auf das Reaktionszentrum von PSI (P(selbes Prinzip wie bei [[Photosystem II]]) 
+--> Anregung von Elektronen des Plastocyanins --> Elektronenübertragung auf Ferrodoxin (Fd) --> Reduktion zu $Fd^-$ --> 
