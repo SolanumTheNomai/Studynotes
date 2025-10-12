@@ -1,0 +1,2 @@
+![[Pasted image 20251012080904.png]]
+- zu entsalzendes Wasser wird in die Kammern geleitet, die von unterschiedlich geladenen Membranen getrennt werden --> Ionen der Lösung diffundieren durch die Membran und werden durch die Kathode/Anode nach außen gezogen --> mittlere Kammer hat eine geringe Ionenkonzentration (entsalztes Wasser)
