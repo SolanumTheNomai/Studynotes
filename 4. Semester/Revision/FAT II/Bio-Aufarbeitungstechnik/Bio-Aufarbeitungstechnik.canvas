@@ -1,6 +1,19 @@
 {
 	"nodes":[
-		{"id":"0128e4b172cd6a69","x":-148,"y":-99,"width":250,"height":60,"type":"text","text":""}
+		{"id":"0128e4b172cd6a69","x":-120,"y":-120,"width":280,"height":80,"color":"3","type":"text","text":"Bio-Aufarbeitungstechnik"},
+		{"id":"c202e5c4d5f259be","x":119,"y":-397,"width":250,"height":60,"color":"3","type":"text","text":"Einführung"},
+		{"id":"1ab9054a511985be","x":-80,"y":-540,"width":250,"height":60,"color":"3","type":"text","text":"[[Umkehrosmose]]"},
+		{"id":"04e16abbb1179f89","x":320,"y":-740,"width":250,"height":60,"color":"3","type":"text","text":"[[Trinkwassergewinnung in Berlin]]"},
+		{"id":"fe6e61a55f289144","x":246,"y":-594,"width":250,"height":60,"color":"3","type":"text","text":"[[Flusswasser zur Trinkwassergewinnung]]"},
+		{"id":"129b4fe91b0b60f9","x":680,"y":-500,"width":250,"height":60,"color":"3","type":"text","text":"[[Entsalzung durch Elektrodialyse]]"},
+		{"id":"edea9c54ae385c4c","x":-240,"y":-680,"width":250,"height":60,"color":"3","type":"text","text":"[[Berechnung der Durchsatzleistung]]"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"c656e5746aa228a1","fromNode":"0128e4b172cd6a69","fromSide":"top","toNode":"c202e5c4d5f259be","toSide":"bottom"},
+		{"id":"3e31dcdb4e0501ca","fromNode":"c202e5c4d5f259be","fromSide":"top","toNode":"1ab9054a511985be","toSide":"bottom"},
+		{"id":"94a4b880fc6fe6a3","fromNode":"c202e5c4d5f259be","fromSide":"top","toNode":"fe6e61a55f289144","toSide":"bottom"},
+		{"id":"9e8eaf7ef80ba837","fromNode":"fe6e61a55f289144","fromSide":"top","toNode":"04e16abbb1179f89","toSide":"bottom"},
+		{"id":"a2891ed8d4d34936","fromNode":"c202e5c4d5f259be","fromSide":"top","toNode":"129b4fe91b0b60f9","toSide":"left"},
+		{"id":"fa39f3f9ea4c9b73","fromNode":"1ab9054a511985be","fromSide":"top","toNode":"edea9c54ae385c4c","toSide":"bottom"}
+	]
 }
