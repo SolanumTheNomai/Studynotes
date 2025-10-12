@@ -1,1 +1,2 @@
-- Elektronen 
+
+- $PQH_2$ gibt seine Elektronen an den Cytochrom-$b_6f$-Komplex ab --> auch 2 Protonen werden ins Lumen abgegeben --> Aufbau des Protonengradienten --> Elektronen werden an Plastocyanin weitergereicht

@@ -4,4 +4,5 @@
 - durch die Oxidation des Chlorophylls (positiv geladen) wird $H_2O$ angezogen --> Spaltung von $H_2O$ im Manganzentrum:
 ![[Pasted image 20251012130209.png]]
 --> QB wird mit den Protonen im Stroma reduziert zu Plastochinol:
-$$QB + 2e^- + 2H^+ $$
+$$QB + 2e^- + 2H^+ \rightarrow PQH_2$$ 
+--> $PQH_2$ diffundiert in den Membran zum nächsten [[Cytochrom-b6f-Komplex|Komplex]] 
