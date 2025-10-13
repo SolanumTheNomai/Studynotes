@@ -9,4 +9,6 @@
 **3. sekundäre Carboxylierung:**
 - $CO_2$ wird von RuBisCO gebunden --> Beginn des Calvin-Benson-Zyklus
 
-**4.**
+**4. Regeneration:**
+- C3-Säure wird zurück in die Mesophyllzelle gebracht, um PEP zu regenerieren
+
