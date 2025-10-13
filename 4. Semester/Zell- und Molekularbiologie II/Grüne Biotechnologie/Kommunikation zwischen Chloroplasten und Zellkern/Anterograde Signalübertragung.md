@@ -1,1 +1,1 @@
-- Zellkern steuert Vörgänge im Chloroplasten
+- Zellkern steuert Vorgänge im Chloroplasten
