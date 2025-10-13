@@ -1,0 +1,2 @@
+- katalysiert die Bindung von $CO_2$ an Ribulosebisphosphat (RuBP)
+--> instabiles C6-Molekül --> Spaltung in 2x C3-Moleküle (3-Phosphoglycerat)
