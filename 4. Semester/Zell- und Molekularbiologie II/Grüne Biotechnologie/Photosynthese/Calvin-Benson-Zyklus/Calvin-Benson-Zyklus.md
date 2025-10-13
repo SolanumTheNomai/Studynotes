@@ -4,9 +4,11 @@
 ![[Pasted image 20251013122525.png]]
 
 2. **Reduktion:**
-3-PGA + ATP + NADPH --> Glycerinaldehyd-3-phosphat (GAP):
+- 3-PGA + ATP + NADPH --> Glycerinaldehyd-3-phosphat (GAP):
 ![[Pasted image 20251013122647.png]]
 --> Endprodukt der Photosynthese (Zwischenprodukt für z.B. der Bildung von Glukose)
 
 
-**Regeneration:**
+3. **Regeneration:**
+- Reg. von RuBP:
+![[Pasted image 20251013132644.png]]
