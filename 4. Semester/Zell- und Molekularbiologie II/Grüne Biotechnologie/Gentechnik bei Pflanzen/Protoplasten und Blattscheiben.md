@@ -1,0 +1,2 @@
+- Protoplast = Zelle ohne Zellwand
+--> DNA kann leichter aufgenommen werden und zu einer reifen Pflanze regeneriert werden 
