@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"e9eab913963427ee","type":"group","x":-156,"y":-680,"width":1196,"height":415,"label":"Klausurrelevant: min 3 Unit-Operations pro Kategorie --> sind nur Beispiele"},
-		{"id":"9d642b2af43262f8","type":"text","text":"**Note 1:** Es müssen keine Formeln auswendig gelernt werden, bis auf [[Druck p | den hydrostatischen Druck]] \nund die Volumenformel eines Zylinders ($$","x":-1149,"y":-1065,"width":250,"height":145,"color":"1"},
+		{"id":"9d642b2af43262f8","type":"text","text":"**Note 1:** Es müssen keine Formeln auswendig gelernt werden, bis auf [[Druck p | den hydrostatischen Druck]] \nund die Volumenformel eines Zylinders ($V = \\pi \\times \\frac{d^2}{4} \\times h$) ","x":-1149,"y":-1140,"width":289,"height":180,"color":"1"},
 		{"id":"0da818c3e8fbca00","type":"text","text":"[Unit operations Definition](Unit%20operations%20Definition.md)","x":-258,"y":-452,"width":250,"height":60,"color":"4"},
 		{"id":"cafd29eb22d3f447","type":"text","text":"[disperse Phasensysteme](disperse%20Phasensysteme.md)","x":-669,"y":-336,"width":250,"height":60,"color":"4"},
 		{"id":"416b707633003a13","type":"text","text":"[Klassieren und Sortieren](Klassieren%20und%20Sortieren.md)","x":-136,"y":-565,"width":250,"height":60,"color":"4"},
@@ -65,7 +65,8 @@
 		{"id":"e2c2e72a6ce0ce9c","type":"text","text":"[Fourier'sche Gesetz](Fourier'sche%20Gesetz.md)","x":1998,"y":-582,"width":250,"height":60,"color":"4"},
 		{"id":"319090189ee038a3","type":"text","text":"[stationäre Wärmeleitung durch mehrschichtige Ebene Wände](stationäre%20Wärmeleitung%20durch%20mehrschichtige%20Ebene%20Wände.md)","x":1680,"y":-860,"width":250,"height":107,"color":"4"},
 		{"id":"09e87f97111a1449","type":"text","text":"[Wärmeleitung durch eine Rohrwand](Wärmeleitung%20durch%20eine%20Rohrwand.md)","x":1989,"y":-928,"width":250,"height":60,"color":"4"},
-		{"id":"6a13f00726ded0e1","type":"text","text":"[Wärmeleitung durch ein mehrschichtiges Rohr](Wärmeleitung%20durch%20ein%20mehrschichtiges%20Rohr.md)","x":1884,"y":-1120,"width":250,"height":71,"color":"5"}
+		{"id":"6a13f00726ded0e1","type":"text","text":"[Wärmeleitung durch ein mehrschichtiges Rohr](Wärmeleitung%20durch%20ein%20mehrschichtiges%20Rohr.md)","x":1884,"y":-1120,"width":250,"height":71,"color":"5"},
+		{"id":"5ee8dceec7bd20cc","x":-835,"y":-1160,"width":295,"height":240,"color":"1","type":"text","text":"**Note 2:** 80%+ der Klausurfragen sind Rechenaufgaben. Altklausuren und Übungsblätter durchzuarbeiten ist zum lernen hier sehr effektiv, um den Aufbau der Rechenaufgaben zu verstehen"}
 	],
 	"edges":[
 		{"id":"9f9bc0abaca04e3f","fromNode":"8235f851f476a7f5","fromSide":"top","toNode":"92de4b49144b8686","toSide":"bottom"},
