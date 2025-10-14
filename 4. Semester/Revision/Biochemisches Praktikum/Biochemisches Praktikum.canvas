@@ -43,7 +43,8 @@
 		{"id":"d5aeac2f29e37b84","type":"text","text":"1. Tag","x":-600,"y":-800,"width":250,"height":60,"color":"4"},
 		{"id":"494766c5db6caa83","type":"text","text":"Biochemisches Praktikum","x":-160,"y":-180,"width":281,"height":85,"color":"4"},
 		{"id":"da5dc57506fca1b7","type":"text","text":"[Thermodynamischer Aspekt](Thermodynamischer%20Aspekt.md)","x":1400,"y":1080,"width":250,"height":60,"color":"5"},
-		{"id":"1b5b332e710ccd55","type":"text","text":"[Aktivierungsenergie](Aktivierungsenergie.md)","x":1574,"y":1220,"width":250,"height":60,"color":"5"}
+		{"id":"1b5b332e710ccd55","type":"text","text":"[Aktivierungsenergie](Aktivierungsenergie.md)","x":1574,"y":1220,"width":250,"height":60,"color":"5"},
+		{"id":"324e6d9dffa121b7","x":-1185,"y":-171,"width":250,"height":60,"type":"text","text":"[[Calvin-Benson-Zyklus]]"}
 	],
 	"edges":[
 		{"id":"a5bfa3ba1b846a21","fromNode":"494766c5db6caa83","fromSide":"bottom","toNode":"5b4f1cdee3c97dd8","toSide":"top"},
