@@ -1,1 +1,2 @@
-- Bildung von Blätter
+- Reaktion der Pflanze nach einer längeren Zeit im Dunklen bei Aussetzung von Licht
+--> Ausgelöst durch Signale von Phytochromen
