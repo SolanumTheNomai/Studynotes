@@ -1,3 +1,3 @@
 - Chloroplast beeinflusst Genexpression im Zellkern
 
-- Dabei können Proteine nicht aus dem Chloroplasten
+- Dabei können Proteine nicht aus dem Chloroplasten exportiert werden 
