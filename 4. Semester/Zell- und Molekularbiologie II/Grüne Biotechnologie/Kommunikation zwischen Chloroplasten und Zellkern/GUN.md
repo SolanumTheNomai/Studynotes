@@ -1,1 +1,1 @@
-= Genomes Uncoupled --> Gene, welche 
+= Genomes Uncoupled --> Gene-Mutanten, bei den die Kommunikation zwischen den Organell (hier: Chloroplasten) und dem Zellkern gestört ist 
