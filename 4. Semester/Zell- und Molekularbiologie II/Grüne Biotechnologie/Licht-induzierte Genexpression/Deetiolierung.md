@@ -1,5 +1,7 @@
 - Reaktion der Pflanze nach einer längeren Zeit im Dunklen bei Aussetzung von Licht
---> Bildung von Blättern 
+--> Bildung von Blättern nach längeren Hypokotyl:
+![[Pasted image 20251014152923.png]]
+
 
 - Ausgelöst durch Signale von [[Phytochrome]] (Photorezeptor)
 --> Transkriptionsfaktoren beeinflussen dann die Pflanzenentwicklung:

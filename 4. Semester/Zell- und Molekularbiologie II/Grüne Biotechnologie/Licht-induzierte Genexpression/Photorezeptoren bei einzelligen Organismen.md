@@ -1,0 +1,2 @@
+- Cyanobakterien nutzen **Chromatic Adaptation:**
+--> Anpassung der LHC bei verschiedenen Lichtqualitäten 
