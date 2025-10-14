@@ -7,7 +7,7 @@
 --> Transkriptionsfaktoren beeinflussen dann die Pflanzenentwicklung:
 ![[Pasted image 20251014151708.png]]
 
-- Ubiquitin-Ligase-Komplex ubiquitiniert HY5-Komplex --> Abbau von HY5 --> Deetiolierungsgene gehemmt 
-
 - aktivierte Photorezeptoren destabilisieren den Ubiquitin-Ligase-Komplex --> HY5 kann Photomorphogenese durch Deetiolierungsgene
 ![[Pasted image 20251014152609.png]]
+
+- Ubiquitin-Ligase-Komplex ubiquitiniert HY5-Komplex --> Abbau von HY5 --> Deetiolierungsgene gehemmt 
