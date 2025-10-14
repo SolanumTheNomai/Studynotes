@@ -8,4 +8,7 @@
 
 
 **Biogene Signale:**
-- Signale aus den Plastiden, zur Koordinierung der Expression von PhANGs (photosynthesis-associated nuclear genes)
+- Signale aus den Plastiden, zur Koordinierung der Expression von PhANGs (photosynthesis-associated nuclear genes) **während** der Entwicklung zu reifen Chloroplasten
+
+**Operative Signale:**
+- Signale **nach** der Entwicklung zu reifen Chloroplasten zur Akklimatisierung an die Wachstumsbedingungen
