@@ -12,3 +12,4 @@
 
 **Operative Signale:**
 - Signale **nach** der Entwicklung zu reifen Chloroplasten zur Akklimatisierung an die Wachstumsbedingungen
+
