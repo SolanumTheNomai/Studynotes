@@ -4,4 +4,6 @@
 - Enzym besteht aus großen und kleinen UE (LSU & SSU)
 ![[Pasted image 20251014115624.png]]
 
-- SSU-Synthese 
+- SSU-Synthese im Nucleus
+- LSU-Synthese im Zellkern
+--> wenn Nucleos
