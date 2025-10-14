@@ -1,7 +1,7 @@
 **Lichtwahrnehmung:**
 - durch Chromophore
 	- Bilin (rot) --> [[Phytochrome]] als Protein
-	- Flavin (blau) --> Cryptochome als Protein
+	- Flavin (blau) --> [[Cryptochrome]] als Protein
 	- Tryptophan (UV)
 
 **Signaltransduktion:**
