@@ -5,3 +5,4 @@
 - Opine (sind C- und N-Quellen lediglich für das Bakterium)
 ![[Pasted image 20251014164928.png]]
 
+--> Gene der T-DNA können durch andere Gene ersetzt werden --> Einbau von Fremd-DNA in die Pflanze 
