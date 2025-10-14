@@ -1,0 +1,2 @@
+- Photorezeptoren mit Bilin als Chromophor
+- werden bei roten Licht aktiviert und bei dunkelroten Licht deaktiviert
