@@ -13,3 +13,9 @@
 **Operative Signale:**
 - Signale **nach** der Entwicklung zu reifen Chloroplasten zur Akklimatisierung an die Wachstumsbedingungen
 
+**positives Signal (keine PhANGs werden exprimiert):**
+- Häm
+**negatives Signal (PhANGs werden exprimiert):**
+- ROS
+
+
