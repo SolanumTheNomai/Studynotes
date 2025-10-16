@@ -1,1 +1,2 @@
-- 
+- Pumpen sollten niemals trocken laufen (zerstört die Gleitringdichtung)
+- Kavitation vermeiden (platzende Wasserbläschen zerstören Pumpblätter) --> Einrichtung einbauen, um temporäres Vakuum zu vermeiden
