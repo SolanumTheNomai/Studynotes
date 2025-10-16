@@ -1,8 +1,10 @@
-**Verdünnungsmethode:**
+**Methode zur Bestimmung von $BSB_5$:**
 - Abwasserprobe mit **Chlor-freiem Wasser** verdünnen (untersch. Verdünnungen) --> Chlor würde MOs abtöten
 	**Eingesetztes Verdünnungswasser:**
 	- Flusswasser ohne org. Anteile
-	- 
+	- Trinkwasser
+	- dest. Wasser, versetzt mit Salzen und Nährstoffen
+
 - Gesamtvolumen = 1L
 - Messen des Ausgangswertes an gelöstem $O_2$ in der Flüssigkeit
 
