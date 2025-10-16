@@ -10,4 +10,5 @@
 - pH zwischen 6,6 und 7,2
 - Vortemperierung der Flüssigkeit, sonst drohen Druckschwankungen durch Gasexpansion/-abnahme
 - Flasche muss luftdicht sein
-- dunkle Inkubation (keine phototrophen Organismen )
+- dunkle Inkubation (keine phototrophen Organismen)
+- optimaler Gasaustausch zwischen Gas- und Flüssigkeitsphase (sonst setzt der Druckabfall zu verzögert ein)
