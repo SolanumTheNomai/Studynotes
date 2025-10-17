@@ -3,4 +3,3 @@ EW = EZ + EGW
 - EZ: Einwohner
 - EGW: Einwohnergleichwerten
 
-EW = 
