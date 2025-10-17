@@ -2,10 +2,15 @@
 - Zellaufschluss durch Ammoniak und Ethanol 
 
 **Einflussfaktoren:**
-- Zeit:
+**Zeit:**
 ![[Pasted image 20251017123032.png]]
 
-- Wahl des Lösungsmittels:
+**Wahl des Lösungsmittels:**
 ![[Pasted image 20251017123135.png]]
 
-- Lösungsmittelkonzentration:
+**Lösungsmittelkonzentration:**
+![[Pasted image 20251017140011.png]]
+
+**Lösungsmittelkontaktzeit:**
+![[Pasted image 20251017140146.png]]
+
