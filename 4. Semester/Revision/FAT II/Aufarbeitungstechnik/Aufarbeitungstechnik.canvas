@@ -1,10 +1,15 @@
 {
 	"nodes":[
-		{"id":"9d1ca45fe4eb6f91","x":-347,"y":-261,"width":250,"height":60,"type":"text","text":""},
 		{"id":"c73428282f7d7dd4","type":"text","text":"Aufarbeitungstechnik","x":-173,"y":-100,"width":273,"height":74,"color":"3"},
-		{"id":"6e0df59b7789a187","type":"text","text":"[[Berechnungsgrundlagen]]","x":-16,"y":-253,"width":250,"height":60,"color":"3"}
+		{"id":"6e0df59b7789a187","type":"text","text":"[[Berechnungsgrundlagen]]","x":-16,"y":-253,"width":250,"height":60,"color":"3"},
+		{"id":"8befc1df47a8bf22","x":-400,"y":-340,"width":250,"height":60,"color":"3","type":"text","text":"Zellaufschluss"},
+		{"id":"9d1ca45fe4eb6f91","x":-620,"y":-520,"width":250,"height":60,"color":"3","type":"text","text":"[[Biologische Einflussfaktoren]]"},
+		{"id":"724c9bed760b17da","x":-320,"y":-600,"width":250,"height":60,"color":"3","type":"text","text":"[[chemischer Zellaufschluss durch Lösungsmittel]]"}
 	],
 	"edges":[
-		{"id":"9049716765442e99","fromNode":"c73428282f7d7dd4","fromSide":"top","toNode":"6e0df59b7789a187","toSide":"bottom"}
+		{"id":"9049716765442e99","fromNode":"c73428282f7d7dd4","fromSide":"top","toNode":"6e0df59b7789a187","toSide":"bottom"},
+		{"id":"286302a075be7721","fromNode":"c73428282f7d7dd4","fromSide":"top","toNode":"8befc1df47a8bf22","toSide":"bottom"},
+		{"id":"a880f38f398439ae","fromNode":"8befc1df47a8bf22","fromSide":"top","toNode":"9d1ca45fe4eb6f91","toSide":"bottom"},
+		{"id":"24785e7d79298fb0","fromNode":"8befc1df47a8bf22","fromSide":"top","toNode":"724c9bed760b17da","toSide":"bottom"}
 	]
 }
