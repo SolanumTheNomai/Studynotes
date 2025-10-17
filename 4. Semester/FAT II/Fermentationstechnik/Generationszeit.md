@@ -3,3 +3,6 @@
 
 **Formel für die Verdopplungszeit:**
 ![[Pasted image 20251017151834.png]]
+
+**Berechnung der Zellzahl anhand der Generationszahl n**
+![[Pasted image 20251017152036.png]]
