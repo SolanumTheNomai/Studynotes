@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"6fb16029bf790ccb","x":-170,"y":-120,"width":290,"height":80,"color":"3","type":"text","text":"Fermentationstechnik"},
+		{"id":"274ecb36b7ee1138","x":109,"y":-371,"width":250,"height":60,"color":"3","type":"text","text":"Mikrobielles Wachstum"},
+		{"id":"62fb41a6ccbb19c4","x":400,"y":-660,"width":250,"height":60,"color":"3","type":"text","text":"[[Wachstumsmodelle]]"},
+		{"id":"028cb6353877e15e","x":480,"y":-580,"width":250,"height":60,"color":"3","type":"text","text":"[[Wachstumsphasen]]"},
+		{"id":"c60588af67b77f60","x":880,"y":-640,"width":250,"height":60,"color":"3","type":"text","text":"[[Wachstumsrate µ]]"},
+		{"id":"38c29adce9fd2c88","x":840,"y":-540,"width":250,"height":60,"color":"3","type":"text","text":"[[StudyNotes/4. Semester/FAT II/Fermentationstechnik/Generationszeit|Generationszeit]]"},
+		{"id":"182b8bccdf9d3752","x":580,"y":-460,"width":250,"height":60,"color":"3","type":"text","text":"[[Messmethoden des Zellwachstums]]"},
+		{"id":"4799f36c693f05f2","x":940,"y":-340,"width":250,"height":60,"color":"3","type":"text","text":"[[Zelltrockenmasse]]"},
+		{"id":"74f95c4c8aaad222","x":940,"y":-420,"width":250,"height":60,"color":"3","type":"text","text":"[[optische Dichte]]"},
+		{"id":"0f5779789f2f98f4","x":920,"y":-260,"width":250,"height":60,"color":"3","type":"text","text":"[[Backscatter]]"}
+	],
+	"edges":[
+		{"id":"9fdcfa1e7d248433","fromNode":"6fb16029bf790ccb","fromSide":"top","toNode":"274ecb36b7ee1138","toSide":"bottom"},
+		{"id":"a6001ad2ebae5242","fromNode":"274ecb36b7ee1138","fromSide":"right","toNode":"62fb41a6ccbb19c4","toSide":"left"},
+		{"id":"003002cc4691f10a","fromNode":"274ecb36b7ee1138","fromSide":"right","toNode":"028cb6353877e15e","toSide":"left"},
+		{"id":"b9150ff841bd1bf0","fromNode":"028cb6353877e15e","fromSide":"right","toNode":"c60588af67b77f60","toSide":"left"},
+		{"id":"319f4e569783fadb","fromNode":"028cb6353877e15e","fromSide":"right","toNode":"38c29adce9fd2c88","toSide":"left"},
+		{"id":"feca0d88ae3c9086","fromNode":"274ecb36b7ee1138","fromSide":"right","toNode":"182b8bccdf9d3752","toSide":"left"},
+		{"id":"c96131dd8815e01e","fromNode":"182b8bccdf9d3752","fromSide":"right","toNode":"74f95c4c8aaad222","toSide":"left"},
+		{"id":"6aeba707dd65dacb","fromNode":"182b8bccdf9d3752","fromSide":"right","toNode":"4799f36c693f05f2","toSide":"left"},
+		{"id":"cf6319cf96f3d63c","fromNode":"182b8bccdf9d3752","fromSide":"right","toNode":"0f5779789f2f98f4","toSide":"left"}
+	]
+}
