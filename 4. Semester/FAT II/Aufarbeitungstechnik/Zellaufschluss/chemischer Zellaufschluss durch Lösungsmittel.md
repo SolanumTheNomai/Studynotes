@@ -2,7 +2,7 @@
 - Zellaufschluss durch Ammoniak und Ethanol 
 **Probleme:**
 - im größeren Maßstab nicht praktikabel (Trocknung aufwendig, Lösungsmittel im großen Maßstab gefährlich)
-- pot. 
+- potenzielle Denaturierung der Proteine durch die Lösungsmittel
 
 **Einflussfaktoren:**
 **Zeit:**
