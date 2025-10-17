@@ -1,1 +1,6 @@
-- Mess
+- BSB schätzen und Volumina dementsprechend anpassen
+- homogenisierte Probe in die Flasche geben
+- Magnetrührer in Flasche geben (gute Durchmischung notwendig, um optimalen Gasaustausch zu gewährleisten)
+- NaOH zugeben 
+- Druckmesser mit Flasche verbinden (luftdicht)
+- Messflaschen dunkel bei 20°C 5 Tage inkubieren 
