@@ -7,7 +7,17 @@
 		{"id":"edea9c54ae385c4c","type":"text","text":"[[Berechnung der Durchsatzleistung]]","x":-240,"y":-680,"width":250,"height":60,"color":"3"},
 		{"id":"d27e4115dd6b866d","type":"text","text":"[[Praktische Aspekte von Pumpen]]","x":40,"y":-720,"width":250,"height":60,"color":"3"},
 		{"id":"04e16abbb1179f89","type":"text","text":"[[Trinkwassergewinnung in Berlin]]","x":374,"y":-840,"width":250,"height":60,"color":"3"},
-		{"id":"fe6e61a55f289144","type":"text","text":"[[Flusswasser zur Trinkwassergewinnung]]","x":300,"y":-694,"width":250,"height":60,"color":"3"}
+		{"id":"fe6e61a55f289144","type":"text","text":"[[Flusswasser zur Trinkwassergewinnung]]","x":300,"y":-694,"width":250,"height":60,"color":"3"},
+		{"id":"d811274ff328a88f","x":600,"y":-120,"width":250,"height":60,"color":"3","type":"text","text":"Abwasserverunreinigung"},
+		{"id":"e5c8e020bd0940f0","x":1380,"y":-280,"width":250,"height":60,"color":"3","type":"text","text":"[[Verdünnungsmethode]]"},
+		{"id":"f0db98dbb531cd9d","x":1483,"y":-169,"width":250,"height":60,"color":"3","type":"text","text":"[[Manometrische Messung]]"},
+		{"id":"d9593e6e994bed93","x":1840,"y":-240,"width":250,"height":60,"color":"3","type":"text","text":"[[Durchführung der Manometrischen Messung]]"},
+		{"id":"131e45569d53ed86","x":2180,"y":-300,"width":250,"height":60,"color":"3","type":"text","text":"[[Interpretation der Messkurven]]"},
+		{"id":"3943e0494d950dd0","x":2260,"y":-220,"width":250,"height":60,"color":"3","type":"text","text":"[[Hemmung der Nitrifizierung]]"},
+		{"id":"9696b581e53152d3","x":1380,"y":-60,"width":250,"height":60,"color":"3","type":"text","text":"[[Respirometrie]]"},
+		{"id":"ae6f6d77cd70cac0","x":980,"y":-140,"width":120,"height":60,"color":"3","type":"text","text":"[[BSB]]"},
+		{"id":"de9c10dd3c3f2ef1","x":1000,"y":120,"width":100,"height":50,"color":"3","type":"text","text":"[[CSB]]"},
+		{"id":"14e1bf22b87e76fb","x":1060,"y":0,"width":250,"height":60,"color":"3","type":"text","text":"[[CSB-BSB5-Verhältnis]]"}
 	],
 	"edges":[
 		{"id":"c656e5746aa228a1","fromNode":"0128e4b172cd6a69","fromSide":"top","toNode":"c202e5c4d5f259be","toSide":"bottom"},
@@ -16,6 +26,17 @@
 		{"id":"9e8eaf7ef80ba837","fromNode":"fe6e61a55f289144","fromSide":"top","toNode":"04e16abbb1179f89","toSide":"bottom"},
 		{"id":"a2891ed8d4d34936","fromNode":"c202e5c4d5f259be","fromSide":"top","toNode":"129b4fe91b0b60f9","toSide":"left"},
 		{"id":"fa39f3f9ea4c9b73","fromNode":"1ab9054a511985be","fromSide":"top","toNode":"edea9c54ae385c4c","toSide":"bottom"},
-		{"id":"e31ea0dde39af47e","fromNode":"c202e5c4d5f259be","fromSide":"top","toNode":"d27e4115dd6b866d","toSide":"bottom"}
+		{"id":"e31ea0dde39af47e","fromNode":"c202e5c4d5f259be","fromSide":"top","toNode":"d27e4115dd6b866d","toSide":"bottom"},
+		{"id":"c559c66219000ad9","fromNode":"0128e4b172cd6a69","fromSide":"right","toNode":"d811274ff328a88f","toSide":"left"},
+		{"id":"a1137056a821a396","fromNode":"d811274ff328a88f","fromSide":"right","toNode":"ae6f6d77cd70cac0","toSide":"left"},
+		{"id":"0da4b5825d44077f","fromNode":"ae6f6d77cd70cac0","fromSide":"right","toNode":"e5c8e020bd0940f0","toSide":"left"},
+		{"id":"1db8b6ff24ef11c3","fromNode":"ae6f6d77cd70cac0","fromSide":"right","toNode":"f0db98dbb531cd9d","toSide":"left"},
+		{"id":"c2893be3d2df529d","fromNode":"f0db98dbb531cd9d","fromSide":"right","toNode":"d9593e6e994bed93","toSide":"left"},
+		{"id":"4dfce834140c9352","fromNode":"d9593e6e994bed93","fromSide":"right","toNode":"131e45569d53ed86","toSide":"left"},
+		{"id":"f57bc68f627593c6","fromNode":"d9593e6e994bed93","fromSide":"right","toNode":"3943e0494d950dd0","toSide":"left"},
+		{"id":"7f33bbcc11015af1","fromNode":"ae6f6d77cd70cac0","fromSide":"right","toNode":"9696b581e53152d3","toSide":"left"},
+		{"id":"da1bbd825da290aa","fromNode":"d811274ff328a88f","fromSide":"right","toNode":"de9c10dd3c3f2ef1","toSide":"left"},
+		{"id":"acf184a1543c0c21","fromNode":"de9c10dd3c3f2ef1","fromSide":"top","toNode":"14e1bf22b87e76fb","toSide":"bottom"},
+		{"id":"63be06aef79a42e2","fromNode":"ae6f6d77cd70cac0","fromSide":"bottom","toNode":"14e1bf22b87e76fb","toSide":"top"}
 	]
 }
