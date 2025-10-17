@@ -1,12 +1,13 @@
 {
 	"nodes":[
-		{"id":"0128e4b172cd6a69","x":-120,"y":-120,"width":280,"height":80,"color":"3","type":"text","text":"Bio-Aufarbeitungstechnik"},
-		{"id":"c202e5c4d5f259be","x":119,"y":-397,"width":250,"height":60,"color":"3","type":"text","text":"Einführung"},
-		{"id":"1ab9054a511985be","x":-80,"y":-540,"width":250,"height":60,"color":"3","type":"text","text":"[[Umkehrosmose]]"},
-		{"id":"04e16abbb1179f89","x":320,"y":-740,"width":250,"height":60,"color":"3","type":"text","text":"[[Trinkwassergewinnung in Berlin]]"},
-		{"id":"fe6e61a55f289144","x":246,"y":-594,"width":250,"height":60,"color":"3","type":"text","text":"[[Flusswasser zur Trinkwassergewinnung]]"},
-		{"id":"129b4fe91b0b60f9","x":680,"y":-500,"width":250,"height":60,"color":"3","type":"text","text":"[[Entsalzung durch Elektrodialyse]]"},
-		{"id":"edea9c54ae385c4c","x":-240,"y":-680,"width":250,"height":60,"color":"3","type":"text","text":"[[Berechnung der Durchsatzleistung]]"}
+		{"id":"0128e4b172cd6a69","type":"text","text":"Bio-Aufarbeitungstechnik","x":-120,"y":-120,"width":280,"height":80,"color":"3"},
+		{"id":"c202e5c4d5f259be","type":"text","text":"Einführung","x":119,"y":-397,"width":250,"height":60,"color":"3"},
+		{"id":"1ab9054a511985be","type":"text","text":"[[Umkehrosmose]]","x":-80,"y":-540,"width":250,"height":60,"color":"3"},
+		{"id":"129b4fe91b0b60f9","type":"text","text":"[[Entsalzung durch Elektrodialyse]]","x":680,"y":-500,"width":250,"height":60,"color":"3"},
+		{"id":"edea9c54ae385c4c","type":"text","text":"[[Berechnung der Durchsatzleistung]]","x":-240,"y":-680,"width":250,"height":60,"color":"3"},
+		{"id":"d27e4115dd6b866d","type":"text","text":"[[Praktische Aspekte von Pumpen]]","x":40,"y":-720,"width":250,"height":60,"color":"3"},
+		{"id":"04e16abbb1179f89","type":"text","text":"[[Trinkwassergewinnung in Berlin]]","x":374,"y":-840,"width":250,"height":60,"color":"3"},
+		{"id":"fe6e61a55f289144","type":"text","text":"[[Flusswasser zur Trinkwassergewinnung]]","x":300,"y":-694,"width":250,"height":60,"color":"3"}
 	],
 	"edges":[
 		{"id":"c656e5746aa228a1","fromNode":"0128e4b172cd6a69","fromSide":"top","toNode":"c202e5c4d5f259be","toSide":"bottom"},
@@ -14,6 +15,7 @@
 		{"id":"94a4b880fc6fe6a3","fromNode":"c202e5c4d5f259be","fromSide":"top","toNode":"fe6e61a55f289144","toSide":"bottom"},
 		{"id":"9e8eaf7ef80ba837","fromNode":"fe6e61a55f289144","fromSide":"top","toNode":"04e16abbb1179f89","toSide":"bottom"},
 		{"id":"a2891ed8d4d34936","fromNode":"c202e5c4d5f259be","fromSide":"top","toNode":"129b4fe91b0b60f9","toSide":"left"},
-		{"id":"fa39f3f9ea4c9b73","fromNode":"1ab9054a511985be","fromSide":"top","toNode":"edea9c54ae385c4c","toSide":"bottom"}
+		{"id":"fa39f3f9ea4c9b73","fromNode":"1ab9054a511985be","fromSide":"top","toNode":"edea9c54ae385c4c","toSide":"bottom"},
+		{"id":"e31ea0dde39af47e","fromNode":"c202e5c4d5f259be","fromSide":"top","toNode":"d27e4115dd6b866d","toSide":"bottom"}
 	]
 }
