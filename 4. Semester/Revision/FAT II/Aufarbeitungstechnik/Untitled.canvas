@@ -1,12 +1,13 @@
 {
 	"nodes":[
-		{"id":"7007f9fe8a3f926a","x":-227,"y":-105,"width":250,"height":60,"type":"text","text":"Chi"},
-		{"id":"73251d28c36a6322","x":-40,"y":-250,"width":250,"height":60,"type":"text","text":"Julika"},
-		{"id":"5b4945a9d1e10913","x":-515,"y":-310,"width":250,"height":60,"type":"text","text":"Lena"},
-		{"id":"77f96d64f0355806","x":-40,"y":-560,"width":250,"height":60,"type":"text","text":"Carina"},
-		{"id":"8ded26fc34887bc5","x":-600,"y":-530,"width":250,"height":60,"type":"text","text":"Jannick"},
-		{"id":"3e8d81f95923ab00","x":-640,"y":-700,"width":250,"height":60,"type":"text","text":"Leon"},
-		{"id":"102e01a485fd8fd1","x":-2080,"y":-60,"width":250,"height":60,"type":"text","text":"Cedric"}
+		{"id":"4e164f520e9a069d","type":"group","x":-660,"y":-720,"width":890,"height":695,"label":"Gruppe"},
+		{"id":"7007f9fe8a3f926a","type":"text","text":"Chi","x":-227,"y":-105,"width":250,"height":60},
+		{"id":"73251d28c36a6322","type":"text","text":"Julika","x":-40,"y":-250,"width":250,"height":60},
+		{"id":"5b4945a9d1e10913","type":"text","text":"Lena","x":-515,"y":-310,"width":250,"height":60},
+		{"id":"77f96d64f0355806","type":"text","text":"Carina","x":-40,"y":-560,"width":250,"height":60},
+		{"id":"8ded26fc34887bc5","type":"text","text":"Jannick","x":-600,"y":-530,"width":250,"height":60},
+		{"id":"3e8d81f95923ab00","type":"text","text":"Leon","x":-640,"y":-700,"width":250,"height":60},
+		{"id":"102e01a485fd8fd1","type":"text","text":"Cedric","x":-2080,"y":-60,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"d2e093f72103e1fb","fromNode":"102e01a485fd8fd1","fromSide":"right","toNode":"7007f9fe8a3f926a","toSide":"left"},
@@ -22,7 +23,7 @@
 		{"id":"7531d8c43bccfa49","fromNode":"8ded26fc34887bc5","fromSide":"bottom","toNode":"5b4945a9d1e10913","toSide":"top","label":"Uni 1. Semester"},
 		{"id":"e80b809606791129","fromNode":"77f96d64f0355806","fromSide":"left","toNode":"5b4945a9d1e10913","toSide":"right","label":"Dc"},
 		{"id":"0069a49120dba280","fromNode":"77f96d64f0355806","fromSide":"left","toNode":"8ded26fc34887bc5","toSide":"right","label":"Dc"},
-		{"id":"fe368397f11ebded","fromNode":"77f96d64f0355806","fromSide":"left","toNode":"3e8d81f95923ab00","toSide":"right","label":"Dc"},
+		{"id":"fe368397f11ebded","fromNode":"77f96d64f0355806","fromSide":"left","toNode":"3e8d81f95923ab00","toSide":"right","label":"Valo"},
 		{"id":"db9d3a29bf28f1e8","fromNode":"8ded26fc34887bc5","fromSide":"top","toNode":"3e8d81f95923ab00","toSide":"bottom"},
 		{"id":"6ee6f781bf54c129","fromNode":"3e8d81f95923ab00","fromSide":"bottom","toNode":"8ded26fc34887bc5","toSide":"top","color":"1","label":"Schule --> <3"},
 		{"id":"d5c91b586815d573","fromNode":"3e8d81f95923ab00","fromSide":"left","toNode":"5b4945a9d1e10913","toSide":"left","label":"Dc"},
@@ -33,11 +34,7 @@
 		{"id":"0a5a156c600f6b65","fromNode":"3e8d81f95923ab00","fromSide":"right","toNode":"73251d28c36a6322","toSide":"left"},
 		{"id":"fe85cd28236f5f1d","fromNode":"8ded26fc34887bc5","fromSide":"right","toNode":"73251d28c36a6322","toSide":"left"},
 		{"id":"bf42af8a3dbc8bd8","fromNode":"77f96d64f0355806","fromSide":"left","toNode":"5b4945a9d1e10913","toSide":"right"},
-		{"id":"d06101198ca3258b","fromNode":"5b4945a9d1e10913","fromSide":"left","toNode":"102e01a485fd8fd1","toSide":"top"},
-		{"id":"66d30aeb64b3be1b","fromNode":"102e01a485fd8fd1","fromSide":"top","toNode":"5b4945a9d1e10913","toSide":"left","label":"???"},
-		{"id":"55dd0e6c702add29","fromNode":"102e01a485fd8fd1","fromSide":"top","toNode":"8ded26fc34887bc5","toSide":"left"},
-		{"id":"b319b948baefa2b8","fromNode":"8ded26fc34887bc5","fromSide":"left","toNode":"102e01a485fd8fd1","toSide":"top","label":"Dc"},
-		{"id":"522843b6392854b9","fromNode":"102e01a485fd8fd1","fromSide":"top","toNode":"3e8d81f95923ab00","toSide":"left"},
-		{"id":"f4189664bc86f5f0","fromNode":"3e8d81f95923ab00","fromSide":"left","toNode":"102e01a485fd8fd1","toSide":"top"}
+		{"id":"c201e0431aebb69e","fromNode":"4e164f520e9a069d","fromSide":"left","toNode":"102e01a485fd8fd1","toSide":"top","label":"Dc (??? bei Lena)"},
+		{"id":"563b67ea556a6f59","fromNode":"102e01a485fd8fd1","fromSide":"top","toNode":"4e164f520e9a069d","toSide":"left"}
 	]
 }
