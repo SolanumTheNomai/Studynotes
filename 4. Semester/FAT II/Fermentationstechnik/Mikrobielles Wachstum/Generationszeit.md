@@ -6,3 +6,5 @@
 
 **Berechnung der Zellzahl anhand der Generationszahl n**
 ![[Pasted image 20251017152036.png]]
+
+
