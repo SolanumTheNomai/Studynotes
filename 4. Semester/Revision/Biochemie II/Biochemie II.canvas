@@ -52,7 +52,7 @@
 		{"id":"1be97795d7ec740e","type":"text","text":"[Regulation der Glykolyse im Muskel](Regulation%20der%20Glykolyse%20im%20Muskel.md)","x":160,"y":663,"width":250,"height":60,"color":"3"},
 		{"id":"9db443cec68e7db8","type":"text","text":"[Regulation der Glykolyse in der Leber](Regulation%20der%20Glykolyse%20in%20der%20Leber.md)","x":160,"y":783,"width":250,"height":61,"color":"3"},
 		{"id":"637ed85c2cb048da","type":"text","text":"[Bildung von F-2,6-BP in der Leber](Bildung%20von%20F-2,6-BP%20in%20der%20Leber.md)","x":0,"y":903,"width":250,"height":60,"color":"3"},
-		{"id":"587c96441213dcb7","type":"text","text":"[Regulation der PFK2-FBPase2](Regulation%20der%20PFK2-FBPase2.md)","x":-84,"y":1024,"width":250,"height":60,"color":"3"},
+		{"id":"587c96441213dcb7","type":"text","text":"[Regulation der PFK2-FBPase2](Regulation%20der%20PFK2-FBPase2.md)","x":-84,"y":1024,"width":250,"height":55,"color":"3"},
 		{"id":"220e31338a3b2afa","type":"text","text":"[Regulation der Pyruvatkinase in der Leber](Regulation%20der%20Pyruvatkinase%20in%20der%20Leber.md)","x":240,"y":983,"width":250,"height":80,"color":"3"},
 		{"id":"bcca6d10c22bba49","type":"text","text":"[Schlüsselenzyme](Schlüsselenzyme.md)","x":133,"y":240,"width":250,"height":60,"color":"3"},
 		{"id":"c4d218d82dbc58d8","type":"text","text":"Regulation der Glykolyse","x":469,"y":294,"width":250,"height":50,"color":"3"},
@@ -79,9 +79,9 @@
 		{"id":"f1985eb097a33044","type":"text","text":"[Addition von CoA an a-Ketoglutarat](Addition%20von%20CoA%20an%20a-Ketoglutarat.md)","x":2120,"y":1560,"width":250,"height":63,"color":"3"},
 		{"id":"74862c83f74a66b1","type":"text","text":"[Succinat-Bildung](Succinat-Bildung.md)","x":2120,"y":1680,"width":250,"height":60,"color":"3"},
 		{"id":"ea577275a08a6646","type":"text","text":"[Fumarat-Bildung](Fumarat-Bildung.md)","x":2120,"y":1800,"width":250,"height":60,"color":"3"},
-		{"id":"14706c5092077927","x":2120,"y":1920,"width":250,"height":60,"color":"3","type":"text","text":"[Regeneration von Oxalacetat](Regeneration%20von%20Oxalacetat.md)"},
-		{"id":"766bd80eb66f101f","x":1900,"y":720,"width":250,"height":60,"color":"3","type":"text","text":"[Regulation vom Citratzyklus](Regulation%20vom%20Citratzyklus.md)"},
-		{"id":"e85bc94946550f90","x":1000,"y":1400,"width":250,"height":60,"color":"3","type":"text","text":"[Calcium als Second Messenger](Calcium%20als%20Second%20Messenger.md)"}
+		{"id":"14706c5092077927","type":"text","text":"[Regeneration von Oxalacetat](Regeneration%20von%20Oxalacetat.md)","x":2120,"y":1920,"width":250,"height":60,"color":"3"},
+		{"id":"766bd80eb66f101f","type":"text","text":"[Regulation vom Citratzyklus](Regulation%20vom%20Citratzyklus.md)","x":1900,"y":720,"width":250,"height":60,"color":"3"},
+		{"id":"e85bc94946550f90","type":"text","text":"[Calcium als Second Messenger](Calcium%20als%20Second%20Messenger.md)","x":1000,"y":1400,"width":250,"height":60,"color":"3"}
 	],
 	"edges":[
 		{"id":"15ced98db543e21f","fromNode":"ae2e60c3dfda0792","fromSide":"top","toNode":"69ec0aec80e8b817","toSide":"bottom"},
