@@ -1,0 +1,2 @@
+- kann in Atomorbitalen modelliert werden:
+- die Wahrscheinlichkeit, dass sich ein Elektron innerhalb dieses Orbitals befindet beträgt 90%

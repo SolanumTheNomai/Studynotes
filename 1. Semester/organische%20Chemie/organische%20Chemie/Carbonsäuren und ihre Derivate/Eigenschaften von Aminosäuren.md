@@ -1,0 +1,1 @@
+- sind Ampholyte --> können als Säuren und Basen reagieren: ![](Pasted%20image%2020240115190737.png)

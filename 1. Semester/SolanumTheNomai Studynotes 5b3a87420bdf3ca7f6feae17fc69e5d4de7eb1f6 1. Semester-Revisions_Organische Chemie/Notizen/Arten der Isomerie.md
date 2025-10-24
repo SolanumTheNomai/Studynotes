@@ -1,0 +1,14 @@
+- Konstitutionsisomer --> Isomere, welche sich in der Konnektivität der Atome unterscheiden 
+- Konformationsisomer --> Isomere, lassen sich durch Drehungen in der Einfachbindung überführen 
+	- Sesselkonformation von Cyclohexan 
+		- große substituenten sind aufgrund der sterischen Hinderung äquatorial angeordnet, nicht axial 
+- Konfigurationsisomer --> Isomere, lassen sich durch das Brechen und Neuverknüpfen von Atomen ineinander überführen 
+	- Enantiomere: Verhalten sich wie Bild und Spiegelbild und sind nicht deckungsgleich (chiral)
+		- bestimmung des Drehwertes: 
+			- spezifischer Drehwert: Winkel : (C*L)
+			- %ee: Überschussenantiomer - Unterschussenantiomer
+			- Absolute Konfig durch: R-/S-Konfiguration --> nur das "beste Atom" betrachen, wenn gleich --> weiter suchen (Doppelbindung über Einfachbindung)
+			- D/L-Konfig, durch Fischer-Projektion (D = Subst. am weitesten vom oberen C-Atom entfernt auf rechts)
+	- Diastereomere: Verhalten sich nicht wie Bild und Spiegelbild (chiral/achiral)
+		- meso-Verbingen: mehrere Stereozentren (asymmetrisch substituiertes Atom), trotzdem achiral, also Besitz einer Symmetrieebene 
+

@@ -1,0 +1,1 @@
+- Konstrukt von mindestens 2 Atomen, welche [[chemische Bindungen]] eingehen 

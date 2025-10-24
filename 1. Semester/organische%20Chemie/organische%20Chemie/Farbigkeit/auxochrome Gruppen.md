@@ -1,0 +1,1 @@
+- Substituenten (z.B. Nitrogruppen, ...) --> Verschiebung zu längeren und kürzeren Wellenlängen + Farbintensivierung 

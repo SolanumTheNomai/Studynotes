@@ -1,0 +1,2 @@
+- Konfigurationsisomere, welche sich nicht wie Bild und Spiegelbild verhalten
+- unterscheiden sich in chemischen und physikalischen Eigenschaften und in ihren Drehwert 

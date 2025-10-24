@@ -1,0 +1,2 @@
+- Elektronen werden in einer Reaktion abgegeben --> Erhöhung der Oxidationszahl 
+- meist: Entfernung von Wasserstoffatomen aus dem Molekülen + Erhöhung der Anzahl an Kohlenstoff-Heteroatom-Bindungen --> elektronegativere Partner

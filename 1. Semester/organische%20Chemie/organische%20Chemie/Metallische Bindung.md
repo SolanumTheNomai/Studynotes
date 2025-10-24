@@ -1,0 +1,1 @@
+- Metalle haben die Eigenschaft durch ihre [[Orbitalstruktur]] relativ frei bewegliche Ionen zu besitzen --> Entstehung von Metallionen, welche mit den Elektronen und den Atomrümpfen als Gitter zusammengehalten werden 

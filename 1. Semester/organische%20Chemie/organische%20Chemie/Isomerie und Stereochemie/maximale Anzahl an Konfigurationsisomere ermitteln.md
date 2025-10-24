@@ -1,0 +1,2 @@
+- Anzahl: 2^n (n= Anzahl der asymmetrisch substituierten Atome)
+- wenn zwei oder mehr Verbindungen miteinander achiral sind, werden sie als einzelnes Isomer gezählt 

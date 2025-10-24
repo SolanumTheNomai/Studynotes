@@ -1,0 +1,1 @@
+- bei Molekülen mit freien Elektronenpaaren, Doppelbindungen und Elektronenlücken (Atome erfüllen die [Oktettregel](Oktettregel) nicht)

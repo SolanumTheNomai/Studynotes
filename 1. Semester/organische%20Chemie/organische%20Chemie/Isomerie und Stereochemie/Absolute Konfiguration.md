@@ -1,0 +1,2 @@
+- früher konnte man anhand der Drehung des polarisierten Lichts nicht die Art des Enantiomers bestimmen 
+--> absolute Konfiguration des Enantiomers war erst in 1951 möglich

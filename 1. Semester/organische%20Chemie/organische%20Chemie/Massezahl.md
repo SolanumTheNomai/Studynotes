@@ -1,0 +1,2 @@
+- beschreibt die Summe von Protonen und Neutronen im [[Atom]]
+- kann bei einen Element variieren ([[Isotope]])

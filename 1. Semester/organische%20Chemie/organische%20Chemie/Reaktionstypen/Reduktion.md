@@ -1,0 +1,2 @@
+- Aufnahme von Elektronen --> Oxidationszahl verringert 
+- meist: Einführung von Wasserstoff ans Molekül + Entfernung von Kohlenstoff-Heteroatom-Bindungen mit höheren EN

@@ -1,0 +1,2 @@
+- Kohlenstoffgerüst + daran gebundene [[funktionelle Gruppen]]
+- Moleküle kann man so verschiedenen Stoffklassen zuordnen

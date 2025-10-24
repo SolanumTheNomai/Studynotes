@@ -1,0 +1,2 @@
+- chem. Prozess:
+	- aus einem Enantiomer entsteht ein [Racemat](Racemat.md) 
